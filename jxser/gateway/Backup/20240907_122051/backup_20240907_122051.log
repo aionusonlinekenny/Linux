@@ -1,0 +1,514 @@
+[2024-09-07 12:20:51]Backup begin
+==Output Finish==
+Backup DataBase Finish..
+
+===========================================================
+==DataStatistics==
+TotalRole: 9
+ShaoLinRole: 1
+TianWangRole: 0
+TangMenRole: 1
+WuDuRole: 2
+EMeiRole: 1
+CuiYanRole: 0
+GaiBangRole: 1
+TianRenRole: 1
+WuDangRole: 1
+KunLunRole: 0
+BeginRole: 1
+NoFactionRole: 0
+------------------------------------------------
+TotalMoney: 1300794240.000000
+ShaoLinMoney: 882753529.000000
+TianWangMoney: 0.000000
+TangMenMoney: 95165469.000000
+WuDuMoney: 91.000000
+EMeiMoney: 114295393.000000
+CuiYanMoney: 0.000000
+GaiBangMoney: 84787817.000000
+TianRenMoney: 9057277.000000
+WuDangMoney: 114734664.000000
+KunLunMoney: 0.000000
+BeginMoney: 0.000000
+NoFactionMoney: 0.000000
+------------------------------------------------
+Distribution of The Role Level[1-200Level]: 
+Level	Total role	Total TranLifeCount[0]	Total TranLifeCount[1]	Total TranLifeCount[2]	Total TranLifeCount[3]	Total TranLifeCount[4]	Total TranLifeCount[5]	Total TranLifeCount[6]	Total TranLifeCount[7]	
+1Level Roles:	1	1							
+120Level Roles:	1	1							
+133Level Roles:	1	1							
+136Level Roles:	1	1							
+139Level Roles:	1	1							
+140Level Roles:	1	1							
+142Level Roles:	3	3							
+Level ExceptionalRoles: 1, Please Try to Search 'RoleDataError' In RoleListFile
+------------------------------------------------
+Distribution of role's TranLifeCount
+TranLifeCount[0]: 9
+------------------------------------------------
+TotalWllsHonor: 0
+TotalEnergy: 0
+
+===========================================================
+==Role's Statistics==:
+--------------Level--------------
+NhÀmŸDoanhŸDoanh	-1	1
+MÈcŸUy”nŸThanh	-2	2
+H≠ŸTrÛc	-3	3
+L˝ŸMπŸS«u	-4	4
+Th∏iŸ t	-5	5
+ßi“nŸB∏ŸQuan	-6	6
+Ki“uŸPhong	-7	7
+Master	-8	8
+	-9	9
+	-10	10
+--------------Money--------------
+H≠ŸTrÛc	882753529	0
+Th∏iŸ t	114734664	0
+NhÀmŸDoanhŸDoanh	114295393	0
+ßi“nŸB∏ŸQuan	95165469	0
+Ki“uŸPhong	84787817	0
+MÈcŸUy”nŸThanh	9057277	0
+L˝ŸMπŸS«u	91	0
+	0	0
+	0	0
+	0	0
+--------------Killer--------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Fortune--------------
+H≠ŸTrÛc	12358	0
+Th∏iŸ t	1606	0
+NhÀmŸDoanhŸDoanh	1600	0
+ßi“nŸB∏ŸQuan	1332	0
+Ki“uŸPhong	1187	0
+MÈcŸUy”nŸThanh	126	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------BossKiller--------------
+	0	1
+	0	2
+	0	3
+	0	4
+	0	5
+	0	6
+	0	7
+	0	8
+	0	9
+	0	10
+--------------LeagueWinner--------------
+	0	1
+	0	2
+	0	3
+	0	4
+	0	5
+	0	6
+	0	7
+	0	8
+	0	9
+	0	10
+--------------Faction NoFaction Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction NoFaction Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction ShaoLin Level Sort--------------
+H≠ŸTrÛc	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction ShaoLin Money Sort---------------
+H≠ŸTrÛc	882753529	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction TianWang Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction TianWang Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction TangMen Level Sort--------------
+ßi“nŸB∏ŸQuan	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction TangMen Money Sort---------------
+ßi“nŸB∏ŸQuan	95165469	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction WuDu Level Sort--------------
+L˝ŸMπŸS«u	-1	-1
+Master	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction WuDu Money Sort---------------
+L˝ŸMπŸS«u	91	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction EMei Level Sort--------------
+NhÀmŸDoanhŸDoanh	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction EMei Money Sort---------------
+NhÀmŸDoanhŸDoanh	114295393	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction CuiYan Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction CuiYan Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction GaiBang Level Sort--------------
+Ki“uŸPhong	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction GaiBang Money Sort---------------
+Ki“uŸPhong	84787817	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction TianRen Level Sort--------------
+MÈcŸUy”nŸThanh	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction TianRen Money Sort---------------
+MÈcŸUy”nŸThanh	9057277	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction WuDang Level Sort--------------
+Th∏iŸ t	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction WuDang Money Sort---------------
+Th∏iŸ t	114734664	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Faction KunLun Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Faction KunLun Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Camp BEGIN Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Camp BEGIN Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Camp JUSTICE Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Camp JUSTICE Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Camp EVIL Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Camp EVIL Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+--------------Camp BALANCE Level Sort--------------
+NhÀmŸDoanhŸDoanh	-1	-1
+MÈcŸUy”nŸThanh	-2	-1
+H≠ŸTrÛc	-3	-1
+L˝ŸMπŸS«u	-4	-1
+Th∏iŸ t	-5	-1
+ßi“nŸB∏ŸQuan	-6	-1
+Ki“uŸPhong	-7	-1
+Master	-8	-1
+	-9	-1
+	-10	-1
+--------------Camp BALANCE Money Sort---------------
+H≠ŸTrÛc	882753529	0
+Th∏iŸ t	114734664	0
+NhÀmŸDoanhŸDoanh	114295393	0
+ßi“nŸB∏ŸQuan	95165469	0
+Ki“uŸPhong	84787817	0
+MÈcŸUy”nŸThanh	9057277	0
+L˝ŸMπŸS«u	91	0
+	0	0
+	0	0
+	0	0
+--------------Camp FREE Level Sort--------------
+	-1	-1
+	-2	-1
+	-3	-1
+	-4	-1
+	-5	-1
+	-6	-1
+	-7	-1
+	-8	-1
+	-9	-1
+	-10	-1
+--------------Camp FREE Money Sort---------------
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+	0	0
+Role Number in Faction
+Sect NoFaction : 1
+Sect ShaoLin : 1
+Sect TianWang : 0
+Sect TangMen : 1
+Sect WuDu : 2
+Sect EMei : 1
+Sect CuiYan : 0
+Sect GaiBang : 1
+Sect TianRen : 1
+Sect WuDang : 1
+Sect KunLun : 0
+
+The Meney Top 1000 Role Rate in Faction
+Sect NoFaction : 0
+Sect ShaoLin : 1
+Sect TianWang : 0
+Sect TangMen : 1
+Sect WuDu : 1
+Sect EMei : 1
+Sect CuiYan : 0
+Sect GaiBang : 1
+Sect TianRen : 1
+Sect WuDang : 1
+Sect KunLun : 0
+
+The Level Top 1000 Role Rate in Faction
+Sect NoFaction : 0
+Sect ShaoLin : 1
+Sect TianWang : 0
+Sect TangMen : 1
+Sect WuDu : 2
+Sect EMei : 1
+Sect CuiYan : 0
+Sect GaiBang : 1
+Sect TianRen : 1
+Sect WuDang : 1
+Sect KunLun : 0
+
+Statistic count: 1
+Statistic[0]: 130
+
+[2024-09-07 12:20:54]Backup end

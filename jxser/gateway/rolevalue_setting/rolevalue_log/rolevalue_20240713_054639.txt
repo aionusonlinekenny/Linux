@@ -1,0 +1,28 @@
+[Begin]Account(kennylucia), Role(H­ÙTróc)
+Money(42900048): Value(600)
+[End]Item Evaluate
+[End]Account(kennylucia), Role(H­ÙTróc): ValueG(600), ValueS(0)
+[Begin]Account(kennylucia3), Role(KiÒuÙPhong)
+Money(25959777): Value(363)
+[End]Item Evaluate
+[End]Account(kennylucia3), Role(KiÒuÙPhong): ValueG(363), ValueS(0)
+[Begin]Account(kennylucia5), Role(LıÙM¹ÙSÇu)
+Money(2731713): Value(38)
+[End]Item Evaluate
+[End]Account(kennylucia5), Role(LıÙM¹ÙSÇu): ValueG(38), ValueS(0)
+[Begin]Account(kennylucia6), Role(MécÙUyÓnÙThanh)
+Money(872795): Value(12)
+[End]Item Evaluate
+[End]Account(kennylucia6), Role(MécÙUyÓnÙThanh): ValueG(12), ValueS(0)
+[Begin]Account(kennylucia2), Role(NhËmÙDoanhÙDoanh)
+Money(51093068): Value(715)
+[End]Item Evaluate
+[End]Account(kennylucia2), Role(NhËmÙDoanhÙDoanh): ValueG(715), ValueS(0)
+[Begin]Account(kennylucia4), Role(Th¸iÙÊt)
+Money(46609972): Value(652)
+[End]Item Evaluate
+[End]Account(kennylucia4), Role(Th¸iÙÊt): ValueG(652), ValueS(0)
+[Begin]Account(kennylucia1), Role(§iÒnÙB¸ÙQuan)
+Money(72735477): Value(1018)
+[End]Item Evaluate
+[End]Account(kennylucia1), Role(§iÒnÙB¸ÙQuan): ValueG(1018), ValueS(0)

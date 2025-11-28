@@ -1,0 +1,11 @@
+2025-11-09 21:22:11	heaven(version 2.02) log start....
+2025-11-10 05:22:11	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-11-10 05:22:14	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-11-10 13:22:11	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-11-10 13:22:14	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-11-10 21:22:11	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-11-10 21:22:14	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-11-11 05:22:11	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-11-11 05:22:14	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-11-11 13:22:11	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-11-11 13:22:14	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1

@@ -1,0 +1,44 @@
+[Begin]Account(kennylucia), Role(H­ÙTróc)
+Money(137184519): Value(1920)
+[End]Item Evaluate
+[End]Account(kennylucia), Role(H­ÙTróc): ValueG(1920), ValueS(0)
+[Begin]Account(kennylucia1), Role(§iÒnÙB¸ÙQuan)
+Money(86912570): Value(1216)
+[End]Item Evaluate
+[End]Account(kennylucia1), Role(§iÒnÙB¸ÙQuan): ValueG(1216), ValueS(0)
+[Begin]Account(kennylucia2), Role(NhËmÙDoanhÙDoanh)
+Money(117257934): Value(1641)
+[End]Item Evaluate
+[End]Account(kennylucia2), Role(NhËmÙDoanhÙDoanh): ValueG(1641), ValueS(0)
+[Begin]Account(kennylucia3), Role(KiÒuÙPhong)
+Money(81220958): Value(1137)
+[End]Item Evaluate
+[End]Account(kennylucia3), Role(KiÒuÙPhong): ValueG(1137), ValueS(0)
+[Begin]Account(kennylucia4), Role(Th¸iÙÊt)
+Money(107273236): Value(1501)
+[End]Item Evaluate
+[End]Account(kennylucia4), Role(Th¸iÙÊt): ValueG(1501), ValueS(0)
+[Begin]Account(kennylucia5), Role(LıÙM¹ÙSÇu)
+Money(13644224): Value(191)
+[End]Item Evaluate
+[End]Account(kennylucia5), Role(LıÙM¹ÙSÇu): ValueG(191), ValueS(0)
+[Begin]Account(kennylucia6), Role(MécÙUyÓnÙThanh)
+Money(9381182): Value(131)
+[End]Item Evaluate
+[End]Account(kennylucia6), Role(MécÙUyÓnÙThanh): ValueG(131), ValueS(0)
+[Begin]Account(kennylucia7), Role(Master)
+Money(10365211): Value(145)
+[End]Item Evaluate
+[End]Account(kennylucia7), Role(Master): ValueG(145), ValueS(0)
+[Begin]Account(kennylucia7), Role(GameMaster)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(kennylucia7), Role(GameMaster): ValueG(0), ValueS(0)
+[Begin]Account(namlee), Role(TrieuMan)
+Money(100625): Value(1)
+[End]Item Evaluate
+[End]Account(namlee), Role(TrieuMan): ValueG(1), ValueS(0)
+[Begin]Account(namlee), Role(Buff5d)
+Money(60296): Value(0)
+[End]Item Evaluate
+[End]Account(namlee), Role(Buff5d): ValueG(0), ValueS(0)

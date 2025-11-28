@@ -1,0 +1,310 @@
+2025-08-29 00:00:02	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2025-08-29 00:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 00:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 00:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 00:00:26	[Battle Log] Awarding Activity
+2025-08-29 00:00:26	[Battle Log] Awarding Single Player
+2025-08-29 00:00:26	[Battle Log] Awarding by Result
+2025-08-29 00:00:26	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 00:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 00:00:26	[Battle Log] Ready for kick Out
+2025-08-29 00:00:26	[Battle Log] Ending Misson End
+2025-08-29 00:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 00:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 00:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 00:00:26	[Battle Log] Awarding Activity
+2025-08-29 00:00:26	[Battle Log] Awarding Single Player
+2025-08-29 00:00:26	[Battle Log] Awarding by Result
+2025-08-29 00:00:26	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 00:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 00:00:26	[Battle Log] Ready for kick Out
+2025-08-29 00:00:26	[Battle Log] Ending Misson End
+2025-08-29 00:00:26	battle is ending. now member count=0:0
+2025-08-29 00:00:26	Khu vùc Cao cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00
+2025-08-29 00:30:02	BaiRenLeiTai	CallNPC_GuShou:960,58592,99200
+2025-08-29 09:22:00	[Thiªn Tr× MËt C¶nh][4tÇng]	2025-08-29 08:22			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2025-08-29 10:00:26	10:00,566,95,0,202,1535,3032,Cæ B¸ch
+2025-08-29 10:00:26	10:00,740,95,0,10,1667,3055,HuyÒn Gi¸c §¹i S­
+2025-08-29 10:00:26	10:00,1366,95,1,75,1717,3094,§­êng Phi YÕn
+2025-08-29 10:00:26	10:00,582,95,1,199,1445,2959,Lam Y Y
+2025-08-29 10:00:26	10:00,568,95,2,322,1938,3957,Hµ Linh Phiªu
+2025-08-29 10:00:26	10:00,744,95,2,225,1603,3221,Yªn HiÓu Tr¸i
+2025-08-29 10:00:26	10:00,583,95,3,80,1598,3313,M¹nh Th­¬ng L­¬ng
+2025-08-29 10:00:26	10:00,563,95,3,205,1495,3110,Gia LuËt TÞ Ly
+2025-08-29 10:00:26	10:00,562,95,4,340,1288,3304,§¹o Thanh Ch©n Nh©n
+2025-08-29 10:00:26	10:00,747,95,4,342,1253,2924,TuyÒn C¬ Tö
+2025-08-29 10:00:26	10:00,739,95,0,199,1602,3295,V­¬ng T¸
+2025-08-29 10:00:26	10:00,1365,95,0,162,1404,3417,HuyÒn Nan §¹i S­
+2025-08-29 10:00:26	10:00,741,95,1,11,2999,5266,§­êng BÊt NhiÔm
+2025-08-29 10:00:26	10:00,742,95,1,11,3346,4797,B¹ch Doanh Doanh
+2025-08-29 10:00:26	10:00,743,95,2,80,1723,3339,Thanh TuyÖt S­ Th¸i
+2025-08-29 10:00:26	10:00,567,95,2,204,1818,3460,Chung Linh Tó
+2025-08-29 10:00:26	10:00,745,95,3,10,1750,3193,Hµ Nh©n Ng·
+2025-08-29 10:00:26	10:00,565,95,3,76,1767,3086,§oan Méc DuÖ
+2025-08-29 10:00:26	10:00,1367,95,4,341,1331,3182,Tõ §¹i Nh¹c
+2025-08-29 10:00:26	10:00,1368,95,4,80,1934,2861,Thanh Liªn Tö
+2025-08-29 10:00:26	10:00,743,95,2,225,1401,3284,Thanh TuyÖt S­ Th¸i
+2025-08-29 10:50:26	Battle Start :1rule16Issue35
+2025-08-29 10:50:26	Battle Start :1rule16Issue35
+2025-08-29 10:50:26	Battle Start :1rule16Issue35
+2025-08-29 11:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 11:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 11:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 12:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 12:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 12:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 12:00:26	[Battle Log] Awarding Activity
+2025-08-29 12:00:26	[Battle Log] Awarding Single Player
+2025-08-29 12:00:26	[Battle Log] Awarding by Result
+2025-08-29 12:00:26	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 12:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 12:00:26	[Battle Log] Ready for kick Out
+2025-08-29 12:00:26	[Battle Log] Ending Misson End
+2025-08-29 12:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 12:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 12:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 12:00:26	[Battle Log] Awarding Activity
+2025-08-29 12:00:26	[Battle Log] Awarding Single Player
+2025-08-29 12:00:26	[Battle Log] Awarding by Result
+2025-08-29 12:00:26	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 12:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 12:00:26	[Battle Log] Ready for kick Out
+2025-08-29 12:00:26	[Battle Log] Ending Misson End
+2025-08-29 12:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 12:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 12:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 12:00:26	[Battle Log] Awarding Activity
+2025-08-29 12:00:26	[Battle Log] Awarding Single Player
+2025-08-29 12:00:26	[Battle Log] Awarding by Result
+2025-08-29 12:00:26	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 12:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 12:00:26	[Battle Log] Ready for kick Out
+2025-08-29 12:00:26	[Battle Log] Ending Misson End
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,25,135936,153600
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,13,72960,154624
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,81,59392,97792
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:T©y V­¬ng Tµ §éc,183,52224,109568
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:Do·n Thanh V©n,154,9984,54784
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:H¾c Y S¸t Thñ,115,49920,104960
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:Ng¹o Thiªn T­íng Qu©n,59,48128,99840
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:ThËp Ph­¬ng C©u DiÖt,45,50944,98304
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:Thanh Y Tö,131,44288,106496
+2025-08-29 12:30:26	[CALLBOSS FIXURE]	2025-08-29 11:30:26	BOSS tiÓu Hoµng Kim:TÞnh Th«ng,103,46080,112640
+2025-08-29 12:50:26	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:384.Thêi gian:12:50
+2025-08-29 12:50:26	Battle Start :1rule11Issue35
+2025-08-29 12:50:26	Khu vùc Trung cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê ngÉu nhiªn - b¾t ®Çu b¸o danh. ID khu vùc lµ:385.Thêi gian:12:50
+2025-08-29 12:50:26	Battle Start :1rule11Issue35
+2025-08-29 12:50:26	Battle Start :1rule16Issue35
+2025-08-29 13:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-08-29 13:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 13:00:26	Khu vùc S¬ cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:384.Thêi gian khai chiÕn:13:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-08-29 13:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 13:00:26	Khu vùc Trung cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê ngÉu nhiªn- ®· khai chiÕn. ID khu vùc lµ:385.Thêi gian khai chiÕn:13:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-08-29 13:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 13:30:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-08-29 14:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2025-08-29 14:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 14:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 14:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 14:00:26	[Battle Log] Awarding Activity
+2025-08-29 14:00:26	[Battle Log] Awarding Single Player
+2025-08-29 14:00:26	[Battle Log] Awarding by Result
+2025-08-29 14:00:26	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 14:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 14:00:26	[Battle Log] Ready for kick Out
+2025-08-29 14:00:26	[Battle Log] Ending Misson End
+2025-08-29 14:00:26	battle is ending. now member count=0:0
+2025-08-29 14:00:26	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc14:00
+2025-08-29 14:00:26	battle is ending. now member count=0:0
+2025-08-29 14:00:26	Khu vùc Trung cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc14:00
+2025-08-29 14:30:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-08-29 14:50:26	Khu vùc S¬ cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:868.Thêi gian:14:50
+2025-08-29 14:50:26	Battle Start :1rule58Issue35
+2025-08-29 14:50:26	Battle Start :1rule16Issue35
+2025-08-29 14:50:26	Battle Start :1rule16Issue35
+2025-08-29 15:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-08-29 15:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 15:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 15:00:26	Khu vùc S¬ cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 868. Thêi gian khai chiÕn: 25-08-29 14:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 15:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 15:30:02	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2025-08-29 16:00:02	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2025-08-29 16:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 16:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 16:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 16:00:26	[Battle Log] Awarding Activity
+2025-08-29 16:00:26	[Battle Log] Awarding Single Player
+2025-08-29 16:00:26	[Battle Log] Awarding by Result
+2025-08-29 16:00:26	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 16:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 16:00:26	[Battle Log] Ready for kick Out
+2025-08-29 16:00:26	[Battle Log] Ending Misson End
+2025-08-29 16:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 16:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 16:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 16:00:26	[Battle Log] Awarding Activity
+2025-08-29 16:00:26	[Battle Log] Awarding Single Player
+2025-08-29 16:00:26	[Battle Log] Awarding by Result
+2025-08-29 16:00:26	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 16:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 16:00:26	[Battle Log] Ready for kick Out
+2025-08-29 16:00:26	[Battle Log] Ending Misson End
+2025-08-29 16:00:26	battle is ending. now member count=0:0
+2025-08-29 16:00:26	Khu vùc S¬ cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc16:00
+2025-08-29 16:30:02	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2025-08-29 16:30:26	[SEVENCITY]Notify to close, step(4)
+2025-08-29 16:30:26	[SEVENCITY]close begin...
+2025-08-29 16:30:26	[SEVENCITY]close field(928) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(928)
+2025-08-29 16:30:26	[SEVENCITY]close field(928) end...
+2025-08-29 16:30:26	[SEVENCITY]close field(929) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(929)
+2025-08-29 16:30:26	[SEVENCITY]close field(929) end...
+2025-08-29 16:30:26	[SEVENCITY]close field(930) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(930)
+2025-08-29 16:30:26	[SEVENCITY]close field(930) end...
+2025-08-29 16:30:26	[SEVENCITY]close field(931) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(931)
+2025-08-29 16:30:26	[SEVENCITY]close field(931) end...
+2025-08-29 16:30:26	[SEVENCITY]close field(932) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(932)
+2025-08-29 16:30:26	[SEVENCITY]close field(932) end...
+2025-08-29 16:30:26	[SEVENCITY]close field(926) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(926)
+2025-08-29 16:30:26	[SEVENCITY]close field(926) end...
+2025-08-29 16:30:26	[SEVENCITY]close field(927) begin...
+2025-08-29 16:30:26	[SEVENCITY]none win field(927)
+2025-08-29 16:30:26	[SEVENCITY]close field(927) end...
+2025-08-29 16:30:26	[SEVENCITY]close end...
+2025-08-29 16:50:26	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:384.Thêi gian:16:50
+2025-08-29 16:50:26	Battle Start :1rule11Issue35
+2025-08-29 16:50:26	Battle Start :1rule16Issue35
+2025-08-29 16:50:26	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:16:50
+2025-08-29 16:50:26	Battle Start :1rule58Issue35
+2025-08-29 17:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2025-08-29 17:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 17:00:26	Khu vùc S¬ cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:384.Thêi gian khai chiÕn:17:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-08-29 17:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 17:00:26	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 25-08-29 16:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 17:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 17:30:02	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2025-08-29 18:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2025-08-29 18:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 18:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 18:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 18:00:26	[Battle Log] Awarding Activity
+2025-08-29 18:00:26	[Battle Log] Awarding Single Player
+2025-08-29 18:00:26	[Battle Log] Awarding by Result
+2025-08-29 18:00:26	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 18:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 18:00:26	[Battle Log] Ready for kick Out
+2025-08-29 18:00:26	[Battle Log] Ending Misson End
+2025-08-29 18:00:26	battle is ending. now member count=0:0
+2025-08-29 18:00:26	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc18:00
+2025-08-29 18:00:26	battle is ending. now member count=0:0
+2025-08-29 18:00:26	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc18:00
+2025-08-29 18:30:02	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2025-08-29 18:50:26	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:384.Thêi gian:18:50
+2025-08-29 18:50:26	Battle Start :1rule11Issue35
+2025-08-29 18:50:26	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:18:50
+2025-08-29 18:50:26	Battle Start :1rule58Issue35
+2025-08-29 18:50:26	Battle Start :1rule16Issue35
+2025-08-29 19:00:02	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2025-08-29 19:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 19:00:26	Khu vùc S¬ cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:384.Thêi gian khai chiÕn:19:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-08-29 19:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 19:00:26	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 25-08-29 18:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 19:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 19:30:02	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2025-08-29 19:45:26	19:45,1508,95,3,80,1511,3239,§éc C« Thiªn Phong
+2025-08-29 20:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2025-08-29 20:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 20:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 20:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 20:00:26	[Battle Log] Awarding Activity
+2025-08-29 20:00:26	[Battle Log] Awarding Single Player
+2025-08-29 20:00:26	[Battle Log] Awarding by Result
+2025-08-29 20:00:26	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 20:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 20:00:26	[Battle Log] Ready for kick Out
+2025-08-29 20:00:26	[Battle Log] Ending Misson End
+2025-08-29 20:00:26	battle is ending. now member count=0:0
+2025-08-29 20:00:26	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc20:00
+2025-08-29 20:00:26	battle is ending. now member count=0:0
+2025-08-29 20:00:26	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc20:00
+2025-08-29 20:00:26	[Thiªn Tr× MËt C¶nh][4tÇng]	2025-08-29 19:00			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,25,123392,169472
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,13,72960,154624
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,81,56064,107520
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:T©y V­¬ng Tµ §éc,183,46848,85504
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:Do·n Thanh V©n,154,9984,54784
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:H¾c Y S¸t Thñ,115,49920,104960
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:Ng¹o Thiªn T­íng Qu©n,59,48128,99840
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:ThËp Ph­¬ng C©u DiÖt,45,50944,98304
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:Thanh Y Tö,131,51712,97280
+2025-08-29 20:00:26	[CALLBOSS FIXURE]	2025-08-29 19:00:26	BOSS tiÓu Hoµng Kim:TÞnh Th«ng,103,46080,112640
+2025-08-29 20:10:26	20:10,1873,95,0,176,1754,2799,Tr­¬ng Tuyªn
+2025-08-29 20:15:26	20:15,1874,95,2,78,1682,3534,Kim ThÝ L­îng
+2025-08-29 20:20:26	20:20,1875,95,3,959,1503,3098,Mé Dung Toµn
+2025-08-29 20:30:02	BaiRenLeiTai	CallNPC_GuShou:960,53376,99296
+2025-08-29 20:50:26	Battle Start :1rule16Issue35
+2025-08-29 20:50:26	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:20:50
+2025-08-29 20:50:26	Battle Start :1rule58Issue35
+2025-08-29 20:50:26	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:20:50
+2025-08-29 20:50:26	Battle Start :1rule58Issue35
+2025-08-29 21:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-08-29 21:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 21:00:26	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 25-08-29 20:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 21:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 21:00:26	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 25-08-29 20:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 21:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 21:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2025-08-29 22:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2025-08-29 22:00:26	[Battle Log] Ending Misson Begin
+2025-08-29 22:00:26	[Battle Log] battle is ending. now member count=0:0
+2025-08-29 22:00:26	[Battle Log] Sorting World Ladder
+2025-08-29 22:00:26	[Battle Log] Awarding Activity
+2025-08-29 22:00:26	[Battle Log] Awarding Single Player
+2025-08-29 22:00:26	[Battle Log] Awarding by Result
+2025-08-29 22:00:26	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, phe Tèng giµnh ®­îc th¾ng lîi!
+2025-08-29 22:00:26	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2025-08-29 22:00:26	[Battle Log] Ready for kick Out
+2025-08-29 22:00:26	[Battle Log] Ending Misson End
+2025-08-29 22:00:26	battle is ending. now member count=0:0
+2025-08-29 22:00:26	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc22:00
+2025-08-29 22:00:26	battle is ending. now member count=0:0
+2025-08-29 22:00:26	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc22:00
+2025-08-29 22:00:26	22:00,566,95,0,76,1671,3220,Cæ B¸ch
+2025-08-29 22:00:26	22:00,740,95,0,80,1598,3313,HuyÒn Gi¸c §¹i S­
+2025-08-29 22:00:26	22:00,1366,95,1,336,1113,3134,§­êng Phi YÕn
+2025-08-29 22:00:26	22:00,582,95,1,78,1753,3121,Lam Y Y
+2025-08-29 22:00:26	22:00,568,95,2,322,1697,3511,Hµ Linh Phiªu
+2025-08-29 22:00:26	22:00,744,95,2,227,1658,3050,Yªn HiÓu Tr¸i
+2025-08-29 22:00:26	22:00,583,95,3,1,1404,3338,M¹nh Th­¬ng L­¬ng
+2025-08-29 22:00:26	22:00,563,95,3,205,1585,3226,Gia LuËt TÞ Ly
+2025-08-29 22:00:26	22:00,562,95,4,340,1893,3275,§¹o Thanh Ch©n Nh©n
+2025-08-29 22:00:26	22:00,747,95,4,342,1516,2802,TuyÒn C¬ Tö
+2025-08-29 22:00:26	22:00,739,95,0,11,2999,5266,V­¬ng T¸
+2025-08-29 22:00:26	22:00,1365,95,0,75,1793,3030,HuyÒn Nan §¹i S­
+2025-08-29 22:00:26	22:00,741,95,1,321,1065,3059,§­êng BÊt NhiÔm
+2025-08-29 22:00:26	22:00,742,95,1,224,1784,3096,B¹ch Doanh Doanh
+2025-08-29 22:00:26	22:00,743,95,2,11,2966,4807,Thanh TuyÖt S­ Th¸i
+2025-08-29 22:00:26	22:00,567,95,2,176,1162,2781,Chung Linh Tó
+2025-08-29 22:00:26	22:00,745,95,3,10,1773,2935,Hµ Nh©n Ng·
+2025-08-29 22:00:26	22:00,565,95,3,336,1475,2929,§oan Méc DuÖ
+2025-08-29 22:00:26	22:00,1367,95,4,199,1696,3034,Tõ §¹i Nh¹c
+2025-08-29 22:00:26	22:00,1368,95,4,78,1670,3462,Thanh Liªn Tö
+2025-08-29 22:00:26	22:00,743,95,2,227,1498,3398,Thanh TuyÖt S­ Th¸i
+2025-08-29 22:30:02	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2025-08-29 22:50:26	Battle Start :1rule16Issue35
+2025-08-29 22:50:26	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:22:50
+2025-08-29 22:50:26	Battle Start :1rule58Issue35
+2025-08-29 22:50:26	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:22:50
+2025-08-29 22:50:26	Battle Start :1rule58Issue35
+2025-08-29 23:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2025-08-29 23:00:26	marshal battle is entering fight state. now member count=0:0
+2025-08-29 23:00:26	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 25-08-29 22:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 23:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 23:00:26	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 25-08-29 22:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-08-29 23:00:26	battle is entering fight state. now member count=0:0
+2025-08-29 23:30:02	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192

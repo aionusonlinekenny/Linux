@@ -1,0 +1,8 @@
+[Begin]Account(kennylucia), Role(kennyLucia)
+Money(34481014): Value(482)
+[End]Item Evaluate
+[End]Account(kennylucia), Role(kennyLucia): ValueG(482), ValueS(0)
+[Begin]Account(kennylucia1), Role(KennyMask)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(kennylucia1), Role(KennyMask): ValueG(0), ValueS(0)

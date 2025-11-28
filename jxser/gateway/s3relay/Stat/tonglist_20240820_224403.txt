@@ -1,0 +1,3 @@
+TongCount=1, MemberCount=9, UnionCount=0
+TongName	MasterName	TongLevel	TongExp	SelfCamp	AllMemberCount	DirectorCount	ManagerCount	MemberCount	BuildLevel	MoneyFund	BuildFund	WarBuildFund	MaintainFund	StoredOffer	StoredBuildFund	UnionNum	UnionName	IsUnionLeader	UnionCamp
+Th«nLong	MÈŸDung	100	3000	1	9	0	0	8	0	323215369	1315231	999990	0	0	0	0		0	0

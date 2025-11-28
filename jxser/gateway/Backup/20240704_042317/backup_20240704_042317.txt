@@ -1,0 +1,6 @@
+Account	RoleName	Faction	Level	Money	TranLifeCount	WllsHonor	Energy	PetName	PetLevel
+kennylucia	H­ÙTróc	Begin	1	0	0	0	0		0
+kennylucia1	KennyMask	Begin	1	0	0	0	0		0
+kennylucia	kennyLucia	TianWang	125	36768423	0	0	2900		0
+kennylucia	kennyLucia	TianWang	125	36768423
+==Output Finish==

@@ -1,0 +1,22 @@
+Account	RoleName	Faction	Level	Money	TranLifeCount	WllsHonor	Energy	PetName	PetLevel
+kennylucia	H­ÙTróc	ShaoLin	153	1164967619	0	0	0		0
+kennylucia	H­ÙTróc	ShaoLin	153	1164967619
+kennylucia1	§iÒnÙB¸ÙQuan	TangMen	151	203631080	0	0	0		0
+kennylucia1	§iÒnÙB¸ÙQuan	TangMen	151	203631080
+kennylucia2	NhËmÙDoanhÙDoanh	EMei	153	284241339	0	0	0		0
+kennylucia2	NhËmÙDoanhÙDoanh	EMei	153	284241339
+kennylucia3	KiÒuÙPhong	GaiBang	149	153806093	0	0	0		0
+kennylucia3	KiÒuÙPhong	GaiBang	149	153806093
+kennylucia4	Th¸iÙÊt	WuDang	152	291771528	0	0	0		0
+kennylucia4	Th¸iÙÊt	WuDang	152	291771528
+kennylucia5	LıÙM¹ÙSÇu	WuDu	148	907842876	0	0	0		0
+kennylucia5	LıÙM¹ÙSÇu	WuDu	148	907842876
+kennylucia6	MécÙUyÓnÙThanh	TianRen	149	15969174	0	0	0		0
+kennylucia6	MécÙUyÓnÙThanh	TianRen	149	15969174
+kennylucia7	NghiÙL©m	CuiYan	139	47225817	0	0	0		0
+kennylucia7	NghiÙL©m	CuiYan	139	47225817
+kennylucia8	TiÓuÙLongÙN÷	KunLun	134	99960804	0	0	0		0
+kennylucia8	TiÓuÙLongÙN÷	KunLun	134	99960804
+kennylucia9	Tr­¬ngÙTamÙPhong	TianWang	140	87084718	0	0	0		0
+kennylucia9	Tr­¬ngÙTamÙPhong	TianWang	140	87084718
+==Output Finish==

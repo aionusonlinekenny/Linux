@@ -1,0 +1,13 @@
+Tong[1]: ThÇnLong
+MemberName	Offer
+MéÙDung	0
+§iÒnÙB¸ÙQuan	0
+Th¸iÙÊt	0
+MécÙUyÓnÙThanh	0
+NghiÙL©m	0
+NhËmÙDoanhÙDoanh	0
+KiÒuÙPhong	0
+LıÙM¹ÙSÇu	0
+H­ÙTróc	0
+MemberCount: 9
+------------------------------------------------------------

@@ -1,0 +1,14 @@
+Tong[1]: HoµngGia
+MemberName	Offer
+H­ÙTróc	0
+§iÒnÙB¸ÙQuan	0
+NhËmÙDoanhÙDoanh	102222
+KiÒuÙPhong	0
+Th¸iÙÊt	0
+LıÙM¹ÙSÇu	0
+MécÙUyÓnÙThanh	0
+NghiÙL©m	0
+TiÓuÙLongÙN÷	0
+Tr­¬ngÙTamÙPhong	0
+MemberCount: 10
+------------------------------------------------------------

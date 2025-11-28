@@ -1,0 +1,27 @@
+2025-09-12 00:12:44	heaven(version 2.02) log start....
+2025-09-12 00:13:08	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:15
+2025-09-12 00:13:36	Allocate Connectionidx:1, IP:127.0.0.1, LeftFreeCount:14
+2025-09-12 11:35:20	Allocate Connectionidx:2, IP:88.214.25.124, LeftFreeCount:13
+2025-09-12 11:35:20	Callback Connectionidx:2, CloseReason:3, IP:88.214.25.124, LeftFreeCount: 14
+2025-09-12 13:12:26	Allocate Connectionidx:3, IP:20.168.120.251, LeftFreeCount:13
+2025-09-12 13:12:26	Callback Connectionidx:3, CloseReason:3, IP:20.168.120.251, LeftFreeCount: 14
+2025-09-12 18:11:16	Allocate Connectionidx:4, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:16	Callback Connectionidx:4, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-12 18:11:17	Allocate Connectionidx:5, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:17	Callback Connectionidx:5, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-12 18:11:17	Allocate Connectionidx:6, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:17	Callback Connectionidx:6, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-12 18:11:18	Allocate Connectionidx:7, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:18	Callback Connectionidx:7, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-12 18:11:19	Allocate Connectionidx:8, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:19	Callback Connectionidx:8, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-12 18:11:19	Allocate Connectionidx:9, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:19	Callback Connectionidx:9, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-12 18:11:20	Allocate Connectionidx:10, IP:152.32.156.95, LeftFreeCount:13
+2025-09-12 18:11:20	Callback Connectionidx:10, CloseReason:3, IP:152.32.156.95, LeftFreeCount: 14
+2025-09-13 15:35:49	Allocate Connectionidx:11, IP:194.165.16.163, LeftFreeCount:13
+2025-09-13 15:35:49	Callback Connectionidx:11, CloseReason:3, IP:194.165.16.163, LeftFreeCount: 14
+2025-09-14 03:44:33	Allocate Connectionidx:12, IP:20.168.7.42, LeftFreeCount:13
+2025-09-14 03:44:33	Callback Connectionidx:12, CloseReason:3, IP:20.168.7.42, LeftFreeCount: 14
+2025-09-14 18:30:24	Allocate Connectionidx:13, IP:194.165.16.162, LeftFreeCount:13
+2025-09-14 18:30:24	Callback Connectionidx:13, CloseReason:3, IP:194.165.16.162, LeftFreeCount: 14

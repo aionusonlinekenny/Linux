@@ -1,0 +1,17 @@
+2025-07-10 08:19:45	heaven(version 2.02) log start....
+2025-07-10 10:39:27	Allocate Connectionidx:0, IP:206.168.34.66, LeftFreeCount:1199
+2025-07-10 10:39:29	Callback Connectionidx:0, CloseReason:5, IP:206.168.34.66, LeftFreeCount: 1200
+2025-07-10 10:39:33	Allocate Connectionidx:1, IP:206.168.34.66, LeftFreeCount:1199
+2025-07-10 10:39:42	Callback Connectionidx:1, CloseReason:5, IP:206.168.34.66, LeftFreeCount: 1200
+2025-07-11 08:07:30	Allocate Connectionidx:2, IP:199.45.155.67, LeftFreeCount:1199
+2025-07-11 08:07:33	Callback Connectionidx:2, CloseReason:5, IP:199.45.155.67, LeftFreeCount: 1200
+2025-07-11 08:07:37	Allocate Connectionidx:3, IP:199.45.155.67, LeftFreeCount:1199
+2025-07-11 08:07:47	Callback Connectionidx:3, CloseReason:5, IP:199.45.155.67, LeftFreeCount: 1200
+2025-07-12 08:40:12	Allocate Connectionidx:4, IP:167.94.138.195, LeftFreeCount:1199
+2025-07-12 08:40:16	Callback Connectionidx:4, CloseReason:5, IP:167.94.138.195, LeftFreeCount: 1200
+2025-07-12 08:40:24	Allocate Connectionidx:5, IP:167.94.138.195, LeftFreeCount:1199
+2025-07-12 08:40:34	Callback Connectionidx:5, CloseReason:5, IP:167.94.138.195, LeftFreeCount: 1200
+2025-07-12 09:31:24	Allocate Connectionidx:6, IP:199.45.154.134, LeftFreeCount:1199
+2025-07-12 09:31:26	Callback Connectionidx:6, CloseReason:5, IP:199.45.154.134, LeftFreeCount: 1200
+2025-07-12 09:31:32	Allocate Connectionidx:7, IP:199.45.154.134, LeftFreeCount:1199
+2025-07-12 09:31:42	Callback Connectionidx:7, CloseReason:5, IP:199.45.154.134, LeftFreeCount: 1200

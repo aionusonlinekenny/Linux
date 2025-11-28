@@ -1,0 +1,362 @@
+HostName_Man= Ca ca
+HostName_Woman= Tû tû
+Format=<color=green>
+
+[PartnerCallout]
+Odds=100
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerBloodLess]
+Odds=50
+Param1=20
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerBloodFallQuickly]
+Odds=50
+Param1=4
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerKillAnimal]
+Odds=0
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerKillBoss]
+Odds=0
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerKillPlayer]
+Odds=0
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerKillPartner]
+Odds=0
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerLevelUp]
+Odds=100
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerBeDrawBack]
+Odds=20
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[PartnerCastToHost]
+Odds=5
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostBloodLess]
+Odds=60
+Param1=50
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostBloodFallQuickly]
+Odds=50
+Param1=30
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostKillAnimal]
+Odds=0
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostKillBoss]
+Odds=0
+DialogM1=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2=<pic=2>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4=%HostName, ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1=<pic=3> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=<pic=7> ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4=<pic=35>ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostKillPlayer]
+Odds=0
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostKillPartner]
+Odds=0
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM5= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostLevelUp]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostEnmity]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostBeEnmityed]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostTeamInvite]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostTradeInvite]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[WorldKillerAppear]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostFriendInvite]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostEquipBreaking]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[WorldBossAppear]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[WorldEnemyAppear]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[TownPortalUseOut]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[GoldItemDrop]
+Odds=100
+Param1=800
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[HostPkTooHigh]
+Odds=100
+Param1=5
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[TakeTantoGolds]
+Odds=100
+Param1=500000
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM2= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogM3= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF2=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF3=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF4= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF5=ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+
+[GameNewSupply]
+Odds=100
+DialogM1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+DialogF1= ñng hé Youtube Pgaming nha www.youtube.com/c/pgaminggameoffline <pic=0>
+----------oOo----------

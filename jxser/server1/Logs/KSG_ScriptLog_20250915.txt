@@ -1,0 +1,8 @@
+2025-09-15 00:00:08	battle is ending. now member count=0:0
+2025-09-15 00:00:08	Khu vùc S¬ cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00
+2025-09-15 00:00:08	battle is ending. now member count=0:0
+2025-09-15 00:00:08	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00
+2025-09-15 00:00:08	battle is ending. now member count=0:0
+2025-09-15 00:00:08	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00
+2025-09-15 00:00:46	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2025-09-15 00:30:46	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568

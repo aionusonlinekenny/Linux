@@ -1,0 +1,4 @@
+TaskId	TaskName	MapId	MapName	MonsterName	KillCount
+1		342	Vi S¬n §¶o	Phôc Ba	10
+2		342	Vi S¬n §¶o	Ph¸ Lang	10
+3		342	Vi S¬n §¶o	Thõa Phong	10

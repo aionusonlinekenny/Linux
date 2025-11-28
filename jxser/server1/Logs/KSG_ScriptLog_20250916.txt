@@ -1,0 +1,148 @@
+2025-09-16 14:07:27	[1969-12-31 19:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2025-09-16 14:07:28	[UseItemSucc]	1969-12-31 19:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:07:44	2240916-14:07: B¾t ®Çu treo m¸y!
+2025-09-16 14:30:44	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2025-09-16 14:50:57	Khu vùc S¬ cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:868.Thêi gian:14:50
+2025-09-16 14:50:57	Battle Start :1rule58Issue36
+2025-09-16 14:50:57	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:14:50
+2025-09-16 14:50:57	Battle Start :1rule58Issue36
+2025-09-16 14:50:57	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:14:50
+2025-09-16 14:50:57	Battle Start :1rule58Issue36
+2025-09-16 15:00:44	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2025-09-16 15:00:57	Khu vùc S¬ cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 868. Thêi gian khai chiÕn: 25-09-16 14:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 15:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 15:00:57	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 25-09-16 14:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 15:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 15:00:57	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 25-09-16 14:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 15:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 15:30:44	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2025-09-16 16:00:44	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2025-09-16 16:00:57	battle is ending. now member count=0:0
+2025-09-16 16:00:57	Khu vùc S¬ cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc16:00
+2025-09-16 16:00:57	battle is ending. now member count=0:0
+2025-09-16 16:00:57	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc16:00
+2025-09-16 16:00:57	battle is ending. now member count=0:0
+2025-09-16 16:00:57	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc16:00
+2025-09-16 16:18:00	[Thiªn Tr× MËt C¶nh][4tÇng]	2025-09-16 15:18			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2025-09-16 16:30:44	BaiRenLeiTai	CallNPC_GuShou:960,58592,99200
+2025-09-16 16:50:57	Khu vùc S¬ cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:868.Thêi gian:16:50
+2025-09-16 16:50:57	Battle Start :1rule58Issue36
+2025-09-16 16:50:57	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:16:50
+2025-09-16 16:50:57	Battle Start :1rule58Issue36
+2025-09-16 16:50:57	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:16:50
+2025-09-16 16:50:57	Battle Start :1rule58Issue36
+2025-09-16 17:00:44	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2025-09-16 17:00:56	Khu vùc S¬ cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 868. Thêi gian khai chiÕn: 25-09-16 16:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 17:00:56	battle is entering fight state. now member count=0:0
+2025-09-16 17:00:56	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 25-09-16 16:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 17:00:56	battle is entering fight state. now member count=0:0
+2025-09-16 17:00:56	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 25-09-16 16:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 17:00:56	battle is entering fight state. now member count=0:0
+2025-09-16 17:30:44	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2025-09-16 18:00:44	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2025-09-16 18:00:56	battle is ending. now member count=0:0
+2025-09-16 18:00:56	Khu vùc S¬ cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc18:00
+2025-09-16 18:00:56	battle is ending. now member count=0:0
+2025-09-16 18:00:56	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc18:00
+2025-09-16 18:00:56	battle is ending. now member count=0:0
+2025-09-16 18:00:56	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc18:00
+2025-09-16 18:30:44	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-09-16 18:50:57	Khu vùc S¬ cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:868.Thêi gian:18:50
+2025-09-16 18:50:57	Battle Start :1rule58Issue36
+2025-09-16 18:50:57	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:18:50
+2025-09-16 18:50:57	Battle Start :1rule58Issue36
+2025-09-16 18:50:57	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:18:50
+2025-09-16 18:50:57	Battle Start :1rule58Issue36
+2025-09-16 19:00:44	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2025-09-16 19:00:57	Khu vùc S¬ cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 868. Thêi gian khai chiÕn: 25-09-16 18:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 19:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 19:00:57	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 25-09-16 18:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 19:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 19:00:57	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 25-09-16 18:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 19:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 19:30:44	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2025-09-16 19:45:57	19:45,1505,95,0,176,1162,2781,§éc C« Thiªn Phong
+2025-09-16 20:00:44	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2025-09-16 20:00:57	battle is ending. now member count=0:0
+2025-09-16 20:00:57	Khu vùc S¬ cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc20:00
+2025-09-16 20:00:57	battle is ending. now member count=0:0
+2025-09-16 20:00:57	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc20:00
+2025-09-16 20:00:57	battle is ending. now member count=0:0
+2025-09-16 20:00:57	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc20:00
+2025-09-16 20:00:57	[Thiªn Tr× MËt C¶nh][4tÇng]	2025-09-16 19:00			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,25,135936,153600
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,13,55808,159744
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,81,59392,97792
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:T©y V­¬ng Tµ §éc,183,52224,109568
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:Do·n Thanh V©n,154,17664,41984
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:H¾c Y S¸t Thñ,115,46080,90112
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:Ng¹o Thiªn T­íng Qu©n,59,48128,99840
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:ThËp Ph­¬ng C©u DiÖt,45,50944,98304
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:Thanh Y Tö,131,51712,97280
+2025-09-16 20:00:57	[CALLBOSS FIXURE]	2025-09-16 19:00:57	BOSS tiÓu Hoµng Kim:TÞnh Th«ng,103,46080,112640
+2025-09-16 20:10:57	20:10,1873,95,4,80,1831,3360,Tr­¬ng Tuyªn
+2025-09-16 20:15:57	20:15,1874,95,1,162,1335,3205,Kim ThÝ L­îng
+2025-09-16 20:20:57	20:20,1875,95,2,959,1503,3098,Mé Dung Toµn
+2025-09-16 20:30:44	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2025-09-16 20:50:57	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:384.Thêi gian:20:50
+2025-09-16 20:50:57	Battle Start :1rule11Issue36
+2025-09-16 20:50:57	Khu vùc Trung cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:385.Thêi gian:20:50
+2025-09-16 20:50:57	Battle Start :1rule11Issue36
+2025-09-16 20:50:57	Khu vùc Cao cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:386.Thêi gian:20:50
+2025-09-16 20:50:57	Battle Start :1rule11Issue36
+2025-09-16 21:00:44	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2025-09-16 21:00:57	Khu vùc S¬ cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:384.Thêi gian khai chiÕn:21:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-09-16 21:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 21:00:57	Khu vùc Trung cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:385.Thêi gian khai chiÕn:21:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-09-16 21:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 21:00:57	Khu vùc Cao cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:386.Thêi gian khai chiÕn:21:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2025-09-16 21:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 21:30:44	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2025-09-16 22:00:44	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2025-09-16 22:00:57	22:00,566,95,0,76,1551,3144,Cæ B¸ch
+2025-09-16 22:00:57	22:00,740,95,0,10,1836,3082,HuyÒn Gi¸c §¹i S­
+2025-09-16 22:00:57	22:00,1366,95,1,336,1422,3113,§­êng Phi YÕn
+2025-09-16 22:00:57	22:00,582,95,1,11,2966,4807,Lam Y Y
+2025-09-16 22:00:57	22:00,568,95,2,322,1938,3957,Hµ Linh Phiªu
+2025-09-16 22:00:57	22:00,744,95,2,225,1603,3221,Yªn HiÓu Tr¸i
+2025-09-16 22:00:57	22:00,583,95,3,1,1436,2953,M¹nh Th­¬ng L­¬ng
+2025-09-16 22:00:57	22:00,563,95,3,205,1495,3110,Gia LuËt TÞ Ly
+2025-09-16 22:00:57	22:00,562,95,4,80,1934,2861,§¹o Thanh Ch©n Nh©n
+2025-09-16 22:00:57	22:00,747,95,4,204,1403,3407,TuyÒn C¬ Tö
+2025-09-16 22:00:57	22:00,739,95,0,1,1436,2953,V­¬ng T¸
+2025-09-16 22:00:57	22:00,1365,95,0,75,1843,3169,HuyÒn Nan §¹i S­
+2025-09-16 22:00:57	22:00,741,95,1,321,1413,2440,§­êng BÊt NhiÔm
+2025-09-16 22:00:57	22:00,742,95,1,11,2966,4807,B¹ch Doanh Doanh
+2025-09-16 22:00:57	22:00,743,95,2,11,3252,5349,Thanh TuyÖt S­ Th¸i
+2025-09-16 22:00:57	22:00,567,95,2,37,1535,2902,Chung Linh Tó
+2025-09-16 22:00:57	22:00,745,95,3,80,1538,3041,Hµ Nh©n Ng·
+2025-09-16 22:00:57	22:00,565,95,3,76,1671,3220,§oan Méc DuÖ
+2025-09-16 22:00:57	22:00,1367,95,4,80,1934,2861,Tõ §¹i Nh¹c
+2025-09-16 22:00:57	22:00,1368,95,4,176,1162,2781,Thanh Liªn Tö
+2025-09-16 22:00:57	22:00,743,95,2,37,1520,3281,Thanh TuyÖt S­ Th¸i
+2025-09-16 22:00:57	battle is ending. now member count=0:0
+2025-09-16 22:00:57	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc22:00
+2025-09-16 22:00:57	battle is ending. now member count=0:0
+2025-09-16 22:00:57	Khu vùc Trung cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc22:00
+2025-09-16 22:00:57	battle is ending. now member count=0:0
+2025-09-16 22:00:57	Khu vùc Cao cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê - ®· kÕt thóc, tû lÖ lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc22:00
+2025-09-16 22:30:44	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2025-09-16 22:50:57	Khu vùc S¬ cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:868.Thêi gian:22:50
+2025-09-16 22:50:57	Battle Start :1rule58Issue36
+2025-09-16 22:50:57	Battle Start :1rule16Issue36
+2025-09-16 22:50:57	Battle Start :1rule16Issue36
+2025-09-16 23:00:44	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2025-09-16 23:00:57	marshal battle is entering fight state. now member count=0:0
+2025-09-16 23:00:57	marshal battle is entering fight state. now member count=0:0
+2025-09-16 23:00:57	Khu vùc S¬ cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 868. Thêi gian khai chiÕn: 25-09-16 22:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2025-09-16 23:00:57	battle is entering fight state. now member count=0:0
+2025-09-16 23:30:44	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192

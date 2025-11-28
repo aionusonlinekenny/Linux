@@ -1,0 +1,25 @@
+2025-07-24 01:19:17	Deliver statdata: 12 bytes
+2025-07-24 03:19:17	Deliver statdata: 12 bytes
+2025-07-24 05:19:17	Deliver statdata: 12 bytes
+2025-07-24 07:19:14	[QuitBackup]is_quit:0
+2025-07-24 07:19:17	Deliver statdata: 12 bytes
+2025-07-24 09:19:17	Deliver statdata: 12 bytes
+2025-07-24 11:19:17	Deliver statdata: 12 bytes
+2025-07-24 13:19:17	Deliver statdata: 12 bytes
+2025-07-24 15:19:14	[QuitBackup]is_quit:0
+2025-07-24 15:19:17	Deliver statdata: 12 bytes
+2025-07-24 17:19:17	Deliver statdata: 12 bytes
+2025-07-24 19:19:17	Deliver statdata: 12 bytes
+2025-07-24 20:06:29	GetRoleInfo(H­ÙTróc) OK: Enter Node[0](127.0.0.1 : 33934)
+2025-07-24 20:06:29	GetRoleData(H­ÙTróc) OK: datalen(20984)
+2025-07-24 20:06:29	EnterGame(H­ÙTróc) OK: Move from Node[0] to Node[1]
+2025-07-24 20:39:51	SaveRoleData(H­ÙTróc) OK: datalen(20992)
+2025-07-24 21:13:11	SaveRoleData(H­ÙTróc) OK: datalen(20992)
+2025-07-24 21:19:17	Deliver statdata: 12 bytes
+2025-07-24 21:46:31	SaveRoleData(H­ÙTróc) OK: datalen(20992)
+2025-07-24 22:19:51	SaveRoleData(H­ÙTróc) OK: datalen(20992)
+2025-07-24 22:53:11	SaveRoleData(H­ÙTróc) OK: datalen(20992)
+2025-07-24 23:19:14	[QuitBackup]is_quit:0
+2025-07-24 23:19:17	Deliver statdata: 12 bytes
+2025-07-24 23:26:31	SaveRoleData(H­ÙTróc) OK: datalen(20992)
+2025-07-24 23:59:51	SaveRoleData(H­ÙTróc) OK: datalen(20992)

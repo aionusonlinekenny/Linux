@@ -1,0 +1,34 @@
+Include("\\script\\global\\vldoxanh\\verify_client.lua")
+
+VerifyClient = {}
+
+function VerifyClient:CallFunc(bil_In_1, bil_In_2)
+	return bilVerifyClient:CallFuncMain(bil_In_1, bil_In_2)
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

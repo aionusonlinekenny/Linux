@@ -1,0 +1,3 @@
+2025-08-25 10:35:06	[ShutdownClient]	shut down client(262) - ip(45.142.154.45 : 36222) because invalid protocol!
+2025-08-25 16:06:51	[ShutdownClient]	shut down client(274) - ip(91.238.181.92 : 65093) because invalid protocol!
+2025-08-25 19:52:45	[ShutdownClient]	shut down client(279) - ip(44.220.185.162 : 44432) because invalid protocol!

@@ -1,0 +1,20 @@
+2025-09-18 02:29:27	[ShutdownClient]	shut down client(40) - ip(152.32.143.189 : 40168) because invalid protocol!
+2025-09-18 02:29:30	[ShutdownClient]	shut down client(41) - ip(152.32.143.189 : 40680) because invalid protocol!
+2025-09-18 02:30:13	[ShutdownClient]	shut down client(55) - ip(152.32.143.189 : 49554) because invalid protocol!
+2025-09-18 02:30:31	[ShutdownClient]	shut down client(61) - ip(152.32.143.189 : 53210) because invalid protocol!
+2025-09-18 02:31:09	[ShutdownClient]	shut down client(73) - ip(152.32.143.189 : 36572) because invalid protocol!
+2025-09-18 02:31:19	[ShutdownClient]	shut down client(76) - ip(152.32.143.189 : 40262) because invalid protocol!
+2025-09-18 02:31:26	[ShutdownClient]	shut down client(78) - ip(152.32.143.189 : 42212) because invalid protocol!
+2025-09-18 02:31:50	[ShutdownClient]	shut down client(86) - ip(152.32.143.189 : 49544) because invalid protocol!
+2025-09-18 03:12:50	kennylucia(H­ÙTróc) logout
+2025-09-18 03:12:50	Del kennylucia(H­ÙTróc): quit
+2025-09-18 03:13:40	Add kennylucia(H­ÙTróc)
+2025-09-18 03:13:40	kennylucia(H­ÙTróc) sync data from bishop
+2025-09-18 03:13:41	kennylucia(H­ÙTróc) login
+2025-09-18 05:04:00	[ShutdownClient]	shut down client(115) - ip(45.79.134.75 : 53660) because invalid protocol!
+2025-09-18 05:04:02	[ShutdownClient]	shut down client(117) - ip(45.79.134.75 : 53670) because invalid protocol!
+2025-09-18 05:04:13	[ShutdownClient]	shut down client(126) - ip(45.79.134.75 : 34646) because invalid protocol!
+2025-09-18 05:04:20	[ShutdownClient]	shut down client(131) - ip(45.79.134.75 : 34710) because invalid protocol!
+2025-09-18 08:31:53	[ShutdownClient]	shut down client(138) - ip(185.243.96.105 : 49159) because invalid protocol!
+2025-09-18 08:31:53	[ShutdownClient]	shut down client(139) - ip(185.243.96.105 : 50855) because invalid protocol!
+2025-09-18 08:31:53	[ShutdownClient]	shut down client(140) - ip(185.243.96.105 : 52531) because invalid protocol!

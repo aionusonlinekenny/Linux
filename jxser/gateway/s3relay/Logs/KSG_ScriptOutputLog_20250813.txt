@@ -1,0 +1,646 @@
+ExecuteCode /script/tong/tong_header.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\contribution_entry.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode \script\tong\addtongnpc.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode \script\tong\tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_logic.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode \script\lib\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode \script\mission\dungeon\dungeonlog.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode \script\mission\dungeon\dungeondata.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode /script/mission/sevencity/war.lua 
+ExecuteCode \script\lib\toplist.lua 
+ExecuteCode \script\lib\mapdb.lua 
+ExecuteCode \script\sharedata_key.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/protocol.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\misc\rank\rankdata.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/lib/sharedata.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode \script\event\wulin_2nd\head.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\announce.lua 
+CallFun \RelaySetting\Task\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ladderload.lua 
+CallFun \RelaySetting\Task\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\leaguematch.lua 
+CallFun \RelaySetting\Task\leaguematch.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tong_disciple.lua 
+CallFun \RelaySetting\Task\tong_disciple.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongwar.lua 
+CallFun \RelaySetting\Task\tongwar.lua TaskShedule
+ExecuteCode \RelaySetting\Task\onetong_writememlist.lua 
+CallFun \RelaySetting\Task\onetong_writememlist.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tong_maintain.lua 
+CallFun \RelaySetting\Task\tong_maintain.lua TaskShedule
+ExecuteCode \RelaySetting\Task\great_seed.lua 
+CallFun \RelaySetting\Task\great_seed.lua TaskShedule
+ExecuteCode \RelaySetting\Task\zhongqiu1009.lua 
+CallFun \RelaySetting\Task\zhongqiu1009.lua TaskShedule
+ExecuteCode \RelaySetting\Task\lantern.lua 
+CallFun \RelaySetting\Task\lantern.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss_1000.lua 
+ExecuteCode \RelaySetting\Task\callboss_incityhead.lua 
+CallFun \RelaySetting\Task\makegoldboss_1000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust_2010.lua 
+CallFun \RelaySetting\Task\goldbossadjust_2010.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust_2020.lua 
+CallFun \RelaySetting\Task\goldbossadjust_2020.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust_2015.lua 
+CallFun \RelaySetting\Task\goldbossadjust_2015.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss_2200.lua 
+CallFun \RelaySetting\Task\makegoldboss_2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\make_new_big_boss.lua 
+CallFun \RelaySetting\Task\make_new_big_boss.lua TaskShedule
+ExecuteCode \RelaySetting\Task\sevencity_1.lua 
+CallFun \RelaySetting\Task\sevencity_1.lua TaskShedule
+ExecuteCode \RelaySetting\Task\sevencity_2.lua 
+CallFun \RelaySetting\Task\sevencity_2.lua TaskShedule
+ExecuteCode \RelaySetting\Task\sevencity_3.lua 
+CallFun \RelaySetting\Task\sevencity_3.lua TaskShedule
+ExecuteCode \RelaySetting\Task\sevencity_4.lua 
+CallFun \RelaySetting\Task\sevencity_4.lua TaskShedule
+ExecuteCode \RelaySetting\Task\sevencity_5.lua 
+CallFun \RelaySetting\Task\sevencity_5.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ctctamtru\citywar_clearchallenger.lua 
+ExecuteCode \RelaySetting\Task\citywar_head.lua 
+CallFun \RelaySetting\Task\ctctamtru\citywar_clearchallenger.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ctctamtru\citywar_startsignup_1.lua 
+CallFun \RelaySetting\Task\ctctamtru\citywar_startsignup_1.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ctctamtru\citywar_endsignup_2.lua 
+CallFun \RelaySetting\Task\ctctamtru\citywar_endsignup_2.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ctctamtru\citywar_startarena_3.lua 
+CallFun \RelaySetting\Task\ctctamtru\citywar_startarena_3.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ctctamtru\citywar_startcitywar_4.lua 
+CallFun \RelaySetting\Task\ctctamtru\citywar_startcitywar_4.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_honour.lua 
+CallFun \RelaySetting\Task\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_1050.lua 
+CallFun \RelaySetting\Task\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_1250.lua 
+CallFun \RelaySetting\Task\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_1450.lua 
+CallFun \RelaySetting\Task\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_1650.lua 
+CallFun \RelaySetting\Task\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_1850.lua 
+CallFun \RelaySetting\Task\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_2050.lua 
+CallFun \RelaySetting\Task\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_1_2250.lua 
+CallFun \RelaySetting\Task\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fuguijinhe.lua 
+CallFun \RelaySetting\Task\fuguijinhe.lua TaskShedule
+ExecuteCode \RelaySetting\Task\jiefang0804.lua 
+CallFun \RelaySetting\Task\jiefang0804.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime.lua 
+CallFun \RelaySetting\Task\challengeoftime.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss_thien_tri_2000.lua 
+CallFun \RelaySetting\Task\boss_thien_tri_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry.lua 
+CallFun \RelaySetting\Task\fengling_ferry.lua TaskShedule
+ExecuteCode \RelaySetting\Task\yandibaozang.lua 
+CallFun \RelaySetting\Task\yandibaozang.lua TaskShedule
+ExecuteCode \RelaySetting\Task\datusha.lua 
+CallFun \RelaySetting\Task\datusha.lua TaskShedule
+ExecuteCode \RelaySetting\Task\citydefence_1300.lua 
+CallFun \RelaySetting\Task\citydefence_1300.lua TaskShedule
+ExecuteCode \RelaySetting\Task\close_citydefence_1530.lua 
+CallFun \RelaySetting\Task\close_citydefence_1530.lua TaskShedule
+ExecuteCode \RelaySetting\Task\reset_ladder.lua 
+CallFun \RelaySetting\Task\reset_ladder.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0000.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0100.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0100.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0200.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0300.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0300.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0400.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0400.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0500.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0500.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0600.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0600.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0700.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0700.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0800.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0800.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_0900.lua 
+CallFun \RelaySetting\Task\fengling_ferry_0900.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1000.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1100.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1100.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1200.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1300.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1300.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1400.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1400.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1500.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1500.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1600.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1600.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1700.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1700.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1800.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1800.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1900.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1900.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_2000.lua 
+CallFun \RelaySetting\Task\fengling_ferry_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_2100.lua 
+CallFun \RelaySetting\Task\fengling_ferry_2100.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_2200.lua 
+CallFun \RelaySetting\Task\fengling_ferry_2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_2300.lua 
+CallFun \RelaySetting\Task\fengling_ferry_2300.lua TaskShedule
+ExecuteCode \RelaySetting\Task\autochatglobal.lua 
+CallFun \RelaySetting\Task\autochatglobal.lua TaskShedule
+ExecuteCode \RelaySetting\Task\autochatms2.lua 
+CallFun \RelaySetting\Task\autochatms2.lua TaskShedule
+ExecuteCode \RelaySetting\Task\hushanqunzhan.lua 
+CallFun \RelaySetting\Task\hushanqunzhan.lua TaskShedule
+ExecuteCode \RelaySetting\Task\small_goldboss_1230.lua 
+ExecuteCode \RelaySetting\Task\goldbosshead_1230.lua 
+ExecuteCode \RelaySetting\Task\GoldBossHead.lua 
+CallFun \RelaySetting\Task\small_goldboss_1230.lua TaskShedule
+ExecuteCode \RelaySetting\Task\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\goldbosshead_2000.lua 
+CallFun \RelaySetting\Task\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_2_2050.lua 
+CallFun \RelaySetting\Task\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\baucua\baucua.lua 
+CallFun \RelaySetting\Task\baucua\baucua.lua TaskShedule
+ExecuteCode \RelaySetting\Task\baucua\baucua_11h_15h.lua 
+CallFun \RelaySetting\Task\baucua\baucua_11h_15h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\baucua\baucua_16h_19h.lua 
+CallFun \RelaySetting\Task\baucua\baucua_16h_19h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\baucua\baucua_17h_20h.lua 
+CallFun \RelaySetting\Task\baucua\baucua_17h_20h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\baucua\baucua_19h45_23h.lua 
+CallFun \RelaySetting\Task\baucua\baucua_19h45_23h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\baucua\baucua_1h30_23h59.lua 
+CallFun \RelaySetting\Task\baucua\baucua_1h30_23h59.lua TaskShedule
+CallFun ladderload.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua GameSvrConnected
+CallFun ladderload.lua GameSvrConnected
+CallFun leaguematch.lua GameSvrConnected
+CallFun tong_disciple.lua GameSvrConnected
+CallFun tongwar.lua GameSvrConnected
+CallFun onetong_writememlist.lua GameSvrConnected
+CallFun tong_maintain.lua GameSvrConnected
+CallFun great_seed.lua GameSvrConnected
+CallFun zhongqiu1009.lua GameSvrConnected
+CallFun lantern.lua GameSvrConnected
+CallFun makegoldboss_1000.lua GameSvrConnected
+CallFun goldbossadjust_2010.lua GameSvrConnected
+CallFun goldbossadjust_2020.lua GameSvrConnected
+CallFun goldbossadjust_2015.lua GameSvrConnected
+CallFun makegoldboss_2200.lua GameSvrConnected
+CallFun make_new_big_boss.lua GameSvrConnected
+CallFun sevencity_1.lua GameSvrConnected
+CallFun sevencity_2.lua GameSvrConnected
+CallFun sevencity_3.lua GameSvrConnected
+CallFun sevencity_4.lua GameSvrConnected
+CallFun sevencity_5.lua GameSvrConnected
+CallFun ctctamtru\citywar_clearchallenger.lua GameSvrConnected
+CallFun ctctamtru\citywar_startsignup_1.lua GameSvrConnected
+CallFun ctctamtru\citywar_endsignup_2.lua GameSvrConnected
+CallFun ctctamtru\citywar_startarena_3.lua GameSvrConnected
+CallFun ctctamtru\citywar_startcitywar_4.lua GameSvrConnected
+CallFun battle_1_createnew.lua GameSvrConnected
+CallFun battle_1_honour.lua GameSvrConnected
+CallFun battle_1_1050.lua GameSvrConnected
+CallFun battle_1_1250.lua GameSvrConnected
+CallFun battle_1_1450.lua GameSvrConnected
+CallFun battle_1_1650.lua GameSvrConnected
+CallFun battle_1_1850.lua GameSvrConnected
+CallFun battle_1_2050.lua GameSvrConnected
+CallFun battle_1_2250.lua GameSvrConnected
+CallFun fuguijinhe.lua GameSvrConnected
+CallFun jiefang0804.lua GameSvrConnected
+CallFun challengeoftime.lua GameSvrConnected
+CallFun boss_thien_tri_2000.lua GameSvrConnected
+CallFun fengling_ferry.lua GameSvrConnected
+CallFun yandibaozang.lua GameSvrConnected
+CallFun datusha.lua GameSvrConnected
+CallFun citydefence_1300.lua GameSvrConnected
+CallFun close_citydefence_1530.lua GameSvrConnected
+CallFun reset_ladder.lua GameSvrConnected
+CallFun fengling_ferry_0000.lua GameSvrConnected
+CallFun fengling_ferry_0100.lua GameSvrConnected
+CallFun fengling_ferry_0200.lua GameSvrConnected
+CallFun fengling_ferry_0300.lua GameSvrConnected
+CallFun fengling_ferry_0400.lua GameSvrConnected
+CallFun fengling_ferry_0500.lua GameSvrConnected
+CallFun fengling_ferry_0600.lua GameSvrConnected
+CallFun fengling_ferry_0700.lua GameSvrConnected
+CallFun fengling_ferry_0800.lua GameSvrConnected
+CallFun fengling_ferry_0900.lua GameSvrConnected
+CallFun fengling_ferry_1000.lua GameSvrConnected
+CallFun fengling_ferry_1100.lua GameSvrConnected
+CallFun fengling_ferry_1200.lua GameSvrConnected
+CallFun fengling_ferry_1300.lua GameSvrConnected
+CallFun fengling_ferry_1400.lua GameSvrConnected
+CallFun fengling_ferry_1500.lua GameSvrConnected
+CallFun fengling_ferry_1600.lua GameSvrConnected
+CallFun fengling_ferry_1700.lua GameSvrConnected
+CallFun fengling_ferry_1800.lua GameSvrConnected
+CallFun fengling_ferry_1900.lua GameSvrConnected
+CallFun fengling_ferry_2000.lua GameSvrConnected
+CallFun fengling_ferry_2100.lua GameSvrConnected
+CallFun fengling_ferry_2200.lua GameSvrConnected
+CallFun fengling_ferry_2300.lua GameSvrConnected
+CallFun autochatglobal.lua GameSvrConnected
+CallFun autochatms2.lua GameSvrConnected
+CallFun hushanqunzhan.lua GameSvrConnected
+CallFun small_goldboss_1230.lua GameSvrConnected
+CallFun small_goldboss_2000.lua GameSvrConnected
+CallFun battle_2_2050.lua GameSvrConnected
+CallFun battle_2_createnew.lua GameSvrConnected
+CallFun baucua\baucua.lua GameSvrConnected
+CallFun baucua\baucua_11h_15h.lua GameSvrConnected
+CallFun baucua\baucua_16h_19h.lua GameSvrConnected
+CallFun baucua\baucua_17h_20h.lua GameSvrConnected
+CallFun baucua\baucua_19h45_23h.lua GameSvrConnected
+CallFun baucua\baucua_1h30_23h59.lua GameSvrConnected
+CallFun announce.lua GameSvrReady
+CallFun ladderload.lua GameSvrReady
+CallFun leaguematch.lua GameSvrReady
+CallFun tong_disciple.lua GameSvrReady
+CallFun tongwar.lua GameSvrReady
+CallFun onetong_writememlist.lua GameSvrReady
+CallFun tong_maintain.lua GameSvrReady
+CallFun great_seed.lua GameSvrReady
+CallFun zhongqiu1009.lua GameSvrReady
+CallFun lantern.lua GameSvrReady
+CallFun makegoldboss_1000.lua GameSvrReady
+CallFun goldbossadjust_2010.lua GameSvrReady
+CallFun goldbossadjust_2020.lua GameSvrReady
+CallFun goldbossadjust_2015.lua GameSvrReady
+CallFun makegoldboss_2200.lua GameSvrReady
+CallFun make_new_big_boss.lua GameSvrReady
+CallFun sevencity_1.lua GameSvrReady
+CallFun sevencity_2.lua GameSvrReady
+CallFun sevencity_3.lua GameSvrReady
+CallFun sevencity_4.lua GameSvrReady
+CallFun sevencity_5.lua GameSvrReady
+CallFun ctctamtru\citywar_clearchallenger.lua GameSvrReady
+CallFun ctctamtru\citywar_startsignup_1.lua GameSvrReady
+CallFun ctctamtru\citywar_endsignup_2.lua GameSvrReady
+CallFun ctctamtru\citywar_startarena_3.lua GameSvrReady
+CallFun ctctamtru\citywar_startcitywar_4.lua GameSvrReady
+CallFun battle_1_createnew.lua GameSvrReady
+CallFun battle_1_honour.lua GameSvrReady
+CallFun battle_1_1050.lua GameSvrReady
+CallFun battle_1_1250.lua GameSvrReady
+CallFun battle_1_1450.lua GameSvrReady
+CallFun battle_1_1650.lua GameSvrReady
+CallFun battle_1_1850.lua GameSvrReady
+CallFun battle_1_2050.lua GameSvrReady
+CallFun battle_1_2250.lua GameSvrReady
+CallFun fuguijinhe.lua GameSvrReady
+CallFun jiefang0804.lua GameSvrReady
+CallFun challengeoftime.lua GameSvrReady
+CallFun boss_thien_tri_2000.lua GameSvrReady
+CallFun fengling_ferry.lua GameSvrReady
+CallFun yandibaozang.lua GameSvrReady
+CallFun datusha.lua GameSvrReady
+CallFun citydefence_1300.lua GameSvrReady
+CallFun close_citydefence_1530.lua GameSvrReady
+CallFun reset_ladder.lua GameSvrReady
+CallFun fengling_ferry_0000.lua GameSvrReady
+CallFun fengling_ferry_0100.lua GameSvrReady
+CallFun fengling_ferry_0200.lua GameSvrReady
+CallFun fengling_ferry_0300.lua GameSvrReady
+CallFun fengling_ferry_0400.lua GameSvrReady
+CallFun fengling_ferry_0500.lua GameSvrReady
+CallFun fengling_ferry_0600.lua GameSvrReady
+CallFun fengling_ferry_0700.lua GameSvrReady
+CallFun fengling_ferry_0800.lua GameSvrReady
+CallFun fengling_ferry_0900.lua GameSvrReady
+CallFun fengling_ferry_1000.lua GameSvrReady
+CallFun fengling_ferry_1100.lua GameSvrReady
+CallFun fengling_ferry_1200.lua GameSvrReady
+CallFun fengling_ferry_1300.lua GameSvrReady
+CallFun fengling_ferry_1400.lua GameSvrReady
+CallFun fengling_ferry_1500.lua GameSvrReady
+CallFun fengling_ferry_1600.lua GameSvrReady
+CallFun fengling_ferry_1700.lua GameSvrReady
+CallFun fengling_ferry_1800.lua GameSvrReady
+CallFun fengling_ferry_1900.lua GameSvrReady
+CallFun fengling_ferry_2000.lua GameSvrReady
+CallFun fengling_ferry_2100.lua GameSvrReady
+CallFun fengling_ferry_2200.lua GameSvrReady
+CallFun fengling_ferry_2300.lua GameSvrReady
+CallFun autochatglobal.lua GameSvrReady
+CallFun autochatms2.lua GameSvrReady
+CallFun hushanqunzhan.lua GameSvrReady
+CallFun small_goldboss_1230.lua GameSvrReady
+CallFun small_goldboss_2000.lua GameSvrReady
+CallFun battle_2_2050.lua GameSvrReady
+CallFun battle_2_createnew.lua GameSvrReady
+CallFun baucua\baucua.lua GameSvrReady
+CallFun baucua\baucua_11h_15h.lua GameSvrReady
+CallFun baucua\baucua_16h_19h.lua GameSvrReady
+CallFun baucua\baucua_17h_20h.lua GameSvrReady
+CallFun baucua\baucua_19h45_23h.lua GameSvrReady
+CallFun baucua\baucua_1h30_23h59.lua GameSvrReady
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun ctctamtru\citywar_endsignup_2.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun challengeoftime.lua TaskContent
+CallFun fengling_ferry.lua TaskContent
+CallFun datusha.lua TaskContent
+CallFun fengling_ferry_1900.lua TaskContent
+CallFun hushanqunzhan.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun fuguijinhe.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun yandibaozang.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun make_new_big_boss.lua TaskContent
+CallFun baucua\baucua_19h45_23h.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun ctctamtru\citywar_startarena_3.lua TaskContent
+CallFun ctctamtru\citywar_startcitywar_4.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun challengeoftime.lua TaskContent
+CallFun boss_thien_tri_2000.lua TaskContent
+CallFun datusha.lua TaskContent
+CallFun fengling_ferry_2000.lua TaskContent
+CallFun hushanqunzhan.lua TaskContent
+CallFun small_goldboss_2000.lua TaskContent
+CallFun battle_2_createnew.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun goldbossadjust_2010.lua TaskContent
+CallFun fuguijinhe.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun goldbossadjust_2015.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun goldbossadjust_2020.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun yandibaozang.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun battle_1_2050.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun battle_2_2050.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun challengeoftime.lua TaskContent
+CallFun datusha.lua TaskContent
+CallFun fengling_ferry_2100.lua TaskContent
+CallFun hushanqunzhan.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun fuguijinhe.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun yandibaozang.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun makegoldboss_2200.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun challengeoftime.lua TaskContent
+CallFun datusha.lua TaskContent
+CallFun fengling_ferry_2200.lua TaskContent
+CallFun hushanqunzhan.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun fuguijinhe.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun yandibaozang.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun battle_1_2250.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun challengeoftime.lua TaskContent
+CallFun datusha.lua TaskContent
+CallFun fengling_ferry_2300.lua TaskContent
+CallFun hushanqunzhan.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun fuguijinhe.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun yandibaozang.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun tongwar.lua TaskContent
+CallFun zhongqiu1009.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun jiefang0804.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun tong_disciple.lua TaskContent
+CallFun lantern.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun announce.lua TaskContent
+CallFun autochatglobal.lua TaskContent
+CallFun autochatms2.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_SaveRoundResult

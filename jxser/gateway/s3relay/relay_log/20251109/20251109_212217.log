@@ -1,0 +1,1093 @@
+[2025/11/09 21:22:17] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2025/11/09 21:22:17] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2025/11/09 21:22:17] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2025/11/09 21:22:17] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2025/11/09 21:22:17] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2025/11/09 21:22:17] Loading All Scripts....................
+[2025/11/09 21:22:17] Load Rank FUNC_RANK_EQUIPVALUE
+[2025/11/09 21:22:17] Load Stable Rank count 0
+[2025/11/09 21:22:17] Load Dynamic Rank count 0
+[2025/11/09 21:22:17] Load Rank FUNC_RANK_EQUIPVALUE end
+[2025/11/09 21:22:17] LOAD 2010 EXPANSION FUGUIJINHE BET NUMBER
+[2025/11/09 21:22:17] [2010 expansion fuguijinhe bet number]   BetCount:0 Normal Number: 28 43 26 42 52 30 51 19 22 Special Number: 13
+[2025/11/09 21:22:17] 
+All Scripts Have Been Loaded! Count = 79
+[2025/11/09 21:22:17] root client[:0] create
+[2025/11/09 21:22:19] start autotimer for Ping: 
+[2025/11/09 21:22:19] TRIP_MODE: None
+[2025/11/09 21:22:19] Loading World Setting...
+[2025/11/09 21:22:19] Reset map pho ban thanh cong
+[2025/11/09 21:22:19] gateway client create: 127.0.0.1
+[2025/11/09 21:22:19] 1 tong(s) loaded from tongex DB.
+[2025/11/09 21:22:19] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2025/11/09 21:22:19] Load LeagueData: LeagueType: 500, Leagues: 6, Roles: 6
+[2025/11/09 21:22:19] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 8
+[2025/11/09 21:22:19]  He thong thong bao tin tuc tu dong 
+[2025/11/09 21:22:19] Xep Hang Tong Kim Khoi Dong
+[2025/11/09 21:22:19] ============ League Match Start: Phase=1  SeasonID=75 ==============
+[2025/11/09 21:22:19] TONG_SHREWMOUSE BAT DAU LUC 22:0...
+[2025/11/09 21:22:19] Thien Ha De Nhat Bang ( Dai Chien Bang Hoi)
+[2025/11/09 21:22:19] QUA HUY HOANG on start at 12 PM
+[2025/11/09 21:22:19] MidAut2010 LoadData
+[2025/11/09 21:22:19] KHOI DONG HOAT DONG HOA DANG : 2122
+[2025/11/09 21:22:19] BOSS HOANG KIM MON PHAI at 10:00
+[2025/11/09 21:22:19] BOSS ¡ì1i Hoang Kim zhangxuan XUAT HIEN:  20:10
+[2025/11/09 21:22:19] BOSS ¡ì1i Hoang Kim murongquan XUAT HIEN:  20:20
+[2025/11/09 21:22:20] BOSS ¡ì1i Hoang Kim jinshiliang XUAT HIEN:  20:15
+[2025/11/09 21:22:20] BOSS HOANG KIM MON PHAI at 22:00
+[2025/11/09 21:22:20] =====> SO LUONG BOSS HOANG KIM XUAT HIEN :  0
+[2025/11/09 21:22:20] =====> BOSS DOC CO THIEN PHONG XUAT HIEN :  19:45
+[2025/11/09 21:22:20] [SEVENCITY]task[start_signup] loaded
+[2025/11/09 21:22:20] [SEVENCITY]task[close_signup] loaded
+[2025/11/09 21:22:20] [SEVENCITY]task[prepare] loaded
+[2025/11/09 21:22:20] [SEVENCITY]task[start] loaded
+[2025/11/09 21:22:20] [SEVENCITY]task[close] loaded
+[2025/11/09 21:22:20] =================[CTC TAM TRU] XOA DU LIEU CONG THANH=================
+[2025/11/09 21:22:20] =================[CTC Tam Tru] BAT DAU GHI DANH=================
+[2025/11/09 21:22:20] =================[CTC TAM TRU] KET THUC GHI DANH=================
+[2025/11/09 21:22:20] =================[CTC Tam Tru] LOI TRAN CHIEN BAT DAU=================
+[2025/11/09 21:22:20] =================[CTC Tam Tru] CONG THANH CHIEN BAT DAU=================
+[2025/11/09 21:22:20] BATTLE[XiangYang] 10:50 startup...
+[2025/11/09 21:22:20] BATTLE[XiangYang] 12:50 startup...
+[2025/11/09 21:22:20] BATTLE[XiangYang] 14:50 startup...
+[2025/11/09 21:22:20] BATTLE[XiangYang] 16:50 startup...
+[2025/11/09 21:22:20] BATTLE[XiangYang] 18:50 startup...
+[2025/11/09 21:22:20] [STARTED]	BATTLE [TONG KIM] 20:50 -> OK!
+[2025/11/09 21:22:20] BATTLE[XiangYang] 22:50 startup...
+[2025/11/09 21:22:20] =================HOAT DONG PHU QUY CAM HAP============== 
+[2025/11/09 21:22:20] =================HOAT DONG GIET NHIM BEO PHI BAT DAU 21:30 VA 30 PHUT SAU KET THUC=======
+[2025/11/09 21:22:20] [STARTED] CHALLENGE OF TIME 22:0
+[2025/11/09 21:22:20] =================BOSS THIEN TRI XUAT HIEN LUC 20H TANG 4=================
+[2025/11/09 21:22:20] [STARTED] FENGLING FERRY
+[2025/11/09 21:22:20] =================Hoat Dong Viem De Bat Dau 22:25...=================
+[2025/11/09 21:22:20] =================LOAN CHIEN CUU CHAU COC BAT DAU 22:0 va 60 PHUT SE KET THUC=================
+[2025/11/09 21:22:20] PHONG HOA LIEN THANH BAT DAU 13:0...
+[2025/11/09 21:22:20] Phong Hoa Lien Thanh da ket thuc 15:30...
+[2025/11/09 21:22:20] [STARTED] Reset BXH Hang Ngay Luc 00:00 Thu 2
+[2025/11/09 21:22:20] =================·Phong Lang Do 0h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 1h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 2h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 3h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 4h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 5h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 6h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 7h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 8h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 9h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 10h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 11h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 12h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 13h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 14h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 15h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 16h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 17h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 18h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 19h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 20h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 21h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 22h==================
+[2025/11/09 21:22:20] =================·Phong Lang Do 23h==================
+[2025/11/09 21:22:20] =================GLOBALEXCUTECHAT=================
+[2025/11/09 21:22:20] =================MS2PLAYERCHAT=================
+[2025/11/09 21:22:20]  =================HOA SON DAI CHIEN 10H,15H,22H==================
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 52301
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 51302
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 51102
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135403
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135604
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135705
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135206
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135807
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 136008
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135109
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 52301
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 51302
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 51102
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135403
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135604
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135705
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135206
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135807
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 136008
+[2025/11/09 21:22:20] Xoa du lieu thong tin boss Hoang Kim 135109
+[2025/11/09 21:22:20] BATTLE[GuoZhan] 20:50 startup...
+[2025/11/09 21:22:20] KHOI DONG NHIEM VU TONG KIM CHIEN QUOC 
+[2025/11/09 21:22:20] =================Hoa Qua Son Khoi Dong 0h Sang Den 23h59 Toi=================
+[2025/11/09 21:22:20] =================Phuc-Loc-Tho Start 9h Sang Den 23h00 Toi=================
+[2025/11/09 21:22:20] =================Phuc-Loc-Tho Start 0h01 Sang Den 23h59 Toi=================
+[2025/11/09 21:22:20] =================Phuc-Loc-Tho Start 0h01 Sang Den 23h59 Toi=================
+[2025/11/09 21:22:20] =================Phuc-Loc-Tho Start 0h01 Sang Den 23h59 Toi=================
+[2025/11/09 21:22:20] =================Phuc-Loc-Tho Start 00h Sang Den 23h00 Toi=================
+[2025/11/09 21:22:20] Failed to init statdatamanager!
+[2025/11/09 21:22:20] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2025/11/09 21:22:20] 
+*
+***** S3Relay Start (@ 167452432/00/43200 00:-1992216:135861597.136280271) >>>>>
+*
+
+
+[2025/11/09 21:22:20] SockThread start success
+[2025/11/09 21:22:20] Xep Hang Khoi Dong Hoan Tat
+[2025/11/09 21:22:49] ChatConnection create: 127.0.0.1
+[2025/11/09 21:22:49] TongConnection create: 127.0.0.1
+[2025/11/09 21:22:49] HostConnection create: 127.0.0.1
+[2025/11/09 21:23:03] ============ League Match GSReady(16777343): Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 21:23:03] GameServerLogin: 127.0.0.1
+[2025/11/09 21:23:03] TongDataSendFinish: 127.0.0.1
+[2025/11/09 21:23:04] Assign Dynamic map(948,70601) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:1
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(948,70602) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:2
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(948,70603) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:3
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(948,70604) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:4
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(948,70605) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:5
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(975,65536) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:6
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(975,65537) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:7
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(975,65538) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:8
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(975,65539) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:9
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(975,65540) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:10
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(976,65541) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:11
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(976,65542) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:12
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(976,65543) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:13
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(976,65544) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:14
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(976,65545) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:15
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(958,70606) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:16
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(958,70607) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:17
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(958,70608) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:18
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(958,70609) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:19
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:23:04] Assign Dynamic map(958,70610) for GS:0
+[2025/11/09 21:23:04] GS:0 Total Dynamic map:20
+[2025/11/09 21:23:04] GS:0 Total Static map:646
+[2025/11/09 21:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 21:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 22:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 22:00:19] 251109 ->0
+[2025/11/09 22:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/09 22:00:20] KHOI TAO BOSS Cæ B¸ch,566,95,11,3346,4797,0----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS HuyÒn Gi¸c §¹i S­,740,95,176,1162,2781,0----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS §­êng Phi YÕn,1366,95,75,1614,3191,1----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Lam Y Y,582,95,204,1527,3529,1----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Hµ Linh Phiªu,568,95,203,1792,3234,2----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Yªn HiÓu Tr¸i,744,95,37,1535,2902,2----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS M¹nh Th­¬ng L­¬ng,583,95,224,1739,2857,3----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Gia LuËt TÞ Ly,563,95,181,1616,2951,3----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS §¹o Thanh Ch©n Nh©n,562,95,321,1474,3008,4----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS TuyÒn C¬ Tö,747,95,342,1212,2419,4----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS V­¬ng T¸,739,95,202,1618,2950,0----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS HuyÒn Nan §¹i S­,1365,95,336,1422,3113,0----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS §­êng BÊt NhiÔm,741,95,75,1614,3191,1----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS B¹ch Doanh Doanh,742,95,80,1538,3041,1----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,205,1585,3226,2----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Chung Linh Tó,567,95,203,1792,3234,2----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Hµ Nh©n Ng·,745,95,10,1836,3082,3----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS §oan Méc DuÖ,565,95,336,1422,3113,3----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Tõ §¹i Nh¹c,1367,95,11,2966,4807,4----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Thanh Liªn Tö,1368,95,322,1938,3957,4----202511092200
+[2025/11/09 22:00:20] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,225,1603,3221,2----202511092200
+[2025/11/09 22:00:20] [RUNNING] CHALLENGE OF TIME 23:0
+[2025/11/09 22:00:20] [STARTED] FENGLING FERRY 22H
+[2025/11/09 22:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/09 22:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/09 22:10:20] [KHOI TAO DAY SO MAY MAN]  20251109  SO BINH THUONG : 86 33 58 43 78 56 70 57 13 SO DAC BIET: 49
+[2025/11/09 22:10:20] SAVE 2010 EXPANSION FUGUIJINHE BET NUMBER
+[2025/11/09 22:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 22:25:20] =================Hoat Dong Viem De22:25 Bat Dau======
+[2025/11/09 22:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 22:30:19] 251109 ->0
+[2025/11/09 22:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/09 22:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/09 22:50:20] [2025-11-09 22:50:20]  NEW BATTLE START
+[2025/11/09 22:50:20] BattleID: 1   BattleLevel: 1   Issue: 37   167th.Round
+[2025/11/09 22:50:20] RoundID: 5   MapPattern: 8   BattleMapID:  1   WorldMapID: 378   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 3
+[2025/11/09 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/09 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/09 22:50:20] [2025-11-09 22:50:20]  NEW BATTLE START
+[2025/11/09 22:50:20] BattleID: 1   BattleLevel: 2   Issue: 37   167th.Round
+[2025/11/09 22:50:20] RoundID: 16   MapPattern: 10   BattleMapID:  6   WorldMapID: 385   MapName: §¹i doanh Qu©n Kim   RuleID: 4
+[2025/11/09 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/09 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/09 22:50:20] [2025-11-09 22:50:20]  NEW BATTLE START
+[2025/11/09 22:50:20] BattleID: 1   BattleLevel: 3   Issue: 37   167th.Round
+[2025/11/09 22:50:20] RoundID: 15   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 8
+[2025/11/09 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/09 23:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 23:00:19] 251109 ->0
+[2025/11/09 23:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/09 23:00:20] [RUNNING] CHALLENGE OF TIME 0:0
+[2025/11/09 23:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/09 23:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 23:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/09 23:30:19] 251109 ->0
+[2025/11/09 23:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/09 23:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 00:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 00:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 00:00:19] 251110 ->0
+[2025/11/10 00:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 00:00:19] Khëi ®éng bang héi duy tu... ... ... . . . . .
+[2025/11/10 00:00:19] §ang tiÕn hµnh duy tu: HoµngGia
+[2025/11/10 00:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 00:00:20] [2025-11-10 00:00:20]  BATTLE END
+[2025/11/10 00:00:20] BattleID: 1   BattleLevel: 1   Issue: 37   167th.Round RoundId: 5   Result: 1
+[2025/11/10 00:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 00:00:20] [RUNNING] CHALLENGE OF TIME 1:0
+[2025/11/10 00:00:20] =================XOA XEP HANG LOAN CHIEN CUC CHAU COC=================
+[2025/11/10 00:05:20] [RUNNING] Dang Tien Hanh Reset BXH
+[2025/11/10 00:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 00:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 00:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 00:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 00:30:19] 251110 ->0
+[2025/11/10 00:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 00:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 00:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 01:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 01:00:19] 251110 ->0
+[2025/11/10 01:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 01:00:20] [RUNNING] CHALLENGE OF TIME 2:0
+[2025/11/10 01:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 01:16:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/10 01:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 01:30:19] 251110 ->0
+[2025/11/10 01:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 01:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 02:00:00] ****************Create XIANGYANG New Battle******** 
+[2025/11/10 02:00:00] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 02:00:00] [2025-11-10 02:00:00]  NEW BATTLE START
+[2025/11/10 02:00:00] BattleID: 1   BattleLevel: 1   Issue: 38   1th.Round
+[2025/11/10 02:00:00] RoundID: 1   MapPattern: 8   BattleMapID:  1   WorldMapID: 378   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 02:00:00] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 02:00:00] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 02:00:00] [2025-11-10 02:00:00]  NEW BATTLE START
+[2025/11/10 02:00:00] BattleID: 1   BattleLevel: 2   Issue: 38   1th.Round
+[2025/11/10 02:00:00] RoundID: 1   MapPattern: 8   BattleMapID:  1   WorldMapID: 379   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 02:00:00] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 02:00:00] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 02:00:00] [2025-11-10 02:00:00]  NEW BATTLE START
+[2025/11/10 02:00:00] BattleID: 1   BattleLevel: 3   Issue: 38   1th.Round
+[2025/11/10 02:00:00] RoundID: 1   MapPattern: 11   BattleMapID:  1   WorldMapID: 380   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 02:00:00] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 02:00:00] *************************************************** 
+[2025/11/10 02:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 02:00:19] 251110 ->0
+[2025/11/10 02:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 02:00:20] [RUNNING] CHALLENGE OF TIME 3:0
+[2025/11/10 02:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 02:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 02:30:19] 251110 ->0
+[2025/11/10 02:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 02:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 03:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 03:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 03:00:19] 251110 ->0
+[2025/11/10 03:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 03:00:20] [RUNNING] CHALLENGE OF TIME 4:0
+[2025/11/10 03:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 03:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 03:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 03:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 03:30:19] 251110 ->0
+[2025/11/10 03:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 03:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 03:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 04:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 04:00:19] 251110 ->0
+[2025/11/10 04:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 04:00:20] [RUNNING] CHALLENGE OF TIME 5:0
+[2025/11/10 04:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 04:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 04:30:19] 251110 ->0
+[2025/11/10 04:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 04:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 05:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 05:00:19] 251110 ->0
+[2025/11/10 05:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 05:00:20] [RUNNING] CHALLENGE OF TIME 6:0
+[2025/11/10 05:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 05:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 05:30:19] 251110 ->0
+[2025/11/10 05:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 05:30:20] =====> Phuc-Loc-Tho Start -- 0:00AM-- end ------23:59PM-------------- 
+[2025/11/10 05:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 06:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 06:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 06:00:19] 251110 ->0
+[2025/11/10 06:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 06:00:20] [RUNNING] CHALLENGE OF TIME 7:0
+[2025/11/10 06:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 06:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 06:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 06:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 06:30:19] 251110 ->0
+[2025/11/10 06:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 06:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 06:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 07:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 07:00:19] 251110 ->0
+[2025/11/10 07:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 07:00:20] [RUNNING] CHALLENGE OF TIME 8:0
+[2025/11/10 07:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 07:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 07:30:19] 251110 ->0
+[2025/11/10 07:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 07:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 08:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 08:00:19] 251110 ->0
+[2025/11/10 08:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 08:00:20] [RUNNING] CHALLENGE OF TIME 9:0
+[2025/11/10 08:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 08:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 08:30:19] 251110 ->0
+[2025/11/10 08:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 08:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 09:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 09:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 09:00:19] 251110 ->0
+[2025/11/10 09:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 09:00:20] [RUNNING] CHALLENGE OF TIME 10:0
+[2025/11/10 09:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 09:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 09:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 09:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 09:30:19] 251110 ->0
+[2025/11/10 09:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 09:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 09:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 10:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 10:00:19] 251110 ->0
+[2025/11/10 10:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 10:00:19] KHOI TAO BOSS Cæ B¸ch,566,95,76,1551,3144,0----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS HuyÒn Gi¸c §¹i S­,740,95,198,1640,2918,0----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS §­êng Phi YÕn,1366,95,37,2017,2679,1----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Lam Y Y,582,95,204,1403,3407,1----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Hµ Linh Phiªu,568,95,1,1404,3338,2----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Yªn HiÓu Tr¸i,744,95,227,1365,3160,2----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS M¹nh Th­¬ng L­¬ng,583,95,224,1622,2974,3----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Gia LuËt TÞ Ly,563,95,205,1612,3364,3----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS §¹o Thanh Ch©n Nh©n,562,95,321,1065,3059,4----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS TuyÒn C¬ Tö,747,95,342,1212,2419,4----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS V­¬ng T¸,739,95,199,1852,3174,0----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS HuyÒn Nan §¹i S­,1365,95,176,1247,3354,0----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS §­êng BÊt NhiÔm,741,95,75,1614,3191,1----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS B¹ch Doanh Doanh,742,95,198,1687,3025,1----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,342,1516,2802,2----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Chung Linh Tó,567,95,204,1624,3379,2----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Hµ Nh©n Ng·,745,95,78,1379,3141,3----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS §oan Méc DuÖ,565,95,336,1113,3134,3----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Tõ §¹i Nh¹c,1367,95,341,1331,3182,4----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Thanh Liªn Tö,1368,95,227,1365,3160,4----202511101000
+[2025/11/10 10:00:19] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,78,1753,3121,2----202511101000
+[2025/11/10 10:00:20] [RUNNING] CHALLENGE OF TIME 11:0
+[2025/11/10 10:00:20] [STARTED] FENGLING FERRY 10H
+[2025/11/10 10:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 10:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 10:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 10:30:19] 251110 ->0
+[2025/11/10 10:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 10:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 10:50:20] [2025-11-10 10:50:20]  NEW BATTLE START
+[2025/11/10 10:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   2th.Round
+[2025/11/10 10:50:20] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 868   MapName: LiÔu Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 10:50:20] [2025-11-10 10:50:20]  NEW BATTLE START
+[2025/11/10 10:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   2th.Round
+[2025/11/10 10:50:20] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 869   MapName: LiÔu Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 10:50:20] [2025-11-10 10:50:20]  NEW BATTLE START
+[2025/11/10 10:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   2th.Round
+[2025/11/10 10:50:20] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2025/11/10 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 11:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 11:00:19] 251110 ->0
+[2025/11/10 11:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 11:00:20] [RUNNING] CHALLENGE OF TIME 12:0
+[2025/11/10 11:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 11:00:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/10 11:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 11:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 11:30:19] 251110 ->0
+[2025/11/10 11:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 11:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 12:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 12:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 12:00:19] 251110 ->0
+[2025/11/10 12:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 12:00:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/10 12:00:20] [RUNNING] CHALLENGE OF TIME 13:0
+[2025/11/10 12:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 12:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 12:05:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/10 12:10:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/10 12:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 12:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 12:15:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/10 12:20:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/10 12:25:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/10 12:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 12:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 12:30:19] 251110 ->0
+[2025/11/10 12:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 12:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 12:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 12:50:20] [2025-11-10 12:50:20]  NEW BATTLE START
+[2025/11/10 12:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   3th.Round
+[2025/11/10 12:50:20] RoundID: 7   MapPattern: 12   BattleMapID:  21   WorldMapID: 868   MapName: LiÔu Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 12:50:20] [2025-11-10 12:50:20]  NEW BATTLE START
+[2025/11/10 12:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   3th.Round
+[2025/11/10 12:50:20] RoundID: 7   MapPattern: 12   BattleMapID:  21   WorldMapID: 869   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2025/11/10 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 12:50:20] [2025-11-10 12:50:20]  NEW BATTLE START
+[2025/11/10 12:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   3th.Round
+[2025/11/10 12:50:20] RoundID: 7   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2025/11/10 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 13:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 13:00:19] 251110 ->0
+[2025/11/10 13:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 13:00:20] [RUNNING] CHALLENGE OF TIME 14:0
+[2025/11/10 13:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 13:00:20] Hoat Dong Dien Ra Vao Thu 7 Va Chu Nhat Hang Tuan
+[2025/11/10 13:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 13:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 13:30:19] 251110 ->0
+[2025/11/10 13:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 13:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 14:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 14:00:19] 251110 ->0
+[2025/11/10 14:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 14:00:20] [RUNNING] CHALLENGE OF TIME 15:0
+[2025/11/10 14:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 14:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 14:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 14:25:20] =================Hoat Dong Viem De14:25 Bat Dau======
+[2025/11/10 14:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 14:30:19] 251110 ->0
+[2025/11/10 14:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 14:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 14:50:20] [2025-11-10 14:50:20]  NEW BATTLE START
+[2025/11/10 14:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   4th.Round
+[2025/11/10 14:50:20] RoundID: 15   MapPattern: 11   BattleMapID:  1   WorldMapID: 378   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 3
+[2025/11/10 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 14:50:20] [2025-11-10 14:50:20]  NEW BATTLE START
+[2025/11/10 14:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   4th.Round
+[2025/11/10 14:50:20] RoundID: 15   MapPattern: 11   BattleMapID:  1   WorldMapID: 379   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 14:50:20] [2025-11-10 14:50:20]  NEW BATTLE START
+[2025/11/10 14:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   4th.Round
+[2025/11/10 14:50:20] RoundID: 15   MapPattern: 11   BattleMapID:  1   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 3
+[2025/11/10 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 15:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 15:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 15:00:19] 251110 ->0
+[2025/11/10 15:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 15:00:20] [RUNNING] CHALLENGE OF TIME 16:0
+[2025/11/10 15:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 15:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 15:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 15:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 15:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 15:30:19] 251110 ->0
+[2025/11/10 15:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 15:30:20] Phong Hoa Lien Thanh da ket thuc
+[2025/11/10 15:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 15:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 16:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 16:00:19] 251110 ->0
+[2025/11/10 16:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:00:20] [2025-11-10 16:00:20]  BATTLE END
+[2025/11/10 16:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   4th.Round RoundId: 15   Result: 1
+[2025/11/10 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:00:20] [RUNNING] CHALLENGE OF TIME 17:0
+[2025/11/10 16:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 16:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 16:00:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/10 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:00:20] [2025-11-10 16:00:20]  BATTLE END
+[2025/11/10 16:00:20] BattleID: 1   BattleLevel: 2   Issue: 38   4th.Round RoundId: 15   Result: 1
+[2025/11/10 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:00:20] [2025-11-10 16:00:20]  BATTLE END
+[2025/11/10 16:00:20] BattleID: 1   BattleLevel: 3   Issue: 38   4th.Round RoundId: 15   Result: 1
+[2025/11/10 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 16:25:20] =================Hoat Dong Viem De16:25 Bat Dau======
+[2025/11/10 16:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 16:30:19] 251110 ->0
+[2025/11/10 16:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 16:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:50:20] [2025-11-10 16:50:20]  NEW BATTLE START
+[2025/11/10 16:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   5th.Round
+[2025/11/10 16:50:20] RoundID: 1   MapPattern: 11   BattleMapID:  1   WorldMapID: 378   MapName: LiÔu Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:50:20] [2025-11-10 16:50:20]  NEW BATTLE START
+[2025/11/10 16:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   5th.Round
+[2025/11/10 16:50:20] RoundID: 1   MapPattern: 11   BattleMapID:  1   WorldMapID: 379   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 16:50:20] [2025-11-10 16:50:20]  NEW BATTLE START
+[2025/11/10 16:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   5th.Round
+[2025/11/10 16:50:20] RoundID: 1   MapPattern: 9   BattleMapID:  21   WorldMapID: 870   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 17:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 17:00:19] 251110 ->0
+[2025/11/10 17:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 17:00:20] [RUNNING] CHALLENGE OF TIME 18:0
+[2025/11/10 17:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 17:10:20] 20251110 SO DAT CUOC CUOI
+[2025/11/10 17:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 17:15:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/10 17:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 17:30:19] 251110 ->0
+[2025/11/10 17:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 17:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 18:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 18:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 18:00:19] 251110 ->0
+[2025/11/10 18:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 18:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:00:20] [2025-11-10 18:00:20]  BATTLE END
+[2025/11/10 18:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   5th.Round RoundId: 1   Result: 1
+[2025/11/10 18:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:00:20] [2025-11-10 18:00:20]  BATTLE END
+[2025/11/10 18:00:20] BattleID: 1   BattleLevel: 2   Issue: 38   5th.Round RoundId: 1   Result: 1
+[2025/11/10 18:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:00:20] L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025/11/10 18:00:20] =================[CTC Tam Tru] BAT DAU GHI DANH=================
+[2025/11/10 18:00:20] [RUNNING] CHALLENGE OF TIME 19:0
+[2025/11/10 18:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 18:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 18:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 18:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 18:25:20] =================Hoat Dong Viem De18:25 Bat Dau======
+[2025/11/10 18:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 18:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 18:30:19] 251110 ->0
+[2025/11/10 18:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 18:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 18:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 18:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:50:20] [2025-11-10 18:50:20]  NEW BATTLE START
+[2025/11/10 18:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   6th.Round
+[2025/11/10 18:50:20] RoundID: 2   MapPattern: 10   BattleMapID:  6   WorldMapID: 384   MapName: §¹i doanh Qu©n Tèng   RuleID: 4
+[2025/11/10 18:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:50:20] [2025-11-10 18:50:20]  NEW BATTLE START
+[2025/11/10 18:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   6th.Round
+[2025/11/10 18:50:20] RoundID: 2   MapPattern: 9   BattleMapID:  21   WorldMapID: 869   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 18:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 18:50:20] [2025-11-10 18:50:20]  NEW BATTLE START
+[2025/11/10 18:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   6th.Round
+[2025/11/10 18:50:20] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 18:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 19:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 19:00:19] 251110 ->0
+[2025/11/10 19:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 19:00:20] thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025/11/10 19:00:20] =================[CTC TAM TRU] KET THUC GHI DANH=================
+[2025/11/10 19:00:20] [RUNNING] CHALLENGE OF TIME 20:0
+[2025/11/10 19:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 19:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 19:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 19:30:19] 251110 ->0
+[2025/11/10 19:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 19:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 19:45:20] GOLD BOSS COUNT :  0
+[2025/11/10 19:45:20] Create Boss Doc Co Thien Phong,1509,95,176,1247,3354,4----202511101945
+[2025/11/10 19:45:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/10 20:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 20:00:19] 251110 ->0
+[2025/11/10 20:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 20:00:20] =================[CTC Tam Tru] LOI TRAN CHIEN BAT DAU=================
+[2025/11/10 20:00:20] =================[CTC Tam Tru] CONG THANH CHIEN BAT DAU=================
+[2025/11/10 20:00:20] [RUNNING] CHALLENGE OF TIME 21:0
+[2025/11/10 20:00:20] =================BOSS THIEN TRI DA XUAT HIEN=================
+[2025/11/10 20:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 20:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 20:00:20]  Create GUOZHAN New Battle 
+[2025/11/10 20:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:00:20] [2025-11-10 20:00:20]  NEW BATTLE START
+[2025/11/10 20:00:20] BattleID: 2   BattleLevel: 3   Issue: 51   1th.Round
+[2025/11/10 20:00:20] RoundID: 1   MapPattern: 1   BattleMapID:  15   WorldMapID: 900   MapName: Quèc chiÕn Hoµng Sa L©m   RuleID: 10
+[2025/11/10 20:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 20:25:20] =================Hoat Dong Viem De20:25 Bat Dau======
+[2025/11/10 20:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 20:30:19] 251110 ->0
+[2025/11/10 20:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 20:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 20:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:50:20] [2025-11-10 20:50:20]  NEW BATTLE START
+[2025/11/10 20:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   7th.Round
+[2025/11/10 20:50:20] RoundID: 5   MapPattern: 8   BattleMapID:  1   WorldMapID: 378   MapName: LiÔu Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 20:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:50:20] [2025-11-10 20:50:20]  NEW BATTLE START
+[2025/11/10 20:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   7th.Round
+[2025/11/10 20:50:20] RoundID: 5   MapPattern: 10   BattleMapID:  6   WorldMapID: 385   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 4
+[2025/11/10 20:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 20:50:20] [2025-11-10 20:50:20]  NEW BATTLE START
+[2025/11/10 20:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   7th.Round
+[2025/11/10 20:50:20] RoundID: 7   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 20:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 21:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 21:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 21:00:19] 251110 ->0
+[2025/11/10 21:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 21:00:20] [RUNNING] CHALLENGE OF TIME 22:0
+[2025/11/10 21:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 21:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 21:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 21:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 21:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 21:30:19] 251110 ->0
+[2025/11/10 21:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 21:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 21:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/10 22:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 22:00:19] 251110 ->0
+[2025/11/10 22:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 22:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:00:20] [2025-11-10 22:00:20]  BATTLE END
+[2025/11/10 22:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   7th.Round RoundId: 5   Result: 1
+[2025/11/10 22:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:00:20] KHOI TAO BOSS Cæ B¸ch,566,95,202,1618,2950,0----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS HuyÒn Gi¸c §¹i S­,740,95,1,1436,2953,0----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS §­êng Phi YÕn,1366,95,78,1670,3462,1----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Lam Y Y,582,95,204,1818,3460,1----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Hµ Linh Phiªu,568,95,203,1471,2992,2----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Yªn HiÓu Tr¸i,744,95,225,1401,3284,2----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS M¹nh Th­¬ng L­¬ng,583,95,1,1436,2953,3----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Gia LuËt TÞ Ly,563,95,205,1585,3226,3----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS §¹o Thanh Ch©n Nh©n,562,95,1,1436,2953,4----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS TuyÒn C¬ Tö,747,95,342,1516,2802,4----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS V­¬ng T¸,739,95,37,1520,3281,0----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS HuyÒn Nan §¹i S­,1365,95,336,1422,3113,0----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS §­êng BÊt NhiÔm,741,95,11,3252,5349,1----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS B¹ch Doanh Doanh,742,95,198,1687,3025,1----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,205,1495,3110,2----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Chung Linh Tó,567,95,204,1403,3407,2----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Hµ Nh©n Ng·,745,95,78,1753,3121,3----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS §oan Méc DuÖ,565,95,76,1671,3220,3----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Tõ §¹i Nh¹c,1367,95,199,1852,3174,4----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Thanh Liªn Tö,1368,95,322,1938,3957,4----202511102200
+[2025/11/10 22:00:20] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,78,1379,3141,2----202511102200
+[2025/11/10 22:00:20] [RUNNING] CHALLENGE OF TIME 23:0
+[2025/11/10 22:00:20] [STARTED] FENGLING FERRY 22H
+[2025/11/10 22:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 22:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/10 22:10:20] [KHOI TAO DAY SO MAY MAN]  20251110  SO BINH THUONG : 39 26 49 96 92 78 72 20 71 SO DAC BIET: 44
+[2025/11/10 22:10:20] SAVE 2010 EXPANSION FUGUIJINHE BET NUMBER
+[2025/11/10 22:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 22:25:20] =================Hoat Dong Viem De22:25 Bat Dau======
+[2025/11/10 22:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 22:30:19] 251110 ->0
+[2025/11/10 22:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 22:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:50:20] [2025-11-10 22:50:20]  NEW BATTLE START
+[2025/11/10 22:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   8th.Round
+[2025/11/10 22:50:20] RoundID: 10   MapPattern: 2   BattleMapID:  1   WorldMapID: 378   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 3
+[2025/11/10 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:50:20] [2025-11-10 22:50:20]  NEW BATTLE START
+[2025/11/10 22:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   8th.Round
+[2025/11/10 22:50:20] RoundID: 11   MapPattern: 10   BattleMapID:  6   WorldMapID: 385   MapName: §¹i doanh Qu©n Kim   RuleID: 4
+[2025/11/10 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 22:50:20] [2025-11-10 22:50:20]  NEW BATTLE START
+[2025/11/10 22:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   8th.Round
+[2025/11/10 22:50:20] RoundID: 15   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: Ngò Ph­¬ng Nguyªn ChiÕn   RuleID: 8
+[2025/11/10 22:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/10 23:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 23:00:19] 251110 ->0
+[2025/11/10 23:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 23:00:20] [RUNNING] CHALLENGE OF TIME 0:0
+[2025/11/10 23:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/10 23:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 23:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/10 23:30:19] 251110 ->0
+[2025/11/10 23:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/10 23:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 00:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 00:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 00:00:19] 251111 ->0
+[2025/11/11 00:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 00:00:19] Khëi ®éng bang héi duy tu... ... ... . . . . .
+[2025/11/11 00:00:19] §ang tiÕn hµnh duy tu: HoµngGia
+[2025/11/11 00:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 00:00:20] [2025-11-11 00:00:20]  BATTLE END
+[2025/11/11 00:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   8th.Round RoundId: 10   Result: 1
+[2025/11/11 00:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 00:00:20] [RUNNING] CHALLENGE OF TIME 1:0
+[2025/11/11 00:00:20] =================XOA XEP HANG LOAN CHIEN CUC CHAU COC=================
+[2025/11/11 00:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 00:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 00:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 00:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 00:30:19] 251111 ->0
+[2025/11/11 00:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 00:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 00:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 01:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 01:00:19] 251111 ->0
+[2025/11/11 01:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 01:00:20] [RUNNING] CHALLENGE OF TIME 2:0
+[2025/11/11 01:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 01:16:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/11 01:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 01:30:19] 251111 ->0
+[2025/11/11 01:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 01:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 02:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 02:00:19] 251111 ->0
+[2025/11/11 02:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 02:00:20] [RUNNING] CHALLENGE OF TIME 3:0
+[2025/11/11 02:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 02:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 02:30:19] 251111 ->0
+[2025/11/11 02:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 02:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 03:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 03:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 03:00:19] 251111 ->0
+[2025/11/11 03:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 03:00:20] [RUNNING] CHALLENGE OF TIME 4:0
+[2025/11/11 03:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 03:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 03:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 03:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 03:30:19] 251111 ->0
+[2025/11/11 03:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 03:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 03:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 04:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 04:00:19] 251111 ->0
+[2025/11/11 04:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 04:00:20] [RUNNING] CHALLENGE OF TIME 5:0
+[2025/11/11 04:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 04:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 04:30:19] 251111 ->0
+[2025/11/11 04:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 04:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 05:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 05:00:19] 251111 ->0
+[2025/11/11 05:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 05:00:20] [RUNNING] CHALLENGE OF TIME 6:0
+[2025/11/11 05:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 05:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 05:30:19] 251111 ->0
+[2025/11/11 05:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 05:30:20] =====> Phuc-Loc-Tho Start -- 0:00AM-- end ------23:59PM-------------- 
+[2025/11/11 05:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 06:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 06:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 06:00:19] 251111 ->0
+[2025/11/11 06:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 06:00:20] [RUNNING] CHALLENGE OF TIME 7:0
+[2025/11/11 06:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 06:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 06:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 06:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 06:30:19] 251111 ->0
+[2025/11/11 06:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 06:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 06:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 07:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 07:00:19] 251111 ->0
+[2025/11/11 07:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 07:00:20] [RUNNING] CHALLENGE OF TIME 8:0
+[2025/11/11 07:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 07:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 07:30:19] 251111 ->0
+[2025/11/11 07:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 07:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 08:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 08:00:19] 251111 ->0
+[2025/11/11 08:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 08:00:20] [RUNNING] CHALLENGE OF TIME 9:0
+[2025/11/11 08:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 08:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 08:30:19] 251111 ->0
+[2025/11/11 08:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 08:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 09:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 09:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 09:00:19] 251111 ->0
+[2025/11/11 09:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 09:00:20] [RUNNING] CHALLENGE OF TIME 10:0
+[2025/11/11 09:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 09:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 09:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 09:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 09:30:19] 251111 ->0
+[2025/11/11 09:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 09:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 09:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 10:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 10:00:19] 251111 ->0
+[2025/11/11 10:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 10:00:19] KHOI TAO BOSS Cæ B¸ch,566,95,176,1832,3342,0----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS HuyÒn Gi¸c §¹i S­,740,95,198,1640,2918,0----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS §­êng Phi YÕn,1366,95,80,1723,3339,1----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Lam Y Y,582,95,80,1723,3339,1----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Hµ Linh Phiªu,568,95,322,1595,3976,2----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Yªn HiÓu Tr¸i,744,95,225,1486,3180,2----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS M¹nh Th­¬ng L­¬ng,583,95,162,1404,3417,3----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Gia LuËt TÞ Ly,563,95,181,1635,3079,3----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS §¹o Thanh Ch©n Nh©n,562,95,321,1065,3059,4----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS TuyÒn C¬ Tö,747,95,176,1247,3354,4----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS V­¬ng T¸,739,95,162,1388,3149,0----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS HuyÒn Nan §¹i S­,1365,95,75,1843,3169,0----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS §­êng BÊt NhiÔm,741,95,75,1717,3094,1----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS B¹ch Doanh Doanh,742,95,198,1687,3025,1----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,205,1585,3226,2----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Chung Linh Tó,567,95,204,1403,3407,2----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Hµ Nh©n Ng·,745,95,181,1504,3099,3----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS §oan Méc DuÖ,565,95,80,1934,2861,3----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Tõ §¹i Nh¹c,1367,95,37,1535,2902,4----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Thanh Liªn Tö,1368,95,322,1697,3511,4----202511111000
+[2025/11/11 10:00:19] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,11,2966,4807,2----202511111000
+[2025/11/11 10:00:20] [RUNNING] CHALLENGE OF TIME 11:0
+[2025/11/11 10:00:20] [STARTED] FENGLING FERRY 10H
+[2025/11/11 10:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/11 10:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 10:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 10:30:19] 251111 ->0
+[2025/11/11 10:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 10:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 10:50:20] [2025-11-11 10:50:20]  NEW BATTLE START
+[2025/11/11 10:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   9th.Round
+[2025/11/11 10:50:20] RoundID: 1   MapPattern: 8   BattleMapID:  1   WorldMapID: 378   MapName: B¹ch M«n Nguyªn ChiÕn   RuleID: 3
+[2025/11/11 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 10:50:20] [2025-11-11 10:50:20]  NEW BATTLE START
+[2025/11/11 10:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   9th.Round
+[2025/11/11 10:50:20] RoundID: 16   MapPattern: 10   BattleMapID:  6   WorldMapID: 385   MapName: §¹i doanh Qu©n Tèng   RuleID: 4
+[2025/11/11 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 10:50:20] [2025-11-11 10:50:20]  NEW BATTLE START
+[2025/11/11 10:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   9th.Round
+[2025/11/11 10:50:20] RoundID: 16   MapPattern: 10   BattleMapID:  6   WorldMapID: 386   MapName: §¹i doanh Qu©n Kim   RuleID: 4
+[2025/11/11 10:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 11:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 11:00:19] 251111 ->0
+[2025/11/11 11:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 11:00:20] [RUNNING] CHALLENGE OF TIME 12:0
+[2025/11/11 11:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/11 11:00:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/11 11:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 11:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 11:30:19] 251111 ->0
+[2025/11/11 11:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 11:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 12:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 12:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 12:00:19] 251111 ->0
+[2025/11/11 12:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 12:00:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/11 12:00:20] [RUNNING] CHALLENGE OF TIME 13:0
+[2025/11/11 12:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 12:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/11 12:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:00:20] [2025-11-11 12:00:20]  BATTLE END
+[2025/11/11 12:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   9th.Round RoundId: 1   Result: 1
+[2025/11/11 12:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:05:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/11 12:10:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/11 12:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 12:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 12:15:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/11 12:20:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/11 12:25:19] =================QUA HUY HOANG on started at 12 PM=================
+[2025/11/11 12:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 12:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 12:30:19] 251111 ->0
+[2025/11/11 12:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 12:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 12:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:50:20] [2025-11-11 12:50:20]  NEW BATTLE START
+[2025/11/11 12:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   10th.Round
+[2025/11/11 12:50:20] RoundID: 2   MapPattern: 8   BattleMapID:  1   WorldMapID: 378   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 3
+[2025/11/11 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:50:20] [2025-11-11 12:50:20]  NEW BATTLE START
+[2025/11/11 12:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   10th.Round
+[2025/11/11 12:50:20] RoundID: 1   MapPattern: 9   BattleMapID:  21   WorldMapID: 869   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2025/11/11 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 12:50:20] [2025-11-11 12:50:20]  NEW BATTLE START
+[2025/11/11 12:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   10th.Round
+[2025/11/11 12:50:20] RoundID: 1   MapPattern: 11   BattleMapID:  1   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 3
+[2025/11/11 12:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 13:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 13:00:19] 251111 ->0
+[2025/11/11 13:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 13:00:20] [RUNNING] CHALLENGE OF TIME 14:0
+[2025/11/11 13:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 13:00:20] Hoat Dong Dien Ra Vao Thu 7 Va Chu Nhat Hang Tuan
+[2025/11/11 13:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 13:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 13:30:19] 251111 ->0
+[2025/11/11 13:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 13:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 14:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 14:00:19] 251111 ->0
+[2025/11/11 14:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 14:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:00:20] [2025-11-11 14:00:20]  BATTLE END
+[2025/11/11 14:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   10th.Round RoundId: 2   Result: 1
+[2025/11/11 14:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:00:20] [RUNNING] CHALLENGE OF TIME 15:0
+[2025/11/11 14:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 14:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/11 14:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:00:20] [2025-11-11 14:00:20]  BATTLE END
+[2025/11/11 14:00:20] BattleID: 1   BattleLevel: 3   Issue: 38   10th.Round RoundId: 1   Result: 1
+[2025/11/11 14:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:02:19] Xep Hang Khoi Dong Hoan Tat
+[2025/11/11 14:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 14:25:20] =================Hoat Dong Viem De14:25 Bat Dau======
+[2025/11/11 14:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 14:30:19] 251111 ->0
+[2025/11/11 14:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 14:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:50:20] [2025-11-11 14:50:20]  NEW BATTLE START
+[2025/11/11 14:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   11th.Round
+[2025/11/11 14:50:20] RoundID: 4   MapPattern: 11   BattleMapID:  1   WorldMapID: 378   MapName: LiÔu Nguyªn ChiÕn   RuleID: 3
+[2025/11/11 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:50:20] [2025-11-11 14:50:20]  NEW BATTLE START
+[2025/11/11 14:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   11th.Round
+[2025/11/11 14:50:20] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 869   MapName: LiÔu Nguyªn ChiÕn   RuleID: 8
+[2025/11/11 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 14:50:20] [2025-11-11 14:50:20]  NEW BATTLE START
+[2025/11/11 14:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   11th.Round
+[2025/11/11 14:50:20] RoundID: 2   MapPattern: 10   BattleMapID:  6   WorldMapID: 386   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 4
+[2025/11/11 14:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 15:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 15:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 15:00:19] 251111 ->0
+[2025/11/11 15:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 15:00:20] [RUNNING] CHALLENGE OF TIME 16:0
+[2025/11/11 15:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 15:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 15:15:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 15:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 15:30:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 15:30:19] 251111 ->0
+[2025/11/11 15:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 15:30:20] Phong Hoa Lien Thanh da ket thuc
+[2025/11/11 15:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 15:45:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 16:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 16:00:19] 251111 ->0
+[2025/11/11 16:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 16:00:20] [RUNNING] CHALLENGE OF TIME 17:0
+[2025/11/11 16:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 16:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/11 16:00:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/11 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:00:20] [2025-11-11 16:00:20]  BATTLE END
+[2025/11/11 16:00:20] BattleID: 1   BattleLevel: 1   Issue: 38   11th.Round RoundId: 4   Result: 1
+[2025/11/11 16:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 16:25:20] =================Hoat Dong Viem De16:25 Bat Dau======
+[2025/11/11 16:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 16:30:19] 251111 ->0
+[2025/11/11 16:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 16:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:50:20] [2025-11-11 16:50:20]  NEW BATTLE START
+[2025/11/11 16:50:20] BattleID: 1   BattleLevel: 1   Issue: 38   12th.Round
+[2025/11/11 16:50:20] RoundID: 8   MapPattern: 1   BattleMapID:  6   WorldMapID: 384   MapName: §¹i doanh Qu©n Tèng   RuleID: 4
+[2025/11/11 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:50:20] [2025-11-11 16:50:20]  NEW BATTLE START
+[2025/11/11 16:50:20] BattleID: 1   BattleLevel: 2   Issue: 38   12th.Round
+[2025/11/11 16:50:20] RoundID: 7   MapPattern: 12   BattleMapID:  21   WorldMapID: 869   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2025/11/11 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 16:50:20] [2025-11-11 16:50:20]  NEW BATTLE START
+[2025/11/11 16:50:20] BattleID: 1   BattleLevel: 3   Issue: 38   12th.Round
+[2025/11/11 16:50:20] RoundID: 5   MapPattern: 8   BattleMapID:  1   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 3
+[2025/11/11 16:50:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11 17:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 17:00:19] 251111 ->0
+[2025/11/11 17:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 17:00:20] [RUNNING] CHALLENGE OF TIME 18:0
+[2025/11/11 17:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 17:10:20] 20251111 SO DAT CUOC CUOI
+[2025/11/11 17:15:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 17:15:20] =====> Phuc-Loc-Tho Start -- 0:01AM-- end ------23:59PM-------------- 
+[2025/11/11 17:30:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 17:30:19] 251111 ->0
+[2025/11/11 17:30:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 17:45:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 18:00:19] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2025/11/11 18:00:19] TONG_SPFESTIVAL DA DEN THOI GIAN DANG KI
+[2025/11/11 18:00:19] 251111 ->0
+[2025/11/11 18:00:19] Hien tai so nguoi dang ky la  0
+[2025/11/11 18:00:20] L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025/11/11 18:00:20] =================[CTC Tam Tru] BAT DAU GHI DANH=================
+[2025/11/11 18:00:20] [RUNNING] CHALLENGE OF TIME 19:0
+[2025/11/11 18:00:20] =================BAO DANH LOAN CHIEN CUU CHAU COC=================
+[2025/11/11 18:00:20]  =================HOA SON DAI CHIEN Started==================
+[2025/11/11 18:00:20] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025/11/11

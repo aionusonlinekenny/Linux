@@ -1,0 +1,373 @@
+[2025-07-10 18:00:52]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-10 19:00:52]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-10 20:00:52]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-10 20:00:52]: StartCityWar error....
+[2025-07-11 18:00:52]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-11 19:00:52]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-11 20:00:52]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-11 20:00:52]: StartCityWar error....
+[2025-07-12 18:00:52]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-12 19:00:52]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-12 20:00:52]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-12 20:00:52]: StartCityWar error....
+[2025-07-13 18:00:23]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-13 19:00:23]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-13 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-13 20:00:23]: StartCityWar error....
+[2025-07-14 18:00:23]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-14 19:00:23]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-14 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-14 20:00:23]: StartCityWar error....
+[2025-07-15 18:00:23]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-15 19:00:23]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-15 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-15 20:00:23]: StartCityWar error....
+[2025-07-16 18:00:23]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-16 19:00:23]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-16 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-16 20:00:23]: StartCityWar error....
+[2025-07-17 18:00:23]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-17 19:00:23]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-17 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-17 20:00:23]: StartCityWar error....
+[2025-07-18 18:00:23]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-18 19:00:23]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-18 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-18 20:00:23]: StartCityWar error....
+[2025-07-19 18:00:23]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-19 19:00:23]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-19 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-19 20:00:23]: StartCityWar error....
+[2025-07-20 18:00:23]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-20 19:00:23]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-20 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-20 20:00:23]: StartCityWar error....
+[2025-07-21 18:00:23]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-21 19:00:23]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-21 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-21 20:00:23]: StartCityWar error....
+[2025-07-22 18:00:23]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-22 19:00:23]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-22 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-22 20:00:23]: StartCityWar error....
+[2025-07-23 18:00:23]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-23 19:00:23]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-23 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-23 20:00:23]: StartCityWar error....
+[2025-07-24 18:00:23]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-24 19:00:23]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-24 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-24 20:00:23]: StartCityWar error....
+[2025-07-25 18:00:23]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-25 19:00:23]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-25 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-25 20:00:23]: StartCityWar error....
+[2025-07-26 18:00:23]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-26 19:00:23]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-26 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-26 20:00:23]: StartCityWar error....
+[2025-07-27 18:00:23]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-27 19:00:23]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-27 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-27 20:00:23]: StartCityWar error....
+[2025-07-28 18:00:23]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-28 19:00:23]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-28 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-28 20:00:23]: StartCityWar error....
+[2025-07-29 18:00:23]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-29 19:00:23]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-29 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-29 20:00:23]: StartCityWar error....
+[2025-07-30 18:00:23]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-30 19:00:23]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-30 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-30 20:00:23]: StartCityWar error....
+[2025-07-31 18:00:23]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-07-31 19:00:23]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-07-31 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-07-31 20:00:23]: StartCityWar error....
+[2025-08-01 18:00:23]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-01 19:00:23]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-01 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-01 20:00:23]: StartCityWar error....
+[2025-08-02 18:00:23]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-02 19:00:23]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-02 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-02 20:00:23]: StartCityWar error....
+[2025-08-03 18:00:23]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-03 19:00:23]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-03 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-03 20:00:23]: StartCityWar error....
+[2025-08-04 18:00:23]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-04 19:00:23]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-04 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-04 20:00:23]: StartCityWar error....
+[2025-08-05 18:00:23]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-05 19:00:23]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-05 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-05 20:00:23]: StartCityWar error....
+[2025-08-06 18:00:23]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-06 19:00:23]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-06 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-06 20:00:23]: StartCityWar error....
+[2025-08-07 18:00:23]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-07 19:00:23]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-07 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-07 20:00:23]: StartCityWar error....
+[2025-08-08 18:00:23]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-08 19:00:23]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-08 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-08 20:00:23]: StartCityWar error....
+[2025-08-09 18:00:23]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-09 19:00:23]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-09 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-09 20:00:23]: StartCityWar error....
+[2025-08-10 18:00:23]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-10 19:00:23]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-10 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-10 20:00:23]: StartCityWar error....
+[2025-08-11 18:00:23]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-11 19:00:23]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-11 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-11 20:00:23]: StartCityWar error....
+[2025-08-12 18:00:23]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-12 19:00:23]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-12 20:00:23]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-12 20:00:23]: StartCityWar error....
+[2025-08-13 19:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 1, th× l¹i lµ 0. 
+[2025-08-13 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-13 20:00:26]: StartCityWar error....
+[2025-08-14 18:00:26]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-14 19:00:26]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-14 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-14 20:00:26]: StartCityWar error....
+[2025-08-15 18:00:26]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-15 19:00:26]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-15 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-15 20:00:26]: StartCityWar error....
+[2025-08-16 18:00:26]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-16 19:00:26]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-16 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-16 20:00:26]: StartCityWar error....
+[2025-08-17 18:00:26]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-17 19:00:26]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-17 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-17 20:00:26]: StartCityWar error....
+[2025-08-18 18:00:26]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-18 19:00:26]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-18 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-18 20:00:26]: StartCityWar error....
+[2025-08-19 18:00:26]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-19 19:00:26]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-19 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-19 20:00:26]: StartCityWar error....
+[2025-08-20 18:00:26]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-20 19:00:26]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-20 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-20 20:00:26]: StartCityWar error....
+[2025-08-21 18:00:26]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-21 19:00:26]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-21 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-21 20:00:26]: StartCityWar error....
+[2025-08-22 18:00:26]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-22 19:00:26]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-22 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-22 20:00:26]: StartCityWar error....
+[2025-08-23 18:00:26]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-23 19:00:26]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-23 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-23 20:00:26]: StartCityWar error....
+[2025-08-24 18:00:26]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-24 19:00:26]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-24 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-24 20:00:26]: StartCityWar error....
+[2025-08-25 18:00:26]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-25 19:00:26]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-25 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-25 20:00:26]: StartCityWar error....
+[2025-08-26 18:00:26]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-26 19:00:26]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-26 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-26 20:00:26]: StartCityWar error....
+[2025-08-27 18:00:26]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-27 19:00:26]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-27 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-27 20:00:26]: StartCityWar error....
+[2025-08-28 18:00:26]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-28 19:00:26]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-28 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-28 20:00:26]: StartCityWar error....
+[2025-08-29 18:00:26]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-29 19:00:26]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-29 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-29 20:00:26]: StartCityWar error....
+[2025-08-30 18:00:26]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-30 19:00:26]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-30 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-30 20:00:26]: StartCityWar error....
+[2025-08-31 18:00:26]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-08-31 19:00:26]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-08-31 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-08-31 20:00:26]: StartCityWar error....
+[2025-09-01 18:00:26]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-01 19:00:26]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-01 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-01 20:00:26]: StartCityWar error....
+[2025-09-02 18:00:26]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-02 19:00:26]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-02 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-02 20:00:26]: StartCityWar error....
+[2025-09-03 18:00:26]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-03 19:00:26]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-03 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-03 20:00:26]: StartCityWar error....
+[2025-09-04 18:00:26]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-04 19:00:26]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-04 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-04 20:00:26]: StartCityWar error....
+[2025-09-05 18:00:26]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-05 19:00:26]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-05 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-05 20:00:26]: StartCityWar error....
+[2025-09-06 18:00:26]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-06 19:00:26]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-06 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-06 20:00:26]: StartCityWar error....
+[2025-09-07 18:00:26]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-07 19:00:26]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-07 20:00:26]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-07 20:00:26]: StartCityWar error....
+[2025-09-12 18:00:08]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-12 19:00:08]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-12 20:00:08]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-12 20:00:08]: StartCityWar error....
+[2025-09-13 18:00:08]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-13 19:00:08]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-13 20:00:08]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-13 20:00:08]: StartCityWar error....
+[2025-09-14 18:00:08]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-14 19:00:08]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-14 20:00:08]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-14 20:00:08]: StartCityWar error....
+[2025-09-16 18:00:57]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-16 19:00:57]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-16 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-16 20:00:57]: StartCityWar error....
+[2025-09-17 18:00:57]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-17 19:00:57]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-17 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-17 20:00:57]: StartCityWar error....
+[2025-09-18 18:00:57]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-18 19:00:57]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-18 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-18 20:00:57]: StartCityWar error....
+[2025-09-19 18:00:57]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-19 19:00:57]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-19 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-19 20:00:57]: StartCityWar error....
+[2025-09-20 18:00:57]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-20 19:00:57]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-20 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-20 20:00:57]: StartCityWar error....
+[2025-09-21 18:00:57]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-21 19:00:57]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-21 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-21 20:00:57]: StartCityWar error....
+[2025-09-22 18:00:57]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-22 19:00:57]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-22 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-22 20:00:57]: StartCityWar error....
+[2025-09-23 18:00:57]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-23 19:00:57]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-23 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-23 20:00:57]: StartCityWar error....
+[2025-09-24 18:00:57]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-24 19:00:57]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-24 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-24 20:00:57]: StartCityWar error....
+[2025-09-25 18:00:57]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-25 19:00:57]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-25 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-25 20:00:57]: StartCityWar error....
+[2025-09-26 18:00:57]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-26 19:00:57]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-26 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-26 20:00:57]: StartCityWar error....
+[2025-09-27 18:00:57]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-27 19:00:57]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-27 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-27 20:00:57]: StartCityWar error....
+[2025-09-28 18:00:57]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-28 19:00:57]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-28 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-28 20:00:57]: StartCityWar error....
+[2025-09-29 18:00:57]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-29 19:00:57]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-29 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-29 20:00:57]: StartCityWar error....
+[2025-09-30 18:00:57]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-09-30 19:00:57]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-09-30 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-09-30 20:00:57]: StartCityWar error....
+[2025-10-01 18:00:57]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-01 19:00:57]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-01 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-01 20:00:57]: StartCityWar error....
+[2025-10-02 18:00:57]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-02 19:00:57]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-02 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-02 20:00:57]: StartCityWar error....
+[2025-10-03 18:00:57]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-03 19:00:57]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-03 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-03 20:00:57]: StartCityWar error....
+[2025-10-04 18:00:57]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-04 19:00:57]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-04 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-04 20:00:57]: StartCityWar error....
+[2025-10-05 18:00:57]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-05 19:00:57]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-05 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-05 20:00:57]: StartCityWar error....
+[2025-10-06 18:00:57]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-06 19:00:57]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-06 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-06 20:00:57]: StartCityWar error....
+[2025-10-07 18:00:57]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-07 19:00:57]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-07 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-07 20:00:57]: StartCityWar error....
+[2025-10-08 18:00:57]: L«i ®µi trong thµnh ph­îng t­êng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-08 19:00:57]: ph­îng t­êng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-08 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-08 20:00:57]: StartCityWar error....
+[2025-10-09 18:00:57]: L«i ®µi trong thµnh T­¬ng D­¬ng ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-09 19:00:57]: T­¬ng D­¬ng cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-09 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-09 20:00:57]: StartCityWar error....
+[2025-10-10 18:00:57]: L«i ®µi trong thµnh BiÖn Kinh ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-10 19:00:57]: BiÖn Kinh cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-10 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-10 20:00:57]: StartCityWar error....
+[2025-10-11 18:00:57]: L«i ®µi trong thµnh l©m an ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-11 19:00:57]: l©m an cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-11 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-11 20:00:57]: StartCityWar error....
+[2025-10-12 18:00:57]: L«i ®µi trong thµnh D­¬ng Ch©u ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-12 19:00:57]: D­¬ng Ch©u cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-12 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-12 20:00:57]: StartCityWar error....
+[2025-10-13 18:00:57]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-13 19:00:57]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-13 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-13 20:00:57]: StartCityWar error....
+[2025-10-14 18:00:57]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-10-14 19:00:57]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-10-14 20:00:57]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-10-14 20:00:57]: StartCityWar error....
+[2025-11-10 18:00:20]: L«i ®µi trong thµnh thµnh ®« ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-11-10 19:00:20]: thµnh ®« cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 
+[2025-11-10 20:00:20]: Giai ®o¹n tr­íc kh«ng phï hîp, lÏ ra lµ 2, th× l¹i lµ 0. 
+[2025-11-10 20:00:20]: StartCityWar error....
+[2025-11-11 18:00:20]: L«i ®µi trong thµnh §¹i Lý ®· b¾t ®Çu b¸o danh, hoan nghªnh c¸c bang héi ®· ®¹t ®Õn ®¼ng cÊp 0 ®Õn b¸o danh thi ®Êu! 
+[2025-11-11 19:00:20]: §¹i Lý cuéc thi ®Êu L«i ®µi trong thµnh kh«ng ng­êi b¸o danh, tuÇn nµy v¹n sù v« ­u. 

@@ -1,0 +1,103 @@
+MapId	X	Y	NpcRes	NpcName	NpcScript	TaskId
+11	3367	5120	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+11	3376	5119	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+11	3367	5129	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+11	3352	5125	1597	KiÕm T©m H¶i §­êng	\script\activitysys\config\32\gatherobj.lua	1
+162	1778	2974	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+162	1788	2974	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+162	1794	2960	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+162	1798	2952	1598	HiÖp H­¬ng Th¶o	\script\activitysys\config\32\gatherobj.lua	2
+80	1862	3184	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+80	1857	3188	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+80	1879	3188	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+80	1878	3201	1599	T×nh NghÜa Kim Lan	\script\activitysys\config\32\gatherobj.lua	3
+1	1483	3476	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+1	1487	3485	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+1	1495	3478	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+1	1497	3489	1600	Duyªn Tr­êng Thanh Liªn	\script\activitysys\config\32\gatherobj.lua	4
+78	1641	3422	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1646	3422	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1641	3428	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1646	3428	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1641	3435	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1646	3435	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1641	3441	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1646	3441	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1641	3448	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+78	1646	3448	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3252	5260	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3258	5260	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3252	5268	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3258	5268	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3252	5274	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3258	5274	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3252	5280	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3258	5280	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3252	5286	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+11	3258	5286	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3372	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3376	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3380	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3384	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3388	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3392	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3396	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3400	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3404	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+1	1689	3408	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1745	3329	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1745	3334	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1741	3334	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1749	3334	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1745	3343	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1741	3343	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1749	3343	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1745	3350	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1741	3350	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+162	1749	3350	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1736	3263	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1742	3263	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1736	3268	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1742	3268	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1736	3273	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1742	3273	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1736	3278	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1742	3278	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1736	3283	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+37	1742	3283	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1774	3284	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1780	3284	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1786	3284	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1774	3290	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1780	3290	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1786	3290	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1774	3294	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1780	3294	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1786	3294	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+80	1774	3303	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3340	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3347	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3354	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3361	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3369	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3376	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3384	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3392	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3398	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+176	1739	3405	1597	Ng«i Sao H¹nh Phóc	\script\global\vldoxanh\saohanhphuc\gatherobj.lua	1
+100	1554	3283	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1554	3275	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1554	3267	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1554	3259	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1550	3283	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1550	3275	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1550	3267	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1550	3259	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1546	3283	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1546	3275	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1546	3267	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1546	3259	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1542	3283	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1542	3275	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1542	3267	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1
+100	1542	3259	1972	Lóa Vµng	\script\global\vldoxanh\luavang\gatherobj.lua	1

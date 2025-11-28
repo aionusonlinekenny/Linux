@@ -1,0 +1,7 @@
+Account	RoleName	Faction	Level	Money	TranLifeCount	WllsHonor	Energy	PetName	PetLevel
+kennylucia	H­ÙTróc	ShaoLin	120	125020	0	0	0		0
+kennylucia3	KiÒuÙPhong	Begin	1	0	0	0	0		0
+kennylucia2	NhËmÙDoanhÙDoanh	Begin	1	0	0	0	0		0
+kennylucia4	Th¸iÙÊt	WuDang	120	0	0	0	0		0
+kennylucia1	§iÒnÙB¸ÙQuan	Begin	1	0	0	0	0		0
+==Output Finish==

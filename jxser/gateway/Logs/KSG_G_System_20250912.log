@@ -1,0 +1,63 @@
+2025-09-12 00:12:44	Node[0] connect: Ip(127.0.0.1 : 38168), Identity(0)
+2025-09-12 00:12:44	ClientConnectCreate:[0]127.0.0.1 : 38168
+2025-09-12 00:12:44	Bishop claim from Node[0]!
+2025-09-12 00:13:36	Node[1] connect: Ip(127.0.0.1 : 50227), Identity(1)
+2025-09-12 00:13:36	ClientConnectCreate:[1]127.0.0.1 : 50227
+2025-09-12 00:20:13	GetRoleInfo(H­ÙTróc) OK: Enter Node[0](127.0.0.1 : 38168)
+2025-09-12 00:20:13	GetRoleData(H­ÙTróc) OK: datalen(22936)
+2025-09-12 00:20:14	EnterGame(H­ÙTróc) OK: Move from Node[0] to Node[1]
+2025-09-12 00:53:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 01:26:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 02:00:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 02:12:44	Deliver statdata: 0 bytes
+2025-09-12 02:33:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 03:06:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 03:40:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 04:12:44	Deliver statdata: 0 bytes
+2025-09-12 04:13:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 04:46:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 05:20:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 05:53:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 06:12:44	Deliver statdata: 0 bytes
+2025-09-12 06:26:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 07:00:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 07:33:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 08:06:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 08:12:36	[QuitBackup]is_quit:0
+2025-09-12 08:12:44	Deliver statdata: 12 bytes
+2025-09-12 08:40:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 09:13:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 09:46:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 10:12:44	Deliver statdata: 12 bytes
+2025-09-12 10:20:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 10:53:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 11:26:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 12:00:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 12:12:44	Deliver statdata: 12 bytes
+2025-09-12 12:33:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 13:06:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 13:40:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 14:12:44	Deliver statdata: 12 bytes
+2025-09-12 14:13:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 14:46:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 15:20:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 15:53:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 16:12:36	[QuitBackup]is_quit:0
+2025-09-12 16:12:44	Deliver statdata: 12 bytes
+2025-09-12 16:26:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 17:00:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 17:33:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 18:06:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 18:12:44	Deliver statdata: 12 bytes
+2025-09-12 18:40:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 19:13:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 19:46:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 20:12:44	Deliver statdata: 12 bytes
+2025-09-12 20:20:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 20:53:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 21:26:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 22:00:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 22:12:44	Deliver statdata: 12 bytes
+2025-09-12 22:33:35	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 23:06:55	SaveRoleData(H­ÙTróc) OK: datalen(22728)
+2025-09-12 23:40:15	SaveRoleData(H­ÙTróc) OK: datalen(22728)

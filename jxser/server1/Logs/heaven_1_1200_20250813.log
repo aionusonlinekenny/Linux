@@ -1,0 +1,1117 @@
+2025-08-13 18:59:26	heaven(version 2.02) log start....
+2025-08-13 23:05:13	Allocate Connectionidx:0, IP:167.94.138.207, LeftFreeCount:1199
+2025-08-13 23:05:16	Callback Connectionidx:0, CloseReason:5, IP:167.94.138.207, LeftFreeCount: 1200
+2025-08-13 23:05:22	Allocate Connectionidx:1, IP:167.94.138.207, LeftFreeCount:1199
+2025-08-13 23:05:32	Callback Connectionidx:1, CloseReason:5, IP:167.94.138.207, LeftFreeCount: 1200
+2025-08-14 01:13:37	Allocate Connectionidx:2, IP:162.216.149.170, LeftFreeCount:1199
+2025-08-14 01:13:45	Callback Connectionidx:2, CloseReason:5, IP:162.216.149.170, LeftFreeCount: 1200
+2025-08-14 01:15:06	Allocate Connectionidx:3, IP:162.216.149.170, LeftFreeCount:1199
+2025-08-14 01:15:06	Callback Connectionidx:3, CloseReason:5, IP:162.216.149.170, LeftFreeCount: 1200
+2025-08-14 07:05:02	Allocate Connectionidx:4, IP:194.165.16.163, LeftFreeCount:1199
+2025-08-14 07:05:02	Callback Connectionidx:4, CloseReason:3, IP:194.165.16.163, LeftFreeCount: 1200
+2025-08-14 10:23:33	Allocate Connectionidx:5, IP:147.185.133.129, LeftFreeCount:1199
+2025-08-14 10:23:40	Callback Connectionidx:5, CloseReason:5, IP:147.185.133.129, LeftFreeCount: 1200
+2025-08-14 10:24:58	Allocate Connectionidx:6, IP:147.185.133.129, LeftFreeCount:1199
+2025-08-14 10:24:58	Callback Connectionidx:6, CloseReason:5, IP:147.185.133.129, LeftFreeCount: 1200
+2025-08-14 14:35:17	Allocate Connectionidx:7, IP:45.56.79.53, LeftFreeCount:1199
+2025-08-14 14:35:17	Callback Connectionidx:7, CloseReason:5, IP:45.56.79.53, LeftFreeCount: 1200
+2025-08-14 15:35:51	Allocate Connectionidx:8, IP:87.236.176.179, LeftFreeCount:1199
+2025-08-14 15:35:53	Callback Connectionidx:8, CloseReason:2, IP:87.236.176.179, LeftFreeCount: 1200
+2025-08-14 17:54:57	Allocate Connectionidx:9, IP:35.203.211.134, LeftFreeCount:1199
+2025-08-14 17:55:27	Callback Connectionidx:9, CloseReason:5, IP:35.203.211.134, LeftFreeCount: 1200
+2025-08-14 18:59:19	Allocate Connectionidx:10, IP:64.227.146.243, LeftFreeCount:1199
+2025-08-14 18:59:19	Callback Connectionidx:10, CloseReason:2, IP:64.227.146.243, LeftFreeCount: 1200
+2025-08-14 18:59:19	Allocate Connectionidx:11, IP:64.227.146.243, LeftFreeCount:1199
+2025-08-14 18:59:20	Callback Connectionidx:11, CloseReason:2, IP:64.227.146.243, LeftFreeCount: 1200
+2025-08-14 18:59:20	Allocate Connectionidx:12, IP:64.227.146.243, LeftFreeCount:1199
+2025-08-14 18:59:30	Callback Connectionidx:12, CloseReason:2, IP:64.227.146.243, LeftFreeCount: 1200
+2025-08-14 18:59:30	Allocate Connectionidx:13, IP:64.227.146.243, LeftFreeCount:1199
+2025-08-14 18:59:30	Callback Connectionidx:13, CloseReason:2, IP:64.227.146.243, LeftFreeCount: 1200
+2025-08-14 18:59:30	Allocate Connectionidx:14, IP:64.227.146.243, LeftFreeCount:1199
+2025-08-14 18:59:40	Callback Connectionidx:14, CloseReason:2, IP:64.227.146.243, LeftFreeCount: 1200
+2025-08-14 18:59:40	Allocate Connectionidx:15, IP:64.227.146.243, LeftFreeCount:1199
+2025-08-14 18:59:41	Callback Connectionidx:15, CloseReason:2, IP:64.227.146.243, LeftFreeCount: 1200
+2025-08-14 23:03:43	Allocate Connectionidx:16, IP:109.196.173.239, LeftFreeCount:1199
+2025-08-14 23:03:43	Callback Connectionidx:16, CloseReason:2, IP:109.196.173.239, LeftFreeCount: 1200
+2025-08-14 23:03:43	Allocate Connectionidx:17, IP:109.196.173.239, LeftFreeCount:1199
+2025-08-14 23:03:48	Callback Connectionidx:17, CloseReason:2, IP:109.196.173.239, LeftFreeCount: 1200
+2025-08-14 23:38:09	Allocate Connectionidx:18, IP:206.168.34.216, LeftFreeCount:1199
+2025-08-14 23:38:12	Callback Connectionidx:18, CloseReason:5, IP:206.168.34.216, LeftFreeCount: 1200
+2025-08-14 23:38:19	Allocate Connectionidx:19, IP:206.168.34.216, LeftFreeCount:1199
+2025-08-14 23:38:28	Callback Connectionidx:19, CloseReason:5, IP:206.168.34.216, LeftFreeCount: 1200
+2025-08-15 00:03:16	Allocate Connectionidx:20, IP:147.185.132.184, LeftFreeCount:1199
+2025-08-15 00:03:22	Callback Connectionidx:20, CloseReason:5, IP:147.185.132.184, LeftFreeCount: 1200
+2025-08-15 00:04:34	Allocate Connectionidx:21, IP:147.185.132.184, LeftFreeCount:1199
+2025-08-15 00:04:34	Callback Connectionidx:21, CloseReason:5, IP:147.185.132.184, LeftFreeCount: 1200
+2025-08-15 03:44:55	Allocate Connectionidx:22, IP:79.124.56.162, LeftFreeCount:1199
+2025-08-15 03:44:55	Callback Connectionidx:22, CloseReason:5, IP:79.124.56.162, LeftFreeCount: 1200
+2025-08-15 10:01:06	Allocate Connectionidx:23, IP:35.203.211.179, LeftFreeCount:1199
+2025-08-15 10:01:30	Callback Connectionidx:23, CloseReason:5, IP:35.203.211.179, LeftFreeCount: 1200
+2025-08-15 10:02:12	Allocate Connectionidx:24, IP:35.203.211.179, LeftFreeCount:1199
+2025-08-15 10:02:12	Callback Connectionidx:24, CloseReason:5, IP:35.203.211.179, LeftFreeCount: 1200
+2025-08-15 11:03:27	Allocate Connectionidx:25, IP:45.227.254.155, LeftFreeCount:1199
+2025-08-15 11:03:27	Callback Connectionidx:25, CloseReason:3, IP:45.227.254.155, LeftFreeCount: 1200
+2025-08-15 12:12:52	Allocate Connectionidx:26, IP:162.142.125.217, LeftFreeCount:1199
+2025-08-15 12:12:55	Callback Connectionidx:26, CloseReason:5, IP:162.142.125.217, LeftFreeCount: 1200
+2025-08-15 12:13:00	Allocate Connectionidx:27, IP:162.142.125.217, LeftFreeCount:1199
+2025-08-15 12:13:11	Callback Connectionidx:27, CloseReason:5, IP:162.142.125.217, LeftFreeCount: 1200
+2025-08-15 13:50:23	Allocate Connectionidx:28, IP:104.234.115.220, LeftFreeCount:1199
+2025-08-15 13:50:42	Allocate Connectionidx:29, IP:104.234.115.220, LeftFreeCount:1198
+2025-08-15 13:50:42	Callback Connectionidx:29, CloseReason:2, IP:104.234.115.220, LeftFreeCount: 1199
+2025-08-15 13:50:52	Allocate Connectionidx:30, IP:104.234.115.220, LeftFreeCount:1198
+2025-08-15 13:51:02	Callback Connectionidx:30, CloseReason:2, IP:104.234.115.220, LeftFreeCount: 1199
+2025-08-15 14:11:31	Allocate Connectionidx:31, IP:138.197.15.182, LeftFreeCount:1198
+2025-08-15 14:11:41	Callback Connectionidx:31, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1199
+2025-08-15 14:11:41	Allocate Connectionidx:32, IP:138.197.15.182, LeftFreeCount:1198
+2025-08-15 14:11:41	Callback Connectionidx:32, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1199
+2025-08-15 14:11:41	Allocate Connectionidx:33, IP:138.197.15.182, LeftFreeCount:1198
+2025-08-15 14:11:41	Callback Connectionidx:33, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1199
+2025-08-15 14:11:41	Allocate Connectionidx:34, IP:138.197.15.182, LeftFreeCount:1198
+2025-08-15 14:11:41	Callback Connectionidx:34, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1199
+2025-08-15 14:11:41	Allocate Connectionidx:35, IP:138.197.15.182, LeftFreeCount:1198
+2025-08-15 14:11:51	Callback Connectionidx:35, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1199
+2025-08-15 14:11:51	Allocate Connectionidx:36, IP:138.197.15.182, LeftFreeCount:1198
+2025-08-15 14:11:51	Callback Connectionidx:36, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1199
+2025-08-15 23:31:31	Allocate Connectionidx:37, IP:147.185.133.225, LeftFreeCount:1198
+2025-08-15 23:31:34	Callback Connectionidx:37, CloseReason:5, IP:147.185.133.225, LeftFreeCount: 1199
+2025-08-15 23:32:30	Allocate Connectionidx:38, IP:147.185.133.225, LeftFreeCount:1198
+2025-08-15 23:32:31	Callback Connectionidx:38, CloseReason:5, IP:147.185.133.225, LeftFreeCount: 1199
+2025-08-16 00:34:59	Allocate Connectionidx:39, IP:168.76.20.229, LeftFreeCount:1198
+2025-08-16 00:34:59	Callback Connectionidx:39, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1199
+2025-08-16 07:27:24	Allocate Connectionidx:40, IP:20.169.105.32, LeftFreeCount:1198
+2025-08-16 07:27:34	Callback Connectionidx:40, CloseReason:2, IP:20.169.105.32, LeftFreeCount: 1199
+2025-08-16 10:39:17	Allocate Connectionidx:41, IP:199.45.155.84, LeftFreeCount:1198
+2025-08-16 10:39:19	Callback Connectionidx:41, CloseReason:5, IP:199.45.155.84, LeftFreeCount: 1199
+2025-08-16 10:39:24	Allocate Connectionidx:42, IP:199.45.155.84, LeftFreeCount:1198
+2025-08-16 10:39:33	Callback Connectionidx:42, CloseReason:5, IP:199.45.155.84, LeftFreeCount: 1199
+2025-08-16 12:14:02	Allocate Connectionidx:43, IP:35.203.210.159, LeftFreeCount:1198
+2025-08-16 12:14:09	Callback Connectionidx:43, CloseReason:5, IP:35.203.210.159, LeftFreeCount: 1199
+2025-08-16 12:15:34	Allocate Connectionidx:44, IP:35.203.210.159, LeftFreeCount:1198
+2025-08-16 12:15:34	Callback Connectionidx:44, CloseReason:5, IP:35.203.210.159, LeftFreeCount: 1199
+2025-08-16 13:13:50	Allocate Connectionidx:45, IP:194.165.16.163, LeftFreeCount:1198
+2025-08-16 13:13:50	Callback Connectionidx:45, CloseReason:3, IP:194.165.16.163, LeftFreeCount: 1199
+2025-08-16 13:26:25	Allocate Connectionidx:46, IP:172.236.228.197, LeftFreeCount:1198
+2025-08-16 13:26:25	Callback Connectionidx:46, CloseReason:2, IP:172.236.228.197, LeftFreeCount: 1199
+2025-08-16 13:26:26	Allocate Connectionidx:47, IP:172.236.228.197, LeftFreeCount:1198
+2025-08-16 13:26:26	Callback Connectionidx:47, CloseReason:2, IP:172.236.228.197, LeftFreeCount: 1199
+2025-08-16 17:20:44	Allocate Connectionidx:48, IP:45.141.86.206, LeftFreeCount:1198
+2025-08-16 17:20:45	Callback Connectionidx:48, CloseReason:3, IP:45.141.86.206, LeftFreeCount: 1199
+2025-08-16 17:20:45	Allocate Connectionidx:49, IP:45.141.86.206, LeftFreeCount:1198
+2025-08-16 17:20:45	Callback Connectionidx:49, CloseReason:3, IP:45.141.86.206, LeftFreeCount: 1199
+2025-08-16 17:20:45	Allocate Connectionidx:50, IP:45.141.86.206, LeftFreeCount:1198
+2025-08-16 17:20:45	Callback Connectionidx:50, CloseReason:3, IP:45.141.86.206, LeftFreeCount: 1199
+2025-08-16 17:23:44	Allocate Connectionidx:51, IP:45.79.181.104, LeftFreeCount:1198
+2025-08-16 17:23:44	Callback Connectionidx:51, CloseReason:2, IP:45.79.181.104, LeftFreeCount: 1199
+2025-08-16 17:23:44	Allocate Connectionidx:52, IP:45.79.181.104, LeftFreeCount:1198
+2025-08-16 17:23:44	Callback Connectionidx:52, CloseReason:2, IP:45.79.181.104, LeftFreeCount: 1199
+2025-08-17 00:51:52	Allocate Connectionidx:53, IP:203.55.131.4, LeftFreeCount:1198
+2025-08-17 00:51:52	Callback Connectionidx:53, CloseReason:2, IP:203.55.131.4, LeftFreeCount: 1199
+2025-08-17 00:53:27	Allocate Connectionidx:54, IP:162.216.149.240, LeftFreeCount:1198
+2025-08-17 00:53:38	Callback Connectionidx:54, CloseReason:5, IP:162.216.149.240, LeftFreeCount: 1199
+2025-08-17 00:55:12	Allocate Connectionidx:55, IP:162.216.149.240, LeftFreeCount:1198
+2025-08-17 00:55:12	Callback Connectionidx:55, CloseReason:5, IP:162.216.149.240, LeftFreeCount: 1199
+2025-08-17 01:07:15	Allocate Connectionidx:56, IP:203.55.131.4, LeftFreeCount:1198
+2025-08-17 01:07:15	Callback Connectionidx:56, CloseReason:2, IP:203.55.131.4, LeftFreeCount: 1199
+2025-08-17 06:39:09	Allocate Connectionidx:57, IP:185.247.137.69, LeftFreeCount:1198
+2025-08-17 06:39:11	Callback Connectionidx:57, CloseReason:2, IP:185.247.137.69, LeftFreeCount: 1199
+2025-08-17 07:21:54	Allocate Connectionidx:58, IP:165.22.47.52, LeftFreeCount:1198
+2025-08-17 07:21:54	Callback Connectionidx:58, CloseReason:5, IP:165.22.47.52, LeftFreeCount: 1199
+2025-08-17 10:32:31	Allocate Connectionidx:59, IP:162.216.150.184, LeftFreeCount:1198
+2025-08-17 10:32:36	Callback Connectionidx:59, CloseReason:5, IP:162.216.150.184, LeftFreeCount: 1199
+2025-08-17 10:33:36	Allocate Connectionidx:60, IP:162.216.150.184, LeftFreeCount:1198
+2025-08-17 10:33:37	Callback Connectionidx:60, CloseReason:5, IP:162.216.150.184, LeftFreeCount: 1199
+2025-08-17 11:54:51	Allocate Connectionidx:61, IP:167.94.138.161, LeftFreeCount:1198
+2025-08-17 11:54:52	Callback Connectionidx:61, CloseReason:5, IP:167.94.138.161, LeftFreeCount: 1199
+2025-08-17 11:54:52	Allocate Connectionidx:62, IP:167.94.138.161, LeftFreeCount:1198
+2025-08-17 11:54:53	Callback Connectionidx:62, CloseReason:5, IP:167.94.138.161, LeftFreeCount: 1199
+2025-08-17 11:55:16	Allocate Connectionidx:63, IP:162.142.125.34, LeftFreeCount:1198
+2025-08-17 11:55:17	Callback Connectionidx:63, CloseReason:5, IP:162.142.125.34, LeftFreeCount: 1199
+2025-08-17 11:55:18	Allocate Connectionidx:64, IP:162.142.125.34, LeftFreeCount:1198
+2025-08-17 11:55:19	Callback Connectionidx:64, CloseReason:5, IP:162.142.125.34, LeftFreeCount: 1199
+2025-08-17 11:55:20	Allocate Connectionidx:65, IP:162.142.125.34, LeftFreeCount:1198
+2025-08-17 11:55:21	Callback Connectionidx:65, CloseReason:5, IP:162.142.125.34, LeftFreeCount: 1199
+2025-08-17 11:55:42	Allocate Connectionidx:66, IP:206.168.34.44, LeftFreeCount:1198
+2025-08-17 11:55:44	Callback Connectionidx:66, CloseReason:5, IP:206.168.34.44, LeftFreeCount: 1199
+2025-08-17 11:55:49	Allocate Connectionidx:67, IP:206.168.34.44, LeftFreeCount:1198
+2025-08-17 11:55:59	Callback Connectionidx:67, CloseReason:5, IP:206.168.34.44, LeftFreeCount: 1199
+2025-08-17 12:15:05	Allocate Connectionidx:68, IP:206.168.34.216, LeftFreeCount:1198
+2025-08-17 12:15:07	Callback Connectionidx:68, CloseReason:5, IP:206.168.34.216, LeftFreeCount: 1199
+2025-08-17 12:15:08	Allocate Connectionidx:69, IP:206.168.34.216, LeftFreeCount:1198
+2025-08-17 12:15:09	Callback Connectionidx:69, CloseReason:5, IP:206.168.34.216, LeftFreeCount: 1199
+2025-08-17 12:15:10	Allocate Connectionidx:70, IP:206.168.34.216, LeftFreeCount:1198
+2025-08-17 12:15:14	Callback Connectionidx:70, CloseReason:5, IP:206.168.34.216, LeftFreeCount: 1199
+2025-08-17 12:15:23	Allocate Connectionidx:71, IP:206.168.34.216, LeftFreeCount:1198
+2025-08-17 12:15:33	Callback Connectionidx:71, CloseReason:5, IP:206.168.34.216, LeftFreeCount: 1199
+2025-08-17 15:28:56	Allocate Connectionidx:72, IP:91.238.181.93, LeftFreeCount:1198
+2025-08-17 15:28:56	Callback Connectionidx:72, CloseReason:3, IP:91.238.181.93, LeftFreeCount: 1199
+2025-08-17 22:02:25	Allocate Connectionidx:73, IP:79.124.56.162, LeftFreeCount:1198
+2025-08-17 22:02:25	Callback Connectionidx:73, CloseReason:3, IP:79.124.56.162, LeftFreeCount: 1199
+2025-08-17 23:53:59	Allocate Connectionidx:74, IP:35.203.210.237, LeftFreeCount:1198
+2025-08-17 23:54:04	Callback Connectionidx:74, CloseReason:5, IP:35.203.210.237, LeftFreeCount: 1199
+2025-08-17 23:55:10	Allocate Connectionidx:75, IP:35.203.210.237, LeftFreeCount:1198
+2025-08-17 23:55:10	Callback Connectionidx:75, CloseReason:5, IP:35.203.210.237, LeftFreeCount: 1199
+2025-08-18 11:21:24	Allocate Connectionidx:76, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:24	Callback Connectionidx:76, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:24	Allocate Connectionidx:77, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:24	Callback Connectionidx:77, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:24	Allocate Connectionidx:78, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:24	Callback Connectionidx:78, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:24	Allocate Connectionidx:79, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:24	Callback Connectionidx:79, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:25	Allocate Connectionidx:80, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:25	Callback Connectionidx:80, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:25	Allocate Connectionidx:81, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:25	Callback Connectionidx:81, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:25	Allocate Connectionidx:82, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:25	Callback Connectionidx:82, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:25	Allocate Connectionidx:83, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:25	Callback Connectionidx:83, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:26	Allocate Connectionidx:84, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:26	Callback Connectionidx:84, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:26	Allocate Connectionidx:85, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:26	Callback Connectionidx:85, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:26	Allocate Connectionidx:86, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:26	Callback Connectionidx:86, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:26	Allocate Connectionidx:87, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:26	Callback Connectionidx:87, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:27	Allocate Connectionidx:88, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:27	Callback Connectionidx:88, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:27	Allocate Connectionidx:89, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:27	Callback Connectionidx:89, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 11:21:27	Allocate Connectionidx:90, IP:45.141.84.49, LeftFreeCount:1198
+2025-08-18 11:21:27	Callback Connectionidx:90, CloseReason:3, IP:45.141.84.49, LeftFreeCount: 1199
+2025-08-18 12:07:01	Allocate Connectionidx:91, IP:162.216.150.229, LeftFreeCount:1198
+2025-08-18 12:07:08	Callback Connectionidx:91, CloseReason:5, IP:162.216.150.229, LeftFreeCount: 1199
+2025-08-18 12:08:26	Allocate Connectionidx:92, IP:162.216.150.229, LeftFreeCount:1198
+2025-08-18 12:08:26	Callback Connectionidx:92, CloseReason:5, IP:162.216.150.229, LeftFreeCount: 1199
+2025-08-18 12:39:37	Allocate Connectionidx:93, IP:162.142.125.207, LeftFreeCount:1198
+2025-08-18 12:39:56	Callback Connectionidx:93, CloseReason:5, IP:162.142.125.207, LeftFreeCount: 1199
+2025-08-18 12:40:01	Allocate Connectionidx:94, IP:162.142.125.207, LeftFreeCount:1198
+2025-08-18 12:40:12	Callback Connectionidx:94, CloseReason:5, IP:162.142.125.207, LeftFreeCount: 1199
+2025-08-18 13:48:28	Allocate Connectionidx:95, IP:199.45.155.108, LeftFreeCount:1198
+2025-08-18 13:48:31	Callback Connectionidx:95, CloseReason:5, IP:199.45.155.108, LeftFreeCount: 1199
+2025-08-18 13:48:37	Allocate Connectionidx:96, IP:199.45.155.108, LeftFreeCount:1198
+2025-08-18 13:48:46	Callback Connectionidx:96, CloseReason:5, IP:199.45.155.108, LeftFreeCount: 1199
+2025-08-18 15:13:08	Allocate Connectionidx:97, IP:45.227.252.26, LeftFreeCount:1198
+2025-08-18 15:13:08	Callback Connectionidx:97, CloseReason:3, IP:45.227.252.26, LeftFreeCount: 1199
+2025-08-18 17:29:05	Allocate Connectionidx:98, IP:45.227.252.26, LeftFreeCount:1198
+2025-08-18 17:29:05	Callback Connectionidx:98, CloseReason:3, IP:45.227.252.26, LeftFreeCount: 1199
+2025-08-18 17:50:20	Allocate Connectionidx:99, IP:91.238.181.93, LeftFreeCount:1198
+2025-08-18 17:50:20	Callback Connectionidx:99, CloseReason:3, IP:91.238.181.93, LeftFreeCount: 1199
+2025-08-18 19:07:25	Allocate Connectionidx:100, IP:185.180.141.47, LeftFreeCount:1198
+2025-08-18 19:07:25	Callback Connectionidx:100, CloseReason:2, IP:185.180.141.47, LeftFreeCount: 1199
+2025-08-18 19:07:26	Allocate Connectionidx:101, IP:185.180.141.49, LeftFreeCount:1198
+2025-08-18 19:07:33	Callback Connectionidx:101, CloseReason:2, IP:185.180.141.49, LeftFreeCount: 1199
+2025-08-18 19:07:34	Allocate Connectionidx:102, IP:185.180.141.47, LeftFreeCount:1198
+2025-08-18 19:07:34	Callback Connectionidx:102, CloseReason:2, IP:185.180.141.47, LeftFreeCount: 1199
+2025-08-18 19:07:36	Allocate Connectionidx:103, IP:185.180.141.47, LeftFreeCount:1198
+2025-08-18 19:07:40	Callback Connectionidx:103, CloseReason:2, IP:185.180.141.47, LeftFreeCount: 1199
+2025-08-18 19:07:40	Allocate Connectionidx:104, IP:185.180.141.49, LeftFreeCount:1198
+2025-08-18 19:07:48	Callback Connectionidx:104, CloseReason:2, IP:185.180.141.49, LeftFreeCount: 1199
+2025-08-18 19:07:49	Allocate Connectionidx:105, IP:185.180.141.48, LeftFreeCount:1198
+2025-08-18 19:07:53	Callback Connectionidx:105, CloseReason:2, IP:185.180.141.48, LeftFreeCount: 1199
+2025-08-18 19:07:53	Allocate Connectionidx:106, IP:185.180.141.47, LeftFreeCount:1198
+2025-08-18 19:07:53	Callback Connectionidx:106, CloseReason:5, IP:185.180.141.47, LeftFreeCount: 1199
+2025-08-18 19:07:53	Allocate Connectionidx:107, IP:185.180.141.47, LeftFreeCount:1198
+2025-08-18 19:07:53	Callback Connectionidx:107, CloseReason:2, IP:185.180.141.47, LeftFreeCount: 1199
+2025-08-18 19:07:53	Allocate Connectionidx:108, IP:185.180.141.49, LeftFreeCount:1198
+2025-08-18 19:07:58	Callback Connectionidx:108, CloseReason:2, IP:185.180.141.49, LeftFreeCount: 1199
+2025-08-18 22:32:54	Allocate Connectionidx:109, IP:185.165.191.26, LeftFreeCount:1198
+2025-08-18 22:32:54	Callback Connectionidx:109, CloseReason:2, IP:185.165.191.26, LeftFreeCount: 1199
+2025-08-18 23:22:10	Allocate Connectionidx:110, IP:168.76.20.229, LeftFreeCount:1198
+2025-08-18 23:22:11	Callback Connectionidx:110, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1199
+2025-08-19 00:15:25	Allocate Connectionidx:111, IP:138.91.107.7, LeftFreeCount:1198
+2025-08-19 00:15:35	Callback Connectionidx:111, CloseReason:2, IP:138.91.107.7, LeftFreeCount: 1199
+2025-08-19 01:27:55	Allocate Connectionidx:112, IP:35.203.211.70, LeftFreeCount:1198
+2025-08-19 01:27:58	Callback Connectionidx:112, CloseReason:5, IP:35.203.211.70, LeftFreeCount: 1199
+2025-08-19 01:28:55	Allocate Connectionidx:113, IP:35.203.211.70, LeftFreeCount:1198
+2025-08-19 01:28:55	Callback Connectionidx:113, CloseReason:5, IP:35.203.211.70, LeftFreeCount: 1199
+2025-08-19 11:16:22	Allocate Connectionidx:114, IP:206.168.34.65, LeftFreeCount:1198
+2025-08-19 11:16:26	Callback Connectionidx:114, CloseReason:5, IP:206.168.34.65, LeftFreeCount: 1199
+2025-08-19 11:16:26	Allocate Connectionidx:115, IP:206.168.34.65, LeftFreeCount:1198
+2025-08-19 11:16:26	Callback Connectionidx:115, CloseReason:5, IP:206.168.34.65, LeftFreeCount: 1199
+2025-08-19 11:16:27	Allocate Connectionidx:116, IP:206.168.34.65, LeftFreeCount:1198
+2025-08-19 11:16:30	Callback Connectionidx:116, CloseReason:5, IP:206.168.34.65, LeftFreeCount: 1199
+2025-08-19 11:16:40	Allocate Connectionidx:117, IP:206.168.34.65, LeftFreeCount:1198
+2025-08-19 11:16:49	Callback Connectionidx:117, CloseReason:5, IP:206.168.34.65, LeftFreeCount: 1199
+2025-08-19 11:59:25	Allocate Connectionidx:118, IP:78.128.114.34, LeftFreeCount:1198
+2025-08-19 11:59:35	Callback Connectionidx:118, CloseReason:5, IP:78.128.114.34, LeftFreeCount: 1199
+2025-08-19 12:50:39	Allocate Connectionidx:119, IP:35.203.211.170, LeftFreeCount:1198
+2025-08-19 12:50:42	Callback Connectionidx:119, CloseReason:5, IP:35.203.211.170, LeftFreeCount: 1199
+2025-08-19 12:51:40	Allocate Connectionidx:120, IP:35.203.211.170, LeftFreeCount:1198
+2025-08-19 12:51:40	Callback Connectionidx:120, CloseReason:5, IP:35.203.211.170, LeftFreeCount: 1199
+2025-08-19 21:13:54	Allocate Connectionidx:121, IP:188.246.224.87, LeftFreeCount:1198
+2025-08-19 21:13:54	Callback Connectionidx:121, CloseReason:3, IP:188.246.224.87, LeftFreeCount: 1199
+2025-08-19 22:05:34	Allocate Connectionidx:122, IP:45.227.254.155, LeftFreeCount:1198
+2025-08-19 22:05:34	Callback Connectionidx:122, CloseReason:3, IP:45.227.254.155, LeftFreeCount: 1199
+2025-08-20 00:55:35	Allocate Connectionidx:123, IP:162.216.150.234, LeftFreeCount:1198
+2025-08-20 00:55:40	Callback Connectionidx:123, CloseReason:5, IP:162.216.150.234, LeftFreeCount: 1199
+2025-08-20 00:56:48	Allocate Connectionidx:124, IP:162.216.150.234, LeftFreeCount:1198
+2025-08-20 00:56:48	Callback Connectionidx:124, CloseReason:5, IP:162.216.150.234, LeftFreeCount: 1199
+2025-08-20 05:50:04	Allocate Connectionidx:125, IP:134.122.30.157, LeftFreeCount:1198
+2025-08-20 05:50:04	Callback Connectionidx:125, CloseReason:5, IP:134.122.30.157, LeftFreeCount: 1199
+2025-08-20 09:29:14	Allocate Connectionidx:126, IP:199.45.155.99, LeftFreeCount:1198
+2025-08-20 09:29:16	Callback Connectionidx:126, CloseReason:5, IP:199.45.155.99, LeftFreeCount: 1199
+2025-08-20 09:29:20	Allocate Connectionidx:127, IP:199.45.155.99, LeftFreeCount:1198
+2025-08-20 09:29:30	Callback Connectionidx:127, CloseReason:5, IP:199.45.155.99, LeftFreeCount: 1199
+2025-08-20 10:35:43	Allocate Connectionidx:128, IP:147.185.133.89, LeftFreeCount:1198
+2025-08-20 10:35:48	Callback Connectionidx:128, CloseReason:5, IP:147.185.133.89, LeftFreeCount: 1199
+2025-08-20 10:36:53	Allocate Connectionidx:129, IP:147.185.133.89, LeftFreeCount:1198
+2025-08-20 10:36:53	Callback Connectionidx:129, CloseReason:5, IP:147.185.133.89, LeftFreeCount: 1199
+2025-08-20 11:21:32	Allocate Connectionidx:130, IP:188.246.224.87, LeftFreeCount:1198
+2025-08-20 11:21:32	Callback Connectionidx:130, CloseReason:3, IP:188.246.224.87, LeftFreeCount: 1199
+2025-08-20 11:40:38	Allocate Connectionidx:131, IP:34.73.146.163, LeftFreeCount:1198
+2025-08-20 11:40:58	Allocate Connectionidx:132, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:10	Callback Connectionidx:132, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:10	Allocate Connectionidx:133, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:15	Callback Connectionidx:133, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:15	Allocate Connectionidx:134, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:20	Callback Connectionidx:134, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:20	Allocate Connectionidx:135, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:25	Callback Connectionidx:135, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:25	Allocate Connectionidx:136, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:30	Callback Connectionidx:136, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:30	Allocate Connectionidx:137, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:35	Callback Connectionidx:137, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:35	Allocate Connectionidx:138, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:40	Callback Connectionidx:138, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:40	Allocate Connectionidx:139, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:45	Callback Connectionidx:139, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:45	Allocate Connectionidx:140, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:50	Callback Connectionidx:140, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:50	Allocate Connectionidx:141, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:41:55	Callback Connectionidx:141, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:41:55	Allocate Connectionidx:142, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:00	Callback Connectionidx:142, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:00	Allocate Connectionidx:143, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:05	Callback Connectionidx:143, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:05	Allocate Connectionidx:144, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:10	Callback Connectionidx:144, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:10	Allocate Connectionidx:145, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:10	Callback Connectionidx:145, CloseReason:3, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:10	Allocate Connectionidx:146, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:15	Callback Connectionidx:146, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:15	Allocate Connectionidx:147, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:20	Callback Connectionidx:147, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:20	Allocate Connectionidx:148, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:25	Callback Connectionidx:148, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:25	Allocate Connectionidx:149, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:30	Callback Connectionidx:149, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:31	Allocate Connectionidx:150, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:36	Callback Connectionidx:150, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:36	Allocate Connectionidx:151, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:41	Callback Connectionidx:151, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:41	Allocate Connectionidx:152, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:46	Callback Connectionidx:152, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:46	Allocate Connectionidx:153, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:51	Callback Connectionidx:153, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:51	Allocate Connectionidx:154, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:42:58	Callback Connectionidx:154, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:42:58	Allocate Connectionidx:155, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:03	Callback Connectionidx:155, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:03	Allocate Connectionidx:156, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:03	Callback Connectionidx:156, CloseReason:3, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:03	Allocate Connectionidx:157, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:08	Callback Connectionidx:157, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:08	Allocate Connectionidx:158, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:08	Callback Connectionidx:158, CloseReason:3, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:08	Allocate Connectionidx:159, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:13	Callback Connectionidx:159, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:13	Allocate Connectionidx:160, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:18	Callback Connectionidx:160, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:18	Allocate Connectionidx:161, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:23	Callback Connectionidx:161, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:23	Allocate Connectionidx:162, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:28	Callback Connectionidx:162, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:28	Allocate Connectionidx:163, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:33	Callback Connectionidx:163, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:33	Allocate Connectionidx:164, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:38	Callback Connectionidx:164, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 11:43:39	Allocate Connectionidx:165, IP:34.73.146.163, LeftFreeCount:1197
+2025-08-20 11:43:39	Allocate Connectionidx:166, IP:34.73.146.163, LeftFreeCount:1196
+2025-08-20 11:43:39	Callback Connectionidx:165, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1197
+2025-08-20 11:43:40	Callback Connectionidx:166, CloseReason:2, IP:34.73.146.163, LeftFreeCount: 1198
+2025-08-20 13:36:59	Allocate Connectionidx:167, IP:178.128.84.187, LeftFreeCount:1197
+2025-08-20 13:37:09	Callback Connectionidx:167, CloseReason:2, IP:178.128.84.187, LeftFreeCount: 1198
+2025-08-20 13:37:09	Allocate Connectionidx:168, IP:178.128.84.187, LeftFreeCount:1197
+2025-08-20 13:37:09	Callback Connectionidx:168, CloseReason:2, IP:178.128.84.187, LeftFreeCount: 1198
+2025-08-20 13:37:09	Allocate Connectionidx:169, IP:178.128.84.187, LeftFreeCount:1197
+2025-08-20 13:37:19	Callback Connectionidx:169, CloseReason:2, IP:178.128.84.187, LeftFreeCount: 1198
+2025-08-20 13:37:19	Allocate Connectionidx:170, IP:178.128.84.187, LeftFreeCount:1197
+2025-08-20 13:37:20	Callback Connectionidx:170, CloseReason:2, IP:178.128.84.187, LeftFreeCount: 1198
+2025-08-20 13:37:20	Allocate Connectionidx:171, IP:178.128.84.187, LeftFreeCount:1197
+2025-08-20 13:37:30	Callback Connectionidx:171, CloseReason:2, IP:178.128.84.187, LeftFreeCount: 1198
+2025-08-20 13:37:30	Allocate Connectionidx:172, IP:178.128.84.187, LeftFreeCount:1197
+2025-08-20 13:37:30	Callback Connectionidx:172, CloseReason:2, IP:178.128.84.187, LeftFreeCount: 1198
+2025-08-20 15:12:46	Allocate Connectionidx:173, IP:104.234.115.249, LeftFreeCount:1197
+2025-08-20 15:12:57	Allocate Connectionidx:174, IP:104.234.115.249, LeftFreeCount:1196
+2025-08-20 15:12:57	Callback Connectionidx:174, CloseReason:2, IP:104.234.115.249, LeftFreeCount: 1197
+2025-08-20 15:13:14	Allocate Connectionidx:175, IP:104.234.115.249, LeftFreeCount:1196
+2025-08-20 15:13:24	Callback Connectionidx:175, CloseReason:2, IP:104.234.115.249, LeftFreeCount: 1197
+2025-08-20 15:34:53	Allocate Connectionidx:176, IP:172.236.119.165, LeftFreeCount:1196
+2025-08-20 15:35:23	Callback Connectionidx:176, CloseReason:2, IP:172.236.119.165, LeftFreeCount: 1197
+2025-08-20 15:35:23	Allocate Connectionidx:177, IP:172.236.119.165, LeftFreeCount:1196
+2025-08-20 15:35:23	Callback Connectionidx:177, CloseReason:2, IP:172.236.119.165, LeftFreeCount: 1197
+2025-08-20 18:32:30	Allocate Connectionidx:178, IP:185.247.137.155, LeftFreeCount:1196
+2025-08-20 18:32:32	Callback Connectionidx:178, CloseReason:2, IP:185.247.137.155, LeftFreeCount: 1197
+2025-08-20 23:37:11	Allocate Connectionidx:179, IP:162.216.150.129, LeftFreeCount:1196
+2025-08-20 23:37:18	Callback Connectionidx:179, CloseReason:5, IP:162.216.150.129, LeftFreeCount: 1197
+2025-08-20 23:38:42	Allocate Connectionidx:180, IP:162.216.150.129, LeftFreeCount:1196
+2025-08-20 23:38:43	Callback Connectionidx:180, CloseReason:5, IP:162.216.150.129, LeftFreeCount: 1197
+2025-08-21 00:02:46	Allocate Connectionidx:181, IP:167.99.93.212, LeftFreeCount:1196
+2025-08-21 00:02:46	Callback Connectionidx:181, CloseReason:5, IP:167.99.93.212, LeftFreeCount: 1197
+2025-08-21 00:15:42	Allocate Connectionidx:182, IP:88.214.25.124, LeftFreeCount:1196
+2025-08-21 00:15:42	Callback Connectionidx:182, CloseReason:3, IP:88.214.25.124, LeftFreeCount: 1197
+2025-08-21 01:06:51	Allocate Connectionidx:183, IP:35.203.211.97, LeftFreeCount:1196
+2025-08-21 01:07:22	Callback Connectionidx:183, CloseReason:5, IP:35.203.211.97, LeftFreeCount: 1197
+2025-08-21 09:17:31	Allocate Connectionidx:184, IP:199.45.154.126, LeftFreeCount:1196
+2025-08-21 09:17:33	Callback Connectionidx:184, CloseReason:5, IP:199.45.154.126, LeftFreeCount: 1197
+2025-08-21 09:17:38	Allocate Connectionidx:185, IP:199.45.154.126, LeftFreeCount:1196
+2025-08-21 09:17:48	Callback Connectionidx:185, CloseReason:5, IP:199.45.154.126, LeftFreeCount: 1197
+2025-08-21 09:36:02	Allocate Connectionidx:186, IP:185.243.96.105, LeftFreeCount:1196
+2025-08-21 09:36:02	Callback Connectionidx:186, CloseReason:3, IP:185.243.96.105, LeftFreeCount: 1197
+2025-08-21 09:36:03	Allocate Connectionidx:187, IP:185.243.96.105, LeftFreeCount:1196
+2025-08-21 09:36:03	Callback Connectionidx:187, CloseReason:3, IP:185.243.96.105, LeftFreeCount: 1197
+2025-08-21 09:36:03	Allocate Connectionidx:188, IP:185.243.96.105, LeftFreeCount:1196
+2025-08-21 09:36:03	Callback Connectionidx:188, CloseReason:3, IP:185.243.96.105, LeftFreeCount: 1197
+2025-08-21 09:39:29	Allocate Connectionidx:189, IP:167.94.138.119, LeftFreeCount:1196
+2025-08-21 09:39:30	Callback Connectionidx:189, CloseReason:5, IP:167.94.138.119, LeftFreeCount: 1197
+2025-08-21 09:39:31	Allocate Connectionidx:190, IP:167.94.138.119, LeftFreeCount:1196
+2025-08-21 09:39:32	Callback Connectionidx:190, CloseReason:5, IP:167.94.138.119, LeftFreeCount: 1197
+2025-08-21 09:39:33	Allocate Connectionidx:191, IP:167.94.138.119, LeftFreeCount:1196
+2025-08-21 09:39:37	Callback Connectionidx:191, CloseReason:5, IP:167.94.138.119, LeftFreeCount: 1197
+2025-08-21 09:39:42	Allocate Connectionidx:192, IP:167.94.138.119, LeftFreeCount:1196
+2025-08-21 09:39:52	Callback Connectionidx:192, CloseReason:5, IP:167.94.138.119, LeftFreeCount: 1197
+2025-08-21 12:47:59	Allocate Connectionidx:193, IP:35.203.211.17, LeftFreeCount:1196
+2025-08-21 12:48:04	Callback Connectionidx:193, CloseReason:5, IP:35.203.211.17, LeftFreeCount: 1197
+2025-08-21 12:49:10	Allocate Connectionidx:194, IP:35.203.211.17, LeftFreeCount:1196
+2025-08-21 12:49:10	Callback Connectionidx:194, CloseReason:5, IP:35.203.211.17, LeftFreeCount: 1197
+2025-08-21 21:44:28	Allocate Connectionidx:195, IP:176.65.148.27, LeftFreeCount:1196
+2025-08-21 21:45:28	Callback Connectionidx:195, CloseReason:2, IP:176.65.148.27, LeftFreeCount: 1197
+2025-08-21 22:08:48	Allocate Connectionidx:196, IP:168.76.20.229, LeftFreeCount:1196
+2025-08-21 22:08:48	Callback Connectionidx:196, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1197
+2025-08-22 00:26:10	Allocate Connectionidx:197, IP:162.216.150.96, LeftFreeCount:1196
+2025-08-22 00:26:14	Callback Connectionidx:197, CloseReason:5, IP:162.216.150.96, LeftFreeCount: 1197
+2025-08-22 00:27:20	Allocate Connectionidx:198, IP:162.216.150.96, LeftFreeCount:1196
+2025-08-22 00:27:20	Callback Connectionidx:198, CloseReason:5, IP:162.216.150.96, LeftFreeCount: 1197
+2025-08-22 01:11:23	Allocate Connectionidx:199, IP:36.111.35.80, LeftFreeCount:1196
+2025-08-22 01:11:23	Callback Connectionidx:199, CloseReason:3, IP:36.111.35.80, LeftFreeCount: 1197
+2025-08-22 01:11:24	Allocate Connectionidx:200, IP:36.111.35.80, LeftFreeCount:1196
+2025-08-22 01:11:24	Callback Connectionidx:200, CloseReason:3, IP:36.111.35.80, LeftFreeCount: 1197
+2025-08-22 07:26:25	Allocate Connectionidx:201, IP:91.238.181.95, LeftFreeCount:1196
+2025-08-22 07:26:25	Callback Connectionidx:201, CloseReason:3, IP:91.238.181.95, LeftFreeCount: 1197
+2025-08-22 09:53:19	Allocate Connectionidx:202, IP:199.45.155.100, LeftFreeCount:1196
+2025-08-22 09:53:20	Callback Connectionidx:202, CloseReason:5, IP:199.45.155.100, LeftFreeCount: 1197
+2025-08-22 09:53:21	Allocate Connectionidx:203, IP:199.45.155.100, LeftFreeCount:1196
+2025-08-22 09:53:23	Callback Connectionidx:203, CloseReason:5, IP:199.45.155.100, LeftFreeCount: 1197
+2025-08-22 09:53:29	Allocate Connectionidx:204, IP:199.45.155.100, LeftFreeCount:1196
+2025-08-22 09:53:39	Callback Connectionidx:204, CloseReason:5, IP:199.45.155.100, LeftFreeCount: 1197
+2025-08-22 13:36:07	Allocate Connectionidx:205, IP:35.203.211.174, LeftFreeCount:1196
+2025-08-22 13:36:31	Callback Connectionidx:205, CloseReason:5, IP:35.203.211.174, LeftFreeCount: 1197
+2025-08-22 13:37:14	Allocate Connectionidx:206, IP:35.203.211.174, LeftFreeCount:1196
+2025-08-22 13:37:14	Callback Connectionidx:206, CloseReason:5, IP:35.203.211.174, LeftFreeCount: 1197
+2025-08-22 14:32:52	Allocate Connectionidx:207, IP:45.79.8.221, LeftFreeCount:1196
+2025-08-22 14:32:52	Callback Connectionidx:207, CloseReason:5, IP:45.79.8.221, LeftFreeCount: 1197
+2025-08-22 14:43:37	Allocate Connectionidx:208, IP:20.106.32.153, LeftFreeCount:1196
+2025-08-22 14:43:47	Callback Connectionidx:208, CloseReason:2, IP:20.106.32.153, LeftFreeCount: 1197
+2025-08-22 20:43:55	Allocate Connectionidx:209, IP:93.123.109.35, LeftFreeCount:1196
+2025-08-22 20:43:57	Callback Connectionidx:209, CloseReason:2, IP:93.123.109.35, LeftFreeCount: 1197
+2025-08-22 22:25:14	Allocate Connectionidx:210, IP:167.71.229.198, LeftFreeCount:1196
+2025-08-22 22:25:15	Callback Connectionidx:210, CloseReason:5, IP:167.71.229.198, LeftFreeCount: 1197
+2025-08-23 00:27:13	Allocate Connectionidx:211, IP:98.80.4.94, LeftFreeCount:1196
+2025-08-23 00:27:13	Callback Connectionidx:211, CloseReason:3, IP:98.80.4.94, LeftFreeCount: 1197
+2025-08-23 00:27:13	Allocate Connectionidx:212, IP:98.80.4.94, LeftFreeCount:1196
+2025-08-23 00:27:13	Callback Connectionidx:212, CloseReason:2, IP:98.80.4.94, LeftFreeCount: 1197
+2025-08-23 00:27:13	Allocate Connectionidx:213, IP:98.80.4.94, LeftFreeCount:1196
+2025-08-23 00:27:18	Callback Connectionidx:213, CloseReason:2, IP:98.80.4.94, LeftFreeCount: 1197
+2025-08-23 00:27:18	Allocate Connectionidx:214, IP:98.80.4.94, LeftFreeCount:1196
+2025-08-23 00:27:18	Callback Connectionidx:214, CloseReason:2, IP:98.80.4.94, LeftFreeCount: 1197
+2025-08-23 00:27:18	Allocate Connectionidx:215, IP:98.80.4.94, LeftFreeCount:1196
+2025-08-23 00:27:19	Callback Connectionidx:215, CloseReason:2, IP:98.80.4.94, LeftFreeCount: 1197
+2025-08-23 02:13:35	Allocate Connectionidx:216, IP:162.216.150.56, LeftFreeCount:1196
+2025-08-23 02:13:41	Callback Connectionidx:216, CloseReason:5, IP:162.216.150.56, LeftFreeCount: 1197
+2025-08-23 02:14:54	Allocate Connectionidx:217, IP:162.216.150.56, LeftFreeCount:1196
+2025-08-23 02:14:54	Callback Connectionidx:217, CloseReason:5, IP:162.216.150.56, LeftFreeCount: 1197
+2025-08-23 05:48:13	Allocate Connectionidx:218, IP:178.22.24.44, LeftFreeCount:1196
+2025-08-23 05:48:13	Callback Connectionidx:218, CloseReason:3, IP:178.22.24.44, LeftFreeCount: 1197
+2025-08-23 07:37:06	Allocate Connectionidx:219, IP:178.22.24.44, LeftFreeCount:1196
+2025-08-23 07:37:06	Callback Connectionidx:219, CloseReason:3, IP:178.22.24.44, LeftFreeCount: 1197
+2025-08-23 09:00:06	Allocate Connectionidx:220, IP:194.165.16.164, LeftFreeCount:1196
+2025-08-23 09:00:06	Callback Connectionidx:220, CloseReason:3, IP:194.165.16.164, LeftFreeCount: 1197
+2025-08-23 10:40:27	Allocate Connectionidx:221, IP:167.94.138.205, LeftFreeCount:1196
+2025-08-23 10:40:30	Callback Connectionidx:221, CloseReason:5, IP:167.94.138.205, LeftFreeCount: 1197
+2025-08-23 10:40:37	Allocate Connectionidx:222, IP:167.94.138.205, LeftFreeCount:1196
+2025-08-23 10:40:46	Callback Connectionidx:222, CloseReason:5, IP:167.94.138.205, LeftFreeCount: 1197
+2025-08-23 10:53:12	Allocate Connectionidx:223, IP:206.168.34.91, LeftFreeCount:1196
+2025-08-23 10:53:14	Callback Connectionidx:223, CloseReason:5, IP:206.168.34.91, LeftFreeCount: 1197
+2025-08-23 10:53:19	Allocate Connectionidx:224, IP:206.168.34.91, LeftFreeCount:1196
+2025-08-23 10:53:28	Callback Connectionidx:224, CloseReason:5, IP:206.168.34.91, LeftFreeCount: 1197
+2025-08-23 11:37:19	Allocate Connectionidx:225, IP:147.185.133.123, LeftFreeCount:1196
+2025-08-23 11:37:44	Callback Connectionidx:225, CloseReason:5, IP:147.185.133.123, LeftFreeCount: 1197
+2025-08-23 11:38:31	Allocate Connectionidx:226, IP:147.185.133.123, LeftFreeCount:1196
+2025-08-23 11:38:31	Callback Connectionidx:226, CloseReason:5, IP:147.185.133.123, LeftFreeCount: 1197
+2025-08-23 20:27:22	Allocate Connectionidx:227, IP:192.155.90.118, LeftFreeCount:1196
+2025-08-23 20:27:52	Callback Connectionidx:227, CloseReason:2, IP:192.155.90.118, LeftFreeCount: 1197
+2025-08-23 20:27:52	Allocate Connectionidx:228, IP:192.155.90.118, LeftFreeCount:1196
+2025-08-23 20:27:52	Callback Connectionidx:228, CloseReason:2, IP:192.155.90.118, LeftFreeCount: 1197
+2025-08-24 01:24:12	Allocate Connectionidx:229, IP:162.216.149.43, LeftFreeCount:1196
+2025-08-24 01:24:23	Callback Connectionidx:229, CloseReason:5, IP:162.216.149.43, LeftFreeCount: 1197
+2025-08-24 01:26:02	Allocate Connectionidx:230, IP:162.216.149.43, LeftFreeCount:1196
+2025-08-24 01:26:02	Callback Connectionidx:230, CloseReason:5, IP:162.216.149.43, LeftFreeCount: 1197
+2025-08-24 02:43:34	Allocate Connectionidx:231, IP:45.142.193.123, LeftFreeCount:1196
+2025-08-24 02:43:45	Callback Connectionidx:231, CloseReason:5, IP:45.142.193.123, LeftFreeCount: 1197
+2025-08-24 04:59:47	Allocate Connectionidx:232, IP:87.236.176.162, LeftFreeCount:1196
+2025-08-24 04:59:49	Callback Connectionidx:232, CloseReason:2, IP:87.236.176.162, LeftFreeCount: 1197
+2025-08-24 10:07:15	Allocate Connectionidx:233, IP:134.122.106.248, LeftFreeCount:1196
+2025-08-24 10:07:25	Callback Connectionidx:233, CloseReason:2, IP:134.122.106.248, LeftFreeCount: 1197
+2025-08-24 10:07:25	Allocate Connectionidx:234, IP:134.122.106.248, LeftFreeCount:1196
+2025-08-24 10:07:25	Callback Connectionidx:234, CloseReason:2, IP:134.122.106.248, LeftFreeCount: 1197
+2025-08-24 10:07:25	Allocate Connectionidx:235, IP:134.122.106.248, LeftFreeCount:1196
+2025-08-24 10:07:35	Callback Connectionidx:235, CloseReason:2, IP:134.122.106.248, LeftFreeCount: 1197
+2025-08-24 10:07:35	Allocate Connectionidx:236, IP:134.122.106.248, LeftFreeCount:1196
+2025-08-24 10:07:36	Callback Connectionidx:236, CloseReason:2, IP:134.122.106.248, LeftFreeCount: 1197
+2025-08-24 10:07:36	Allocate Connectionidx:237, IP:134.122.106.248, LeftFreeCount:1196
+2025-08-24 10:07:36	Callback Connectionidx:237, CloseReason:2, IP:134.122.106.248, LeftFreeCount: 1197
+2025-08-24 10:07:36	Allocate Connectionidx:238, IP:134.122.106.248, LeftFreeCount:1196
+2025-08-24 10:07:36	Callback Connectionidx:238, CloseReason:2, IP:134.122.106.248, LeftFreeCount: 1197
+2025-08-24 11:41:02	Allocate Connectionidx:239, IP:167.94.138.115, LeftFreeCount:1196
+2025-08-24 11:41:05	Callback Connectionidx:239, CloseReason:5, IP:167.94.138.115, LeftFreeCount: 1197
+2025-08-24 11:41:11	Allocate Connectionidx:240, IP:167.94.138.115, LeftFreeCount:1196
+2025-08-24 11:41:21	Callback Connectionidx:240, CloseReason:5, IP:167.94.138.115, LeftFreeCount: 1197
+2025-08-24 12:04:52	Allocate Connectionidx:241, IP:35.203.210.39, LeftFreeCount:1196
+2025-08-24 12:05:16	Callback Connectionidx:241, CloseReason:5, IP:35.203.210.39, LeftFreeCount: 1197
+2025-08-24 12:06:00	Allocate Connectionidx:242, IP:35.203.210.39, LeftFreeCount:1196
+2025-08-24 12:06:00	Callback Connectionidx:242, CloseReason:5, IP:35.203.210.39, LeftFreeCount: 1197
+2025-08-24 13:16:06	Allocate Connectionidx:243, IP:45.227.254.155, LeftFreeCount:1196
+2025-08-24 13:16:06	Callback Connectionidx:243, CloseReason:3, IP:45.227.254.155, LeftFreeCount: 1197
+2025-08-24 13:18:23	Allocate Connectionidx:244, IP:206.168.34.43, LeftFreeCount:1196
+2025-08-24 13:18:25	Callback Connectionidx:244, CloseReason:5, IP:206.168.34.43, LeftFreeCount: 1197
+2025-08-24 13:18:30	Allocate Connectionidx:245, IP:206.168.34.43, LeftFreeCount:1196
+2025-08-24 13:18:41	Callback Connectionidx:245, CloseReason:5, IP:206.168.34.43, LeftFreeCount: 1197
+2025-08-24 17:01:01	Allocate Connectionidx:246, IP:64.227.150.86, LeftFreeCount:1196
+2025-08-24 17:01:10	Callback Connectionidx:246, CloseReason:2, IP:64.227.150.86, LeftFreeCount: 1197
+2025-08-24 17:01:11	Allocate Connectionidx:247, IP:64.227.150.86, LeftFreeCount:1196
+2025-08-24 17:01:11	Callback Connectionidx:247, CloseReason:2, IP:64.227.150.86, LeftFreeCount: 1197
+2025-08-24 17:01:11	Allocate Connectionidx:248, IP:64.227.150.86, LeftFreeCount:1196
+2025-08-24 17:01:11	Callback Connectionidx:248, CloseReason:2, IP:64.227.150.86, LeftFreeCount: 1197
+2025-08-24 17:01:12	Allocate Connectionidx:249, IP:64.227.150.86, LeftFreeCount:1196
+2025-08-24 17:01:12	Callback Connectionidx:249, CloseReason:2, IP:64.227.150.86, LeftFreeCount: 1197
+2025-08-24 17:01:12	Allocate Connectionidx:250, IP:64.227.150.86, LeftFreeCount:1196
+2025-08-24 17:01:22	Callback Connectionidx:250, CloseReason:2, IP:64.227.150.86, LeftFreeCount: 1197
+2025-08-24 17:01:22	Allocate Connectionidx:251, IP:64.227.150.86, LeftFreeCount:1196
+2025-08-24 17:01:22	Callback Connectionidx:251, CloseReason:2, IP:64.227.150.86, LeftFreeCount: 1197
+2025-08-24 20:56:10	Allocate Connectionidx:252, IP:168.76.20.229, LeftFreeCount:1196
+2025-08-24 20:56:10	Callback Connectionidx:252, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1197
+2025-08-24 21:43:07	Allocate Connectionidx:253, IP:192.81.211.128, LeftFreeCount:1196
+2025-08-24 21:43:07	Callback Connectionidx:253, CloseReason:2, IP:192.81.211.128, LeftFreeCount: 1197
+2025-08-24 22:34:51	Allocate Connectionidx:254, IP:206.189.120.50, LeftFreeCount:1196
+2025-08-24 22:34:51	Callback Connectionidx:254, CloseReason:5, IP:206.189.120.50, LeftFreeCount: 1197
+2025-08-24 22:39:51	Allocate Connectionidx:255, IP:185.243.96.105, LeftFreeCount:1196
+2025-08-24 22:39:51	Callback Connectionidx:255, CloseReason:3, IP:185.243.96.105, LeftFreeCount: 1197
+2025-08-24 22:39:51	Allocate Connectionidx:256, IP:185.243.96.105, LeftFreeCount:1196
+2025-08-24 22:39:51	Callback Connectionidx:256, CloseReason:3, IP:185.243.96.105, LeftFreeCount: 1197
+2025-08-24 22:39:51	Allocate Connectionidx:257, IP:185.243.96.105, LeftFreeCount:1196
+2025-08-24 22:39:51	Callback Connectionidx:257, CloseReason:3, IP:185.243.96.105, LeftFreeCount: 1197
+2025-08-25 02:20:45	Allocate Connectionidx:258, IP:35.203.210.25, LeftFreeCount:1196
+2025-08-25 02:20:48	Callback Connectionidx:258, CloseReason:5, IP:35.203.210.25, LeftFreeCount: 1197
+2025-08-25 02:21:45	Allocate Connectionidx:259, IP:35.203.210.25, LeftFreeCount:1196
+2025-08-25 02:21:45	Callback Connectionidx:259, CloseReason:5, IP:35.203.210.25, LeftFreeCount: 1197
+2025-08-25 10:34:57	Allocate Connectionidx:260, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:05	Callback Connectionidx:260, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:06	Allocate Connectionidx:261, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:06	Callback Connectionidx:261, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:06	Allocate Connectionidx:262, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:06	Callback Connectionidx:262, CloseReason:3, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:07	Allocate Connectionidx:263, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:07	Callback Connectionidx:263, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:07	Allocate Connectionidx:264, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:07	Callback Connectionidx:264, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:07	Allocate Connectionidx:265, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:17	Callback Connectionidx:265, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:17	Allocate Connectionidx:266, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:18	Callback Connectionidx:266, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 10:35:18	Allocate Connectionidx:267, IP:45.142.154.45, LeftFreeCount:1196
+2025-08-25 10:35:18	Callback Connectionidx:267, CloseReason:2, IP:45.142.154.45, LeftFreeCount: 1197
+2025-08-25 13:01:57	Allocate Connectionidx:268, IP:35.203.210.150, LeftFreeCount:1196
+2025-08-25 13:02:21	Callback Connectionidx:268, CloseReason:5, IP:35.203.210.150, LeftFreeCount: 1197
+2025-08-25 13:03:05	Allocate Connectionidx:269, IP:35.203.210.150, LeftFreeCount:1196
+2025-08-25 13:03:06	Callback Connectionidx:269, CloseReason:5, IP:35.203.210.150, LeftFreeCount: 1197
+2025-08-25 13:39:45	Allocate Connectionidx:270, IP:162.142.125.42, LeftFreeCount:1196
+2025-08-25 13:39:50	Callback Connectionidx:270, CloseReason:5, IP:162.142.125.42, LeftFreeCount: 1197
+2025-08-25 13:39:55	Allocate Connectionidx:271, IP:162.142.125.42, LeftFreeCount:1196
+2025-08-25 13:40:06	Callback Connectionidx:271, CloseReason:5, IP:162.142.125.42, LeftFreeCount: 1197
+2025-08-25 15:21:38	Allocate Connectionidx:272, IP:199.45.155.104, LeftFreeCount:1196
+2025-08-25 15:21:41	Callback Connectionidx:272, CloseReason:5, IP:199.45.155.104, LeftFreeCount: 1197
+2025-08-25 15:21:45	Allocate Connectionidx:273, IP:199.45.155.104, LeftFreeCount:1196
+2025-08-25 15:21:55	Callback Connectionidx:273, CloseReason:5, IP:199.45.155.104, LeftFreeCount: 1197
+2025-08-25 16:06:51	Allocate Connectionidx:274, IP:91.238.181.92, LeftFreeCount:1196
+2025-08-25 16:06:51	Callback Connectionidx:274, CloseReason:3, IP:91.238.181.92, LeftFreeCount: 1197
+2025-08-25 16:29:41	Allocate Connectionidx:275, IP:104.234.115.112, LeftFreeCount:1196
+2025-08-25 16:29:58	Allocate Connectionidx:276, IP:104.234.115.112, LeftFreeCount:1195
+2025-08-25 16:29:58	Callback Connectionidx:276, CloseReason:2, IP:104.234.115.112, LeftFreeCount: 1196
+2025-08-25 16:30:09	Allocate Connectionidx:277, IP:104.234.115.112, LeftFreeCount:1195
+2025-08-25 16:30:19	Callback Connectionidx:277, CloseReason:2, IP:104.234.115.112, LeftFreeCount: 1196
+2025-08-25 17:56:53	Allocate Connectionidx:278, IP:45.142.193.123, LeftFreeCount:1195
+2025-08-25 17:57:01	Callback Connectionidx:278, CloseReason:5, IP:45.142.193.123, LeftFreeCount: 1196
+2025-08-25 19:52:45	Allocate Connectionidx:279, IP:44.220.185.162, LeftFreeCount:1195
+2025-08-25 19:52:45	Callback Connectionidx:279, CloseReason:3, IP:44.220.185.162, LeftFreeCount: 1196
+2025-08-25 19:52:46	Allocate Connectionidx:280, IP:44.220.185.162, LeftFreeCount:1195
+2025-08-25 19:52:46	Callback Connectionidx:280, CloseReason:2, IP:44.220.185.162, LeftFreeCount: 1196
+2025-08-25 19:52:46	Allocate Connectionidx:281, IP:44.220.185.162, LeftFreeCount:1195
+2025-08-25 19:52:51	Callback Connectionidx:281, CloseReason:2, IP:44.220.185.162, LeftFreeCount: 1196
+2025-08-25 19:52:51	Allocate Connectionidx:282, IP:44.220.185.162, LeftFreeCount:1195
+2025-08-25 19:52:51	Callback Connectionidx:282, CloseReason:2, IP:44.220.185.162, LeftFreeCount: 1196
+2025-08-25 19:52:51	Allocate Connectionidx:283, IP:44.220.185.162, LeftFreeCount:1195
+2025-08-25 19:52:51	Callback Connectionidx:283, CloseReason:2, IP:44.220.185.162, LeftFreeCount: 1196
+2025-08-26 00:22:02	Allocate Connectionidx:284, IP:147.185.132.182, LeftFreeCount:1195
+2025-08-26 00:22:10	Callback Connectionidx:284, CloseReason:5, IP:147.185.132.182, LeftFreeCount: 1196
+2025-08-26 00:23:36	Allocate Connectionidx:285, IP:147.185.132.182, LeftFreeCount:1195
+2025-08-26 00:23:37	Callback Connectionidx:285, CloseReason:5, IP:147.185.132.182, LeftFreeCount: 1196
+2025-08-26 09:07:35	Allocate Connectionidx:286, IP:20.163.33.221, LeftFreeCount:1195
+2025-08-26 09:07:45	Callback Connectionidx:286, CloseReason:2, IP:20.163.33.221, LeftFreeCount: 1196
+2025-08-26 11:51:56	Allocate Connectionidx:287, IP:66.240.236.119, LeftFreeCount:1195
+2025-08-26 11:51:57	Callback Connectionidx:287, CloseReason:2, IP:66.240.236.119, LeftFreeCount: 1196
+2025-08-26 13:13:35	Allocate Connectionidx:288, IP:206.168.34.75, LeftFreeCount:1195
+2025-08-26 13:13:37	Callback Connectionidx:288, CloseReason:5, IP:206.168.34.75, LeftFreeCount: 1196
+2025-08-26 13:13:40	Allocate Connectionidx:289, IP:206.168.34.75, LeftFreeCount:1195
+2025-08-26 13:13:51	Callback Connectionidx:289, CloseReason:5, IP:206.168.34.75, LeftFreeCount: 1196
+2025-08-26 13:25:45	Allocate Connectionidx:290, IP:162.216.150.243, LeftFreeCount:1195
+2025-08-26 13:25:50	Callback Connectionidx:290, CloseReason:5, IP:162.216.150.243, LeftFreeCount: 1196
+2025-08-26 13:26:58	Allocate Connectionidx:291, IP:162.216.150.243, LeftFreeCount:1195
+2025-08-26 13:26:58	Callback Connectionidx:291, CloseReason:5, IP:162.216.150.243, LeftFreeCount: 1196
+2025-08-26 23:43:16	Allocate Connectionidx:292, IP:109.205.211.52, LeftFreeCount:1195
+2025-08-26 23:43:16	Callback Connectionidx:292, CloseReason:3, IP:109.205.211.52, LeftFreeCount: 1196
+2025-08-27 00:31:13	Allocate Connectionidx:293, IP:147.185.133.118, LeftFreeCount:1195
+2025-08-27 00:31:20	Callback Connectionidx:293, CloseReason:5, IP:147.185.133.118, LeftFreeCount: 1196
+2025-08-27 00:32:45	Allocate Connectionidx:294, IP:147.185.133.118, LeftFreeCount:1195
+2025-08-27 00:32:46	Callback Connectionidx:294, CloseReason:5, IP:147.185.133.118, LeftFreeCount: 1196
+2025-08-27 03:50:29	Allocate Connectionidx:295, IP:204.76.203.29, LeftFreeCount:1195
+2025-08-27 03:51:29	Callback Connectionidx:295, CloseReason:2, IP:204.76.203.29, LeftFreeCount: 1196
+2025-08-27 10:30:40	Allocate Connectionidx:296, IP:167.94.138.179, LeftFreeCount:1195
+2025-08-27 10:30:42	Callback Connectionidx:296, CloseReason:5, IP:167.94.138.179, LeftFreeCount: 1196
+2025-08-27 10:30:46	Allocate Connectionidx:297, IP:167.94.138.179, LeftFreeCount:1195
+2025-08-27 10:30:55	Callback Connectionidx:297, CloseReason:5, IP:167.94.138.179, LeftFreeCount: 1196
+2025-08-27 11:14:06	Allocate Connectionidx:298, IP:194.165.16.161, LeftFreeCount:1195
+2025-08-27 11:14:06	Callback Connectionidx:298, CloseReason:3, IP:194.165.16.161, LeftFreeCount: 1196
+2025-08-27 11:28:03	Allocate Connectionidx:299, IP:35.203.211.211, LeftFreeCount:1195
+2025-08-27 11:28:10	Callback Connectionidx:299, CloseReason:5, IP:35.203.211.211, LeftFreeCount: 1196
+2025-08-27 11:29:37	Allocate Connectionidx:300, IP:35.203.211.211, LeftFreeCount:1195
+2025-08-27 11:29:37	Callback Connectionidx:300, CloseReason:5, IP:35.203.211.211, LeftFreeCount: 1196
+2025-08-27 15:17:53	Allocate Connectionidx:301, IP:87.236.176.173, LeftFreeCount:1195
+2025-08-27 15:17:55	Callback Connectionidx:301, CloseReason:2, IP:87.236.176.173, LeftFreeCount: 1196
+2025-08-27 16:39:25	Allocate Connectionidx:302, IP:66.228.53.136, LeftFreeCount:1195
+2025-08-27 16:39:55	Callback Connectionidx:302, CloseReason:2, IP:66.228.53.136, LeftFreeCount: 1196
+2025-08-27 16:39:55	Allocate Connectionidx:303, IP:66.228.53.136, LeftFreeCount:1195
+2025-08-27 16:39:55	Callback Connectionidx:303, CloseReason:2, IP:66.228.53.136, LeftFreeCount: 1196
+2025-08-27 18:14:17	Allocate Connectionidx:304, IP:104.234.115.8, LeftFreeCount:1195
+2025-08-27 18:14:34	Allocate Connectionidx:305, IP:104.234.115.8, LeftFreeCount:1194
+2025-08-27 18:14:34	Callback Connectionidx:305, CloseReason:2, IP:104.234.115.8, LeftFreeCount: 1195
+2025-08-27 18:14:38	Callback Connectionidx:304, CloseReason:5, IP:104.234.115.8, LeftFreeCount: 1196
+2025-08-27 18:14:48	Allocate Connectionidx:306, IP:104.234.115.8, LeftFreeCount:1195
+2025-08-27 18:14:58	Callback Connectionidx:306, CloseReason:2, IP:104.234.115.8, LeftFreeCount: 1196
+2025-08-27 19:21:09	Allocate Connectionidx:307, IP:185.243.96.116, LeftFreeCount:1195
+2025-08-27 19:21:09	Callback Connectionidx:307, CloseReason:3, IP:185.243.96.116, LeftFreeCount: 1196
+2025-08-27 19:23:52	Allocate Connectionidx:308, IP:185.243.96.116, LeftFreeCount:1195
+2025-08-27 19:23:52	Callback Connectionidx:308, CloseReason:3, IP:185.243.96.116, LeftFreeCount: 1196
+2025-08-27 19:23:52	Allocate Connectionidx:309, IP:185.243.96.116, LeftFreeCount:1195
+2025-08-27 19:23:52	Callback Connectionidx:309, CloseReason:3, IP:185.243.96.116, LeftFreeCount: 1196
+2025-08-27 19:45:54	Allocate Connectionidx:310, IP:168.76.20.229, LeftFreeCount:1195
+2025-08-27 19:45:54	Callback Connectionidx:310, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1196
+2025-08-27 23:57:56	Allocate Connectionidx:311, IP:35.203.211.79, LeftFreeCount:1195
+2025-08-27 23:58:01	Callback Connectionidx:311, CloseReason:5, IP:35.203.211.79, LeftFreeCount: 1196
+2025-08-27 23:59:11	Allocate Connectionidx:312, IP:35.203.211.79, LeftFreeCount:1195
+2025-08-27 23:59:11	Callback Connectionidx:312, CloseReason:5, IP:35.203.211.79, LeftFreeCount: 1196
+2025-08-28 04:12:05	Allocate Connectionidx:313, IP:122.188.31.119, LeftFreeCount:1195
+2025-08-28 04:12:13	Callback Connectionidx:313, CloseReason:2, IP:122.188.31.119, LeftFreeCount: 1196
+2025-08-28 04:12:13	Allocate Connectionidx:314, IP:220.250.11.115, LeftFreeCount:1195
+2025-08-28 04:12:14	Callback Connectionidx:314, CloseReason:2, IP:220.250.11.115, LeftFreeCount: 1196
+2025-08-28 04:12:14	Allocate Connectionidx:315, IP:123.158.50.105, LeftFreeCount:1195
+2025-08-28 04:12:14	Callback Connectionidx:315, CloseReason:2, IP:123.158.50.105, LeftFreeCount: 1196
+2025-08-28 04:12:14	Allocate Connectionidx:316, IP:1.24.16.144, LeftFreeCount:1195
+2025-08-28 04:12:15	Callback Connectionidx:316, CloseReason:2, IP:1.24.16.144, LeftFreeCount: 1196
+2025-08-28 04:12:15	Allocate Connectionidx:317, IP:111.224.219.197, LeftFreeCount:1195
+2025-08-28 04:12:23	Callback Connectionidx:317, CloseReason:2, IP:111.224.219.197, LeftFreeCount: 1196
+2025-08-28 04:12:23	Allocate Connectionidx:318, IP:119.6.183.74, LeftFreeCount:1195
+2025-08-28 04:12:23	Callback Connectionidx:318, CloseReason:2, IP:119.6.183.74, LeftFreeCount: 1196
+2025-08-28 04:12:24	Allocate Connectionidx:319, IP:39.153.251.115, LeftFreeCount:1195
+2025-08-28 04:12:28	Callback Connectionidx:319, CloseReason:2, IP:39.153.251.115, LeftFreeCount: 1196
+2025-08-28 04:18:09	Allocate Connectionidx:320, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 04:18:10	Callback Connectionidx:320, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 04:18:30	Allocate Connectionidx:321, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 04:18:30	Callback Connectionidx:321, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 04:18:47	Allocate Connectionidx:322, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 04:18:47	Callback Connectionidx:322, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 11:01:28	Allocate Connectionidx:323, IP:170.64.166.144, LeftFreeCount:1195
+2025-08-28 11:01:37	Callback Connectionidx:323, CloseReason:2, IP:170.64.166.144, LeftFreeCount: 1196
+2025-08-28 11:01:38	Allocate Connectionidx:324, IP:170.64.166.144, LeftFreeCount:1195
+2025-08-28 11:01:38	Callback Connectionidx:324, CloseReason:2, IP:170.64.166.144, LeftFreeCount: 1196
+2025-08-28 11:01:38	Allocate Connectionidx:325, IP:170.64.166.144, LeftFreeCount:1195
+2025-08-28 11:01:48	Callback Connectionidx:325, CloseReason:2, IP:170.64.166.144, LeftFreeCount: 1196
+2025-08-28 11:01:48	Allocate Connectionidx:326, IP:170.64.166.144, LeftFreeCount:1195
+2025-08-28 11:01:48	Callback Connectionidx:326, CloseReason:2, IP:170.64.166.144, LeftFreeCount: 1196
+2025-08-28 11:01:48	Allocate Connectionidx:327, IP:170.64.166.144, LeftFreeCount:1195
+2025-08-28 11:01:58	Callback Connectionidx:327, CloseReason:2, IP:170.64.166.144, LeftFreeCount: 1196
+2025-08-28 11:01:58	Allocate Connectionidx:328, IP:170.64.166.144, LeftFreeCount:1195
+2025-08-28 11:01:59	Callback Connectionidx:328, CloseReason:2, IP:170.64.166.144, LeftFreeCount: 1196
+2025-08-28 11:36:00	Allocate Connectionidx:329, IP:45.141.84.75, LeftFreeCount:1195
+2025-08-28 11:36:00	Callback Connectionidx:329, CloseReason:3, IP:45.141.84.75, LeftFreeCount: 1196
+2025-08-28 11:36:00	Allocate Connectionidx:330, IP:45.141.84.75, LeftFreeCount:1195
+2025-08-28 11:36:00	Callback Connectionidx:330, CloseReason:3, IP:45.141.84.75, LeftFreeCount: 1196
+2025-08-28 11:36:00	Allocate Connectionidx:331, IP:45.141.84.75, LeftFreeCount:1195
+2025-08-28 11:36:00	Callback Connectionidx:331, CloseReason:3, IP:45.141.84.75, LeftFreeCount: 1196
+2025-08-28 11:39:36	Allocate Connectionidx:332, IP:206.168.34.65, LeftFreeCount:1195
+2025-08-28 11:39:39	Callback Connectionidx:332, CloseReason:5, IP:206.168.34.65, LeftFreeCount: 1196
+2025-08-28 11:39:42	Allocate Connectionidx:333, IP:206.168.34.65, LeftFreeCount:1195
+2025-08-28 11:39:52	Callback Connectionidx:333, CloseReason:5, IP:206.168.34.65, LeftFreeCount: 1196
+2025-08-28 12:30:06	Allocate Connectionidx:334, IP:167.94.138.183, LeftFreeCount:1195
+2025-08-28 12:30:08	Callback Connectionidx:334, CloseReason:5, IP:167.94.138.183, LeftFreeCount: 1196
+2025-08-28 12:30:12	Allocate Connectionidx:335, IP:167.94.138.183, LeftFreeCount:1195
+2025-08-28 12:30:22	Callback Connectionidx:335, CloseReason:5, IP:167.94.138.183, LeftFreeCount: 1196
+2025-08-28 12:46:01	Allocate Connectionidx:336, IP:147.185.133.24, LeftFreeCount:1195
+2025-08-28 12:46:06	Callback Connectionidx:336, CloseReason:5, IP:147.185.133.24, LeftFreeCount: 1196
+2025-08-28 12:47:15	Allocate Connectionidx:337, IP:147.185.133.24, LeftFreeCount:1195
+2025-08-28 12:47:15	Callback Connectionidx:337, CloseReason:5, IP:147.185.133.24, LeftFreeCount: 1196
+2025-08-28 14:32:55	Allocate Connectionidx:338, IP:194.165.16.161, LeftFreeCount:1195
+2025-08-28 14:32:55	Callback Connectionidx:338, CloseReason:3, IP:194.165.16.161, LeftFreeCount: 1196
+2025-08-28 14:35:16	Allocate Connectionidx:339, IP:88.214.25.123, LeftFreeCount:1195
+2025-08-28 14:35:16	Callback Connectionidx:339, CloseReason:3, IP:88.214.25.123, LeftFreeCount: 1196
+2025-08-28 16:49:24	Allocate Connectionidx:340, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 16:49:24	Callback Connectionidx:340, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 16:49:25	Allocate Connectionidx:341, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 16:49:25	Callback Connectionidx:341, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 16:50:18	Allocate Connectionidx:342, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 16:50:18	Callback Connectionidx:342, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 16:50:18	Allocate Connectionidx:343, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-28 16:50:18	Callback Connectionidx:343, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-28 22:48:55	Allocate Connectionidx:344, IP:157.245.69.32, LeftFreeCount:1195
+2025-08-28 22:48:55	Callback Connectionidx:344, CloseReason:5, IP:157.245.69.32, LeftFreeCount: 1196
+2025-08-28 23:29:41	Allocate Connectionidx:345, IP:162.216.150.120, LeftFreeCount:1195
+2025-08-28 23:29:42	Callback Connectionidx:345, CloseReason:5, IP:162.216.150.120, LeftFreeCount: 1196
+2025-08-28 23:30:40	Allocate Connectionidx:346, IP:162.216.150.120, LeftFreeCount:1195
+2025-08-28 23:30:40	Callback Connectionidx:346, CloseReason:5, IP:162.216.150.120, LeftFreeCount: 1196
+2025-08-29 08:36:20	Allocate Connectionidx:347, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-29 08:36:20	Callback Connectionidx:347, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-29 08:36:22	Allocate Connectionidx:348, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-29 08:36:22	Callback Connectionidx:348, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-29 08:36:24	Allocate Connectionidx:349, IP:85.208.84.52, LeftFreeCount:1195
+2025-08-29 08:36:24	Callback Connectionidx:349, CloseReason:2, IP:85.208.84.52, LeftFreeCount: 1196
+2025-08-29 10:19:28	Allocate Connectionidx:350, IP:167.94.145.104, LeftFreeCount:1195
+2025-08-29 10:19:31	Callback Connectionidx:350, CloseReason:5, IP:167.94.145.104, LeftFreeCount: 1196
+2025-08-29 10:19:35	Allocate Connectionidx:351, IP:167.94.145.104, LeftFreeCount:1195
+2025-08-29 10:19:49	Callback Connectionidx:351, CloseReason:5, IP:167.94.145.104, LeftFreeCount: 1196
+2025-08-29 11:01:32	Allocate Connectionidx:352, IP:35.203.211.236, LeftFreeCount:1195
+2025-08-29 11:01:38	Callback Connectionidx:352, CloseReason:5, IP:35.203.211.236, LeftFreeCount: 1196
+2025-08-29 11:02:52	Allocate Connectionidx:353, IP:35.203.211.236, LeftFreeCount:1195
+2025-08-29 11:02:52	Callback Connectionidx:353, CloseReason:5, IP:35.203.211.236, LeftFreeCount: 1196
+2025-08-29 14:38:28	Allocate Connectionidx:354, IP:45.33.12.214, LeftFreeCount:1195
+2025-08-29 14:38:28	Callback Connectionidx:354, CloseReason:5, IP:45.33.12.214, LeftFreeCount: 1196
+2025-08-29 16:00:38	Allocate Connectionidx:355, IP:13.89.125.20, LeftFreeCount:1195
+2025-08-29 16:00:47	Callback Connectionidx:355, CloseReason:2, IP:13.89.125.20, LeftFreeCount: 1196
+2025-08-29 18:34:10	Allocate Connectionidx:356, IP:146.190.57.24, LeftFreeCount:1195
+2025-08-29 18:34:20	Callback Connectionidx:356, CloseReason:2, IP:146.190.57.24, LeftFreeCount: 1196
+2025-08-29 18:34:20	Allocate Connectionidx:357, IP:146.190.57.24, LeftFreeCount:1195
+2025-08-29 18:34:20	Callback Connectionidx:357, CloseReason:2, IP:146.190.57.24, LeftFreeCount: 1196
+2025-08-29 18:34:20	Allocate Connectionidx:358, IP:146.190.57.24, LeftFreeCount:1195
+2025-08-29 18:34:30	Callback Connectionidx:358, CloseReason:2, IP:146.190.57.24, LeftFreeCount: 1196
+2025-08-29 18:34:30	Allocate Connectionidx:359, IP:146.190.57.24, LeftFreeCount:1195
+2025-08-29 18:34:30	Callback Connectionidx:359, CloseReason:2, IP:146.190.57.24, LeftFreeCount: 1196
+2025-08-29 18:34:30	Allocate Connectionidx:360, IP:146.190.57.24, LeftFreeCount:1195
+2025-08-29 18:34:40	Callback Connectionidx:360, CloseReason:2, IP:146.190.57.24, LeftFreeCount: 1196
+2025-08-29 18:34:40	Allocate Connectionidx:361, IP:146.190.57.24, LeftFreeCount:1195
+2025-08-29 18:34:40	Callback Connectionidx:361, CloseReason:2, IP:146.190.57.24, LeftFreeCount: 1196
+2025-08-29 19:23:00	Allocate Connectionidx:362, IP:194.165.16.165, LeftFreeCount:1195
+2025-08-29 19:23:00	Callback Connectionidx:362, CloseReason:3, IP:194.165.16.165, LeftFreeCount: 1196
+2025-08-29 23:07:02	Allocate Connectionidx:363, IP:45.142.193.123, LeftFreeCount:1195
+2025-08-29 23:07:14	Callback Connectionidx:363, CloseReason:5, IP:45.142.193.123, LeftFreeCount: 1196
+2025-08-30 02:14:35	Allocate Connectionidx:364, IP:147.185.133.224, LeftFreeCount:1195
+2025-08-30 02:14:40	Callback Connectionidx:364, CloseReason:5, IP:147.185.133.224, LeftFreeCount: 1196
+2025-08-30 02:16:10	Allocate Connectionidx:365, IP:147.185.133.224, LeftFreeCount:1195
+2025-08-30 02:16:10	Callback Connectionidx:365, CloseReason:5, IP:147.185.133.224, LeftFreeCount: 1196
+2025-08-30 10:38:03	Allocate Connectionidx:366, IP:167.94.138.202, LeftFreeCount:1195
+2025-08-30 10:38:06	Callback Connectionidx:366, CloseReason:5, IP:167.94.138.202, LeftFreeCount: 1196
+2025-08-30 10:38:11	Allocate Connectionidx:367, IP:167.94.138.202, LeftFreeCount:1195
+2025-08-30 10:38:21	Callback Connectionidx:367, CloseReason:5, IP:167.94.138.202, LeftFreeCount: 1196
+2025-08-30 12:27:49	Allocate Connectionidx:368, IP:206.168.34.92, LeftFreeCount:1195
+2025-08-30 12:27:52	Callback Connectionidx:368, CloseReason:5, IP:206.168.34.92, LeftFreeCount: 1196
+2025-08-30 12:27:55	Allocate Connectionidx:369, IP:206.168.34.92, LeftFreeCount:1195
+2025-08-30 12:28:05	Callback Connectionidx:369, CloseReason:5, IP:206.168.34.92, LeftFreeCount: 1196
+2025-08-30 12:47:03	Allocate Connectionidx:370, IP:178.22.24.16, LeftFreeCount:1195
+2025-08-30 12:47:03	Callback Connectionidx:370, CloseReason:2, IP:178.22.24.16, LeftFreeCount: 1196
+2025-08-30 12:47:04	Allocate Connectionidx:371, IP:178.22.24.16, LeftFreeCount:1195
+2025-08-30 12:47:04	Callback Connectionidx:371, CloseReason:2, IP:178.22.24.16, LeftFreeCount: 1196
+2025-08-30 13:55:53	Allocate Connectionidx:372, IP:35.203.211.95, LeftFreeCount:1195
+2025-08-30 13:56:00	Callback Connectionidx:372, CloseReason:5, IP:35.203.211.95, LeftFreeCount: 1196
+2025-08-30 13:57:28	Allocate Connectionidx:373, IP:35.203.211.95, LeftFreeCount:1195
+2025-08-30 13:57:28	Callback Connectionidx:373, CloseReason:5, IP:35.203.211.95, LeftFreeCount: 1196
+2025-08-30 16:21:43	Allocate Connectionidx:374, IP:185.247.137.140, LeftFreeCount:1195
+2025-08-30 16:21:45	Callback Connectionidx:374, CloseReason:2, IP:185.247.137.140, LeftFreeCount: 1196
+2025-08-30 18:36:31	Allocate Connectionidx:375, IP:168.76.20.229, LeftFreeCount:1195
+2025-08-30 18:36:31	Callback Connectionidx:375, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1196
+2025-08-30 22:21:50	Allocate Connectionidx:376, IP:134.122.106.248, LeftFreeCount:1195
+2025-08-30 22:21:50	Callback Connectionidx:376, CloseReason:5, IP:134.122.106.248, LeftFreeCount: 1196
+2025-08-30 22:25:57	Allocate Connectionidx:377, IP:194.165.16.161, LeftFreeCount:1195
+2025-08-30 22:25:57	Callback Connectionidx:377, CloseReason:3, IP:194.165.16.161, LeftFreeCount: 1196
+2025-08-31 00:59:53	Allocate Connectionidx:378, IP:35.203.211.15, LeftFreeCount:1195
+2025-08-31 01:00:00	Callback Connectionidx:378, CloseReason:5, IP:35.203.211.15, LeftFreeCount: 1196
+2025-08-31 01:01:55	Allocate Connectionidx:379, IP:35.203.211.15, LeftFreeCount:1195
+2025-08-31 01:01:55	Callback Connectionidx:379, CloseReason:5, IP:35.203.211.15, LeftFreeCount: 1196
+2025-08-31 05:52:45	Allocate Connectionidx:380, IP:162.216.150.140, LeftFreeCount:1195
+2025-08-31 05:53:16	Callback Connectionidx:380, CloseReason:5, IP:162.216.150.140, LeftFreeCount: 1196
+2025-08-31 06:26:31	Allocate Connectionidx:381, IP:86.54.25.148, LeftFreeCount:1195
+2025-08-31 06:26:31	Callback Connectionidx:381, CloseReason:3, IP:86.54.25.148, LeftFreeCount: 1196
+2025-08-31 06:26:32	Allocate Connectionidx:382, IP:86.54.25.148, LeftFreeCount:1195
+2025-08-31 06:26:32	Callback Connectionidx:382, CloseReason:3, IP:86.54.25.148, LeftFreeCount: 1196
+2025-08-31 06:26:32	Allocate Connectionidx:383, IP:86.54.25.148, LeftFreeCount:1195
+2025-08-31 06:26:32	Callback Connectionidx:383, CloseReason:3, IP:86.54.25.148, LeftFreeCount: 1196
+2025-08-31 07:58:26	Allocate Connectionidx:384, IP:109.205.213.103, LeftFreeCount:1195
+2025-08-31 07:58:26	Callback Connectionidx:384, CloseReason:5, IP:109.205.213.103, LeftFreeCount: 1196
+2025-08-31 10:29:20	Allocate Connectionidx:385, IP:35.203.211.111, LeftFreeCount:1195
+2025-08-31 10:29:24	Callback Connectionidx:385, CloseReason:5, IP:35.203.211.111, LeftFreeCount: 1196
+2025-08-31 10:30:20	Allocate Connectionidx:386, IP:35.203.211.111, LeftFreeCount:1195
+2025-08-31 10:30:21	Callback Connectionidx:386, CloseReason:5, IP:35.203.211.111, LeftFreeCount: 1196
+2025-08-31 12:37:57	Allocate Connectionidx:387, IP:167.94.138.123, LeftFreeCount:1195
+2025-08-31 12:38:01	Callback Connectionidx:387, CloseReason:5, IP:167.94.138.123, LeftFreeCount: 1196
+2025-08-31 12:38:06	Allocate Connectionidx:388, IP:167.94.138.123, LeftFreeCount:1195
+2025-08-31 12:38:16	Callback Connectionidx:388, CloseReason:5, IP:167.94.138.123, LeftFreeCount: 1196
+2025-08-31 13:48:47	Allocate Connectionidx:389, IP:172.236.228.224, LeftFreeCount:1195
+2025-08-31 13:48:47	Callback Connectionidx:389, CloseReason:2, IP:172.236.228.224, LeftFreeCount: 1196
+2025-08-31 13:48:47	Allocate Connectionidx:390, IP:172.236.228.224, LeftFreeCount:1195
+2025-08-31 13:48:47	Callback Connectionidx:390, CloseReason:2, IP:172.236.228.224, LeftFreeCount: 1196
+2025-08-31 14:29:52	Allocate Connectionidx:391, IP:45.79.172.21, LeftFreeCount:1195
+2025-08-31 14:30:22	Callback Connectionidx:391, CloseReason:2, IP:45.79.172.21, LeftFreeCount: 1196
+2025-08-31 14:30:22	Allocate Connectionidx:392, IP:45.79.172.21, LeftFreeCount:1195
+2025-08-31 14:30:22	Callback Connectionidx:392, CloseReason:2, IP:45.79.172.21, LeftFreeCount: 1196
+2025-08-31 17:48:55	Allocate Connectionidx:393, IP:162.142.125.212, LeftFreeCount:1195
+2025-08-31 17:48:58	Callback Connectionidx:393, CloseReason:5, IP:162.142.125.212, LeftFreeCount: 1196
+2025-08-31 17:49:03	Allocate Connectionidx:394, IP:162.142.125.212, LeftFreeCount:1195
+2025-08-31 17:49:13	Callback Connectionidx:394, CloseReason:5, IP:162.142.125.212, LeftFreeCount: 1196
+2025-08-31 22:20:42	Allocate Connectionidx:395, IP:170.64.134.120, LeftFreeCount:1195
+2025-08-31 22:20:43	Callback Connectionidx:395, CloseReason:5, IP:170.64.134.120, LeftFreeCount: 1196
+2025-08-31 23:51:18	Allocate Connectionidx:396, IP:104.250.164.117, LeftFreeCount:1195
+2025-08-31 23:51:30	Callback Connectionidx:396, CloseReason:5, IP:104.250.164.117, LeftFreeCount: 1196
+2025-09-01 00:46:21	Allocate Connectionidx:397, IP:162.216.150.240, LeftFreeCount:1195
+2025-09-01 00:46:26	Callback Connectionidx:397, CloseReason:5, IP:162.216.150.240, LeftFreeCount: 1196
+2025-09-01 00:47:36	Allocate Connectionidx:398, IP:162.216.150.240, LeftFreeCount:1195
+2025-09-01 00:47:37	Callback Connectionidx:398, CloseReason:5, IP:162.216.150.240, LeftFreeCount: 1196
+2025-09-01 04:46:49	Allocate Connectionidx:399, IP:91.238.181.93, LeftFreeCount:1195
+2025-09-01 04:46:49	Callback Connectionidx:399, CloseReason:3, IP:91.238.181.93, LeftFreeCount: 1196
+2025-09-01 06:31:32	Allocate Connectionidx:400, IP:91.196.152.85, LeftFreeCount:1195
+2025-09-01 06:31:32	Callback Connectionidx:400, CloseReason:2, IP:91.196.152.85, LeftFreeCount: 1196
+2025-09-01 06:31:32	Allocate Connectionidx:401, IP:91.196.152.86, LeftFreeCount:1195
+2025-09-01 06:31:35	Callback Connectionidx:401, CloseReason:2, IP:91.196.152.86, LeftFreeCount: 1196
+2025-09-01 06:31:41	Allocate Connectionidx:402, IP:195.184.76.144, LeftFreeCount:1195
+2025-09-01 06:31:41	Callback Connectionidx:402, CloseReason:2, IP:195.184.76.144, LeftFreeCount: 1196
+2025-09-01 06:31:41	Allocate Connectionidx:403, IP:195.184.76.145, LeftFreeCount:1195
+2025-09-01 06:31:44	Callback Connectionidx:403, CloseReason:2, IP:195.184.76.145, LeftFreeCount: 1196
+2025-09-01 08:02:50	Allocate Connectionidx:404, IP:146.190.166.168, LeftFreeCount:1195
+2025-09-01 08:03:00	Callback Connectionidx:404, CloseReason:2, IP:146.190.166.168, LeftFreeCount: 1196
+2025-09-01 08:03:00	Allocate Connectionidx:405, IP:146.190.166.168, LeftFreeCount:1195
+2025-09-01 08:03:00	Callback Connectionidx:405, CloseReason:2, IP:146.190.166.168, LeftFreeCount: 1196
+2025-09-01 08:03:01	Allocate Connectionidx:406, IP:146.190.166.168, LeftFreeCount:1195
+2025-09-01 08:03:11	Callback Connectionidx:406, CloseReason:2, IP:146.190.166.168, LeftFreeCount: 1196
+2025-09-01 08:03:11	Allocate Connectionidx:407, IP:146.190.166.168, LeftFreeCount:1195
+2025-09-01 08:03:11	Callback Connectionidx:407, CloseReason:2, IP:146.190.166.168, LeftFreeCount: 1196
+2025-09-01 08:03:11	Allocate Connectionidx:408, IP:146.190.166.168, LeftFreeCount:1195
+2025-09-01 08:03:21	Callback Connectionidx:408, CloseReason:2, IP:146.190.166.168, LeftFreeCount: 1196
+2025-09-01 08:03:21	Allocate Connectionidx:409, IP:146.190.166.168, LeftFreeCount:1195
+2025-09-01 08:03:21	Callback Connectionidx:409, CloseReason:2, IP:146.190.166.168, LeftFreeCount: 1196
+2025-09-01 11:10:02	Allocate Connectionidx:410, IP:162.216.150.219, LeftFreeCount:1195
+2025-09-01 11:10:26	Callback Connectionidx:410, CloseReason:5, IP:162.216.150.219, LeftFreeCount: 1196
+2025-09-01 11:11:11	Allocate Connectionidx:411, IP:162.216.150.219, LeftFreeCount:1195
+2025-09-01 11:11:11	Callback Connectionidx:411, CloseReason:5, IP:162.216.150.219, LeftFreeCount: 1196
+2025-09-01 16:47:06	Allocate Connectionidx:412, IP:45.82.78.102, LeftFreeCount:1195
+2025-09-01 16:47:06	Callback Connectionidx:412, CloseReason:2, IP:45.82.78.102, LeftFreeCount: 1196
+2025-09-01 16:47:07	Allocate Connectionidx:413, IP:45.82.78.102, LeftFreeCount:1195
+2025-09-01 16:47:07	Callback Connectionidx:413, CloseReason:3, IP:45.82.78.102, LeftFreeCount: 1196
+2025-09-01 16:47:07	Allocate Connectionidx:414, IP:45.82.78.102, LeftFreeCount:1195
+2025-09-01 16:47:07	Callback Connectionidx:414, CloseReason:2, IP:45.82.78.102, LeftFreeCount: 1196
+2025-09-01 16:47:08	Allocate Connectionidx:415, IP:45.82.78.102, LeftFreeCount:1195
+2025-09-01 16:47:08	Callback Connectionidx:415, CloseReason:3, IP:45.82.78.102, LeftFreeCount: 1196
+2025-09-01 18:38:39	Allocate Connectionidx:416, IP:206.168.34.83, LeftFreeCount:1195
+2025-09-01 18:38:42	Callback Connectionidx:416, CloseReason:5, IP:206.168.34.83, LeftFreeCount: 1196
+2025-09-01 18:38:46	Allocate Connectionidx:417, IP:206.168.34.83, LeftFreeCount:1195
+2025-09-01 18:38:57	Callback Connectionidx:417, CloseReason:5, IP:206.168.34.83, LeftFreeCount: 1196
+2025-09-01 18:44:25	Allocate Connectionidx:418, IP:167.94.138.183, LeftFreeCount:1195
+2025-09-01 18:44:28	Callback Connectionidx:418, CloseReason:5, IP:167.94.138.183, LeftFreeCount: 1196
+2025-09-01 18:44:31	Allocate Connectionidx:419, IP:167.94.138.183, LeftFreeCount:1195
+2025-09-01 18:44:41	Callback Connectionidx:419, CloseReason:5, IP:167.94.138.183, LeftFreeCount: 1196
+2025-09-01 20:31:04	Allocate Connectionidx:420, IP:89.248.163.219, LeftFreeCount:1195
+2025-09-01 20:31:04	Callback Connectionidx:420, CloseReason:3, IP:89.248.163.219, LeftFreeCount: 1196
+2025-09-01 21:25:23	Allocate Connectionidx:421, IP:20.169.105.13, LeftFreeCount:1195
+2025-09-01 21:25:33	Callback Connectionidx:421, CloseReason:2, IP:20.169.105.13, LeftFreeCount: 1196
+2025-09-01 23:35:51	Allocate Connectionidx:422, IP:35.203.211.115, LeftFreeCount:1195
+2025-09-01 23:35:54	Callback Connectionidx:422, CloseReason:5, IP:35.203.211.115, LeftFreeCount: 1196
+2025-09-01 23:36:51	Allocate Connectionidx:423, IP:35.203.211.115, LeftFreeCount:1195
+2025-09-01 23:36:51	Callback Connectionidx:423, CloseReason:5, IP:35.203.211.115, LeftFreeCount: 1196
+2025-09-01 23:55:16	Allocate Connectionidx:424, IP:104.250.164.117, LeftFreeCount:1195
+2025-09-01 23:55:26	Callback Connectionidx:424, CloseReason:5, IP:104.250.164.117, LeftFreeCount: 1196
+2025-09-02 04:24:23	Allocate Connectionidx:425, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:23	Callback Connectionidx:425, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:23	Allocate Connectionidx:426, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:26	Callback Connectionidx:426, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:26	Allocate Connectionidx:427, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:27	Callback Connectionidx:427, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:27	Allocate Connectionidx:428, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:30	Callback Connectionidx:428, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:30	Allocate Connectionidx:429, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:30	Callback Connectionidx:429, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:30	Allocate Connectionidx:430, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:34	Callback Connectionidx:430, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:34	Allocate Connectionidx:431, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:34	Callback Connectionidx:431, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:34	Allocate Connectionidx:432, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:37	Callback Connectionidx:432, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:38	Allocate Connectionidx:433, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:38	Callback Connectionidx:433, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:38	Allocate Connectionidx:434, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:41	Callback Connectionidx:434, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:41	Allocate Connectionidx:435, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:41	Callback Connectionidx:435, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:42	Allocate Connectionidx:436, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:45	Callback Connectionidx:436, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:45	Allocate Connectionidx:437, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:45	Callback Connectionidx:437, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:45	Allocate Connectionidx:438, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:49	Callback Connectionidx:438, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:49	Allocate Connectionidx:439, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:49	Callback Connectionidx:439, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 04:24:49	Allocate Connectionidx:440, IP:164.52.24.180, LeftFreeCount:1195
+2025-09-02 04:24:55	Callback Connectionidx:440, CloseReason:5, IP:164.52.24.180, LeftFreeCount: 1196
+2025-09-02 07:26:45	Allocate Connectionidx:441, IP:88.214.25.121, LeftFreeCount:1195
+2025-09-02 07:26:45	Callback Connectionidx:441, CloseReason:3, IP:88.214.25.121, LeftFreeCount: 1196
+2025-09-02 08:57:58	Allocate Connectionidx:442, IP:45.140.17.52, LeftFreeCount:1195
+2025-09-02 08:57:58	Callback Connectionidx:442, CloseReason:3, IP:45.140.17.52, LeftFreeCount: 1196
+2025-09-02 13:09:37	Allocate Connectionidx:443, IP:45.140.17.52, LeftFreeCount:1195
+2025-09-02 13:09:37	Callback Connectionidx:443, CloseReason:3, IP:45.140.17.52, LeftFreeCount: 1196
+2025-09-02 13:32:55	Allocate Connectionidx:444, IP:162.216.150.68, LeftFreeCount:1195
+2025-09-02 13:32:56	Callback Connectionidx:444, CloseReason:5, IP:162.216.150.68, LeftFreeCount: 1196
+2025-09-02 13:33:54	Allocate Connectionidx:445, IP:162.216.150.68, LeftFreeCount:1195
+2025-09-02 13:33:54	Callback Connectionidx:445, CloseReason:5, IP:162.216.150.68, LeftFreeCount: 1196
+2025-09-02 16:38:16	Allocate Connectionidx:446, IP:194.187.179.4, LeftFreeCount:1195
+2025-09-02 16:38:16	Callback Connectionidx:446, CloseReason:2, IP:194.187.179.4, LeftFreeCount: 1196
+2025-09-02 17:26:34	Allocate Connectionidx:447, IP:170.64.130.197, LeftFreeCount:1195
+2025-09-02 17:26:44	Callback Connectionidx:447, CloseReason:2, IP:170.64.130.197, LeftFreeCount: 1196
+2025-09-02 17:26:44	Allocate Connectionidx:448, IP:170.64.130.197, LeftFreeCount:1195
+2025-09-02 17:26:44	Callback Connectionidx:448, CloseReason:2, IP:170.64.130.197, LeftFreeCount: 1196
+2025-09-02 17:26:44	Allocate Connectionidx:449, IP:170.64.130.197, LeftFreeCount:1195
+2025-09-02 17:26:54	Callback Connectionidx:449, CloseReason:2, IP:170.64.130.197, LeftFreeCount: 1196
+2025-09-02 17:26:54	Allocate Connectionidx:450, IP:170.64.130.197, LeftFreeCount:1195
+2025-09-02 17:26:54	Callback Connectionidx:450, CloseReason:2, IP:170.64.130.197, LeftFreeCount: 1196
+2025-09-02 17:26:55	Allocate Connectionidx:451, IP:170.64.130.197, LeftFreeCount:1195
+2025-09-02 17:27:04	Callback Connectionidx:451, CloseReason:2, IP:170.64.130.197, LeftFreeCount: 1196
+2025-09-02 17:27:05	Allocate Connectionidx:452, IP:170.64.130.197, LeftFreeCount:1195
+2025-09-02 17:27:05	Callback Connectionidx:452, CloseReason:2, IP:170.64.130.197, LeftFreeCount: 1196
+2025-09-02 17:27:26	Allocate Connectionidx:453, IP:168.76.20.229, LeftFreeCount:1195
+2025-09-02 17:27:26	Callback Connectionidx:453, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1196
+2025-09-02 19:39:51	Allocate Connectionidx:454, IP:162.142.125.214, LeftFreeCount:1195
+2025-09-02 19:39:55	Callback Connectionidx:454, CloseReason:5, IP:162.142.125.214, LeftFreeCount: 1196
+2025-09-02 19:39:59	Allocate Connectionidx:455, IP:162.142.125.214, LeftFreeCount:1195
+2025-09-02 19:40:09	Callback Connectionidx:455, CloseReason:5, IP:162.142.125.214, LeftFreeCount: 1196
+2025-09-02 20:31:42	Allocate Connectionidx:456, IP:199.45.155.92, LeftFreeCount:1195
+2025-09-02 20:31:45	Callback Connectionidx:456, CloseReason:5, IP:199.45.155.92, LeftFreeCount: 1196
+2025-09-02 20:31:50	Allocate Connectionidx:457, IP:199.45.155.92, LeftFreeCount:1195
+2025-09-02 20:32:01	Callback Connectionidx:457, CloseReason:5, IP:199.45.155.92, LeftFreeCount: 1196
+2025-09-02 21:59:58	Allocate Connectionidx:458, IP:87.236.176.82, LeftFreeCount:1195
+2025-09-02 22:00:00	Callback Connectionidx:458, CloseReason:2, IP:87.236.176.82, LeftFreeCount: 1196
+2025-09-02 23:29:48	Allocate Connectionidx:459, IP:147.185.133.27, LeftFreeCount:1195
+2025-09-02 23:30:12	Callback Connectionidx:459, CloseReason:5, IP:147.185.133.27, LeftFreeCount: 1196
+2025-09-02 23:30:59	Allocate Connectionidx:460, IP:147.185.133.27, LeftFreeCount:1195
+2025-09-02 23:30:59	Callback Connectionidx:460, CloseReason:5, IP:147.185.133.27, LeftFreeCount: 1196
+2025-09-03 04:14:04	Allocate Connectionidx:461, IP:45.140.17.52, LeftFreeCount:1195
+2025-09-03 04:14:04	Callback Connectionidx:461, CloseReason:3, IP:45.140.17.52, LeftFreeCount: 1196
+2025-09-03 10:26:51	Allocate Connectionidx:462, IP:188.166.68.252, LeftFreeCount:1195
+2025-09-03 10:27:01	Callback Connectionidx:462, CloseReason:2, IP:188.166.68.252, LeftFreeCount: 1196
+2025-09-03 10:27:01	Allocate Connectionidx:463, IP:188.166.68.252, LeftFreeCount:1195
+2025-09-03 10:27:01	Callback Connectionidx:463, CloseReason:2, IP:188.166.68.252, LeftFreeCount: 1196
+2025-09-03 10:27:01	Allocate Connectionidx:464, IP:188.166.68.252, LeftFreeCount:1195
+2025-09-03 10:27:11	Callback Connectionidx:464, CloseReason:2, IP:188.166.68.252, LeftFreeCount: 1196
+2025-09-03 10:27:11	Allocate Connectionidx:465, IP:188.166.68.252, LeftFreeCount:1195
+2025-09-03 10:27:11	Callback Connectionidx:465, CloseReason:2, IP:188.166.68.252, LeftFreeCount: 1196
+2025-09-03 10:27:11	Allocate Connectionidx:466, IP:188.166.68.252, LeftFreeCount:1195
+2025-09-03 10:27:21	Callback Connectionidx:466, CloseReason:2, IP:188.166.68.252, LeftFreeCount: 1196
+2025-09-03 10:27:21	Allocate Connectionidx:467, IP:188.166.68.252, LeftFreeCount:1195
+2025-09-03 10:27:22	Callback Connectionidx:467, CloseReason:2, IP:188.166.68.252, LeftFreeCount: 1196
+2025-09-03 11:40:17	Allocate Connectionidx:468, IP:35.203.210.35, LeftFreeCount:1195
+2025-09-03 11:40:25	Callback Connectionidx:468, CloseReason:5, IP:35.203.210.35, LeftFreeCount: 1196
+2025-09-03 11:41:47	Allocate Connectionidx:469, IP:35.203.210.35, LeftFreeCount:1195
+2025-09-03 11:41:49	Callback Connectionidx:469, CloseReason:5, IP:35.203.210.35, LeftFreeCount: 1196
+2025-09-03 14:50:30	Allocate Connectionidx:470, IP:91.238.181.96, LeftFreeCount:1195
+2025-09-03 14:50:30	Callback Connectionidx:470, CloseReason:3, IP:91.238.181.96, LeftFreeCount: 1196
+2025-09-03 16:20:40	Allocate Connectionidx:471, IP:47.251.33.142, LeftFreeCount:1195
+2025-09-03 16:20:44	Callback Connectionidx:471, CloseReason:5, IP:47.251.33.142, LeftFreeCount: 1196
+2025-09-03 16:20:54	Allocate Connectionidx:472, IP:47.251.33.142, LeftFreeCount:1195
+2025-09-03 16:20:57	Callback Connectionidx:472, CloseReason:5, IP:47.251.33.142, LeftFreeCount: 1196
+2025-09-03 16:21:07	Allocate Connectionidx:473, IP:47.251.33.142, LeftFreeCount:1195
+2025-09-03 16:21:10	Callback Connectionidx:473, CloseReason:5, IP:47.251.33.142, LeftFreeCount: 1196
+2025-09-03 16:21:20	Allocate Connectionidx:474, IP:47.251.33.142, LeftFreeCount:1195
+2025-09-03 16:21:20	Callback Connectionidx:474, CloseReason:3, IP:47.251.33.142, LeftFreeCount: 1196
+2025-09-03 16:40:10	Allocate Connectionidx:475, IP:185.243.96.116, LeftFreeCount:1195
+2025-09-03 16:40:10	Callback Connectionidx:475, CloseReason:3, IP:185.243.96.116, LeftFreeCount: 1196
+2025-09-03 16:57:59	Allocate Connectionidx:476, IP:185.243.96.116, LeftFreeCount:1195
+2025-09-03 16:57:59	Callback Connectionidx:476, CloseReason:3, IP:185.243.96.116, LeftFreeCount: 1196
+2025-09-03 16:58:00	Allocate Connectionidx:477, IP:185.243.96.116, LeftFreeCount:1195
+2025-09-03 16:58:00	Callback Connectionidx:477, CloseReason:3, IP:185.243.96.116, LeftFreeCount: 1196
+2025-09-03 17:20:08	Allocate Connectionidx:478, IP:138.197.24.249, LeftFreeCount:1195
+2025-09-03 17:20:18	Callback Connectionidx:478, CloseReason:2, IP:138.197.24.249, LeftFreeCount: 1196
+2025-09-03 17:20:18	Allocate Connectionidx:479, IP:138.197.24.249, LeftFreeCount:1195
+2025-09-03 17:20:18	Callback Connectionidx:479, CloseReason:2, IP:138.197.24.249, LeftFreeCount: 1196
+2025-09-03 17:20:18	Allocate Connectionidx:480, IP:138.197.24.249, LeftFreeCount:1195
+2025-09-03 17:20:28	Callback Connectionidx:480, CloseReason:2, IP:138.197.24.249, LeftFreeCount: 1196
+2025-09-03 17:20:28	Allocate Connectionidx:481, IP:138.197.24.249, LeftFreeCount:1195
+2025-09-03 17:20:28	Callback Connectionidx:481, CloseReason:2, IP:138.197.24.249, LeftFreeCount: 1196
+2025-09-03 17:20:28	Allocate Connectionidx:482, IP:138.197.24.249, LeftFreeCount:1195
+2025-09-03 17:20:38	Callback Connectionidx:482, CloseReason:2, IP:138.197.24.249, LeftFreeCount: 1196
+2025-09-03 17:20:38	Allocate Connectionidx:483, IP:138.197.24.249, LeftFreeCount:1195
+2025-09-03 17:20:38	Callback Connectionidx:483, CloseReason:2, IP:138.197.24.249, LeftFreeCount: 1196
+2025-09-03 19:49:58	Allocate Connectionidx:484, IP:167.94.145.100, LeftFreeCount:1195
+2025-09-03 19:50:01	Callback Connectionidx:484, CloseReason:5, IP:167.94.145.100, LeftFreeCount: 1196
+2025-09-03 19:50:05	Allocate Connectionidx:485, IP:167.94.145.100, LeftFreeCount:1195
+2025-09-03 19:50:15	Callback Connectionidx:485, CloseReason:5, IP:167.94.145.100, LeftFreeCount: 1196
+2025-09-03 23:33:25	Allocate Connectionidx:486, IP:35.203.210.51, LeftFreeCount:1195
+2025-09-03 23:33:29	Callback Connectionidx:486, CloseReason:5, IP:35.203.210.51, LeftFreeCount: 1196
+2025-09-03 23:34:25	Allocate Connectionidx:487, IP:35.203.210.51, LeftFreeCount:1195
+2025-09-03 23:34:25	Callback Connectionidx:487, CloseReason:5, IP:35.203.210.51, LeftFreeCount: 1196
+2025-09-04 00:07:23	Allocate Connectionidx:488, IP:2.57.121.247, LeftFreeCount:1195
+2025-09-04 00:07:23	Callback Connectionidx:488, CloseReason:3, IP:2.57.121.247, LeftFreeCount: 1196
+2025-09-04 03:08:38	Allocate Connectionidx:489, IP:104.250.164.117, LeftFreeCount:1195
+2025-09-04 03:08:44	Callback Connectionidx:489, CloseReason:5, IP:104.250.164.117, LeftFreeCount: 1196
+2025-09-04 12:21:55	Allocate Connectionidx:490, IP:147.185.133.165, LeftFreeCount:1195
+2025-09-04 12:21:59	Callback Connectionidx:490, CloseReason:5, IP:147.185.133.165, LeftFreeCount: 1196
+2025-09-04 12:22:55	Allocate Connectionidx:491, IP:147.185.133.165, LeftFreeCount:1195
+2025-09-04 12:22:55	Callback Connectionidx:491, CloseReason:5, IP:147.185.133.165, LeftFreeCount: 1196
+2025-09-04 13:06:04	Allocate Connectionidx:492, IP:206.168.34.201, LeftFreeCount:1195
+2025-09-04 13:06:08	Callback Connectionidx:492, CloseReason:5, IP:206.168.34.201, LeftFreeCount: 1196
+2025-09-04 13:06:12	Allocate Connectionidx:493, IP:206.168.34.201, LeftFreeCount:1195
+2025-09-04 13:06:23	Callback Connectionidx:493, CloseReason:5, IP:206.168.34.201, LeftFreeCount: 1196
+2025-09-04 13:06:26	Allocate Connectionidx:494, IP:206.168.34.201, LeftFreeCount:1195
+2025-09-04 13:06:26	Callback Connectionidx:494, CloseReason:5, IP:206.168.34.201, LeftFreeCount: 1196
+2025-09-04 14:11:39	Allocate Connectionidx:495, IP:172.104.11.51, LeftFreeCount:1195
+2025-09-04 14:11:40	Callback Connectionidx:495, CloseReason:2, IP:172.104.11.51, LeftFreeCount: 1196
+2025-09-04 14:11:40	Allocate Connectionidx:496, IP:172.104.11.51, LeftFreeCount:1195
+2025-09-04 14:11:40	Callback Connectionidx:496, CloseReason:2, IP:172.104.11.51, LeftFreeCount: 1196
+2025-09-04 14:20:00	Allocate Connectionidx:497, IP:66.228.53.136, LeftFreeCount:1195
+2025-09-04 14:20:30	Callback Connectionidx:497, CloseReason:2, IP:66.228.53.136, LeftFreeCount: 1196
+2025-09-04 14:20:30	Allocate Connectionidx:498, IP:66.228.53.136, LeftFreeCount:1195
+2025-09-04 14:20:30	Callback Connectionidx:498, CloseReason:2, IP:66.228.53.136, LeftFreeCount: 1196
+2025-09-04 15:32:32	Allocate Connectionidx:499, IP:45.33.12.122, LeftFreeCount:1195
+2025-09-04 15:32:33	Callback Connectionidx:499, CloseReason:5, IP:45.33.12.122, LeftFreeCount: 1196
+2025-09-04 18:55:46	Allocate Connectionidx:500, IP:185.180.141.7, LeftFreeCount:1195
+2025-09-04 18:55:46	Callback Connectionidx:500, CloseReason:2, IP:185.180.141.7, LeftFreeCount: 1196
+2025-09-04 18:55:46	Allocate Connectionidx:501, IP:185.180.141.9, LeftFreeCount:1195
+2025-09-04 18:55:54	Callback Connectionidx:501, CloseReason:2, IP:185.180.141.9, LeftFreeCount: 1196
+2025-09-04 18:55:54	Allocate Connectionidx:502, IP:185.180.141.7, LeftFreeCount:1195
+2025-09-04 18:55:54	Callback Connectionidx:502, CloseReason:2, IP:185.180.141.7, LeftFreeCount: 1196
+2025-09-04 18:55:54	Allocate Connectionidx:503, IP:185.180.141.8, LeftFreeCount:1195
+2025-09-04 18:55:54	Allocate Connectionidx:504, IP:185.180.141.7, LeftFreeCount:1194
+2025-09-04 18:55:58	Callback Connectionidx:503, CloseReason:2, IP:185.180.141.8, LeftFreeCount: 1195
+2025-09-04 18:55:59	Callback Connectionidx:504, CloseReason:2, IP:185.180.141.7, LeftFreeCount: 1196
+2025-09-04 18:55:59	Allocate Connectionidx:505, IP:185.180.141.7, LeftFreeCount:1195
+2025-09-04 18:56:07	Callback Connectionidx:505, CloseReason:2, IP:185.180.141.7, LeftFreeCount: 1196
+2025-09-04 18:56:07	Allocate Connectionidx:506, IP:185.180.141.10, LeftFreeCount:1195
+2025-09-04 18:56:12	Callback Connectionidx:506, CloseReason:2, IP:185.180.141.10, LeftFreeCount: 1196
+2025-09-04 18:56:12	Allocate Connectionidx:507, IP:185.180.141.7, LeftFreeCount:1195
+2025-09-04 18:56:12	Callback Connectionidx:507, CloseReason:5, IP:185.180.141.7, LeftFreeCount: 1196
+2025-09-04 18:56:12	Allocate Connectionidx:508, IP:185.180.141.9, LeftFreeCount:1195
+2025-09-04 18:56:12	Callback Connectionidx:508, CloseReason:2, IP:185.180.141.9, LeftFreeCount: 1196
+2025-09-04 18:56:12	Allocate Connectionidx:509, IP:185.180.141.7, LeftFreeCount:1195
+2025-09-04 18:56:17	Callback Connectionidx:509, CloseReason:2, IP:185.180.141.7, LeftFreeCount: 1196
+2025-09-05 00:01:47	Allocate Connectionidx:510, IP:35.203.211.246, LeftFreeCount:1195
+2025-09-05 00:01:52	Callback Connectionidx:510, CloseReason:5, IP:35.203.211.246, LeftFreeCount: 1196
+2025-09-05 00:02:53	Allocate Connectionidx:511, IP:35.203.211.246, LeftFreeCount:1195
+2025-09-05 00:02:53	Callback Connectionidx:511, CloseReason:5, IP:35.203.211.246, LeftFreeCount: 1196
+2025-09-05 03:25:27	Allocate Connectionidx:512, IP:104.250.164.117, LeftFreeCount:1195
+2025-09-05 03:25:35	Callback Connectionidx:512, CloseReason:5, IP:104.250.164.117, LeftFreeCount: 1196
+2025-09-05 03:46:33	Allocate Connectionidx:513, IP:172.202.117.171, LeftFreeCount:1195
+2025-09-05 03:46:43	Callback Connectionidx:513, CloseReason:2, IP:172.202.117.171, LeftFreeCount: 1196
+2025-09-05 09:39:00	Allocate Connectionidx:514, IP:206.168.34.222, LeftFreeCount:1195
+2025-09-05 09:39:04	Callback Connectionidx:514, CloseReason:5, IP:206.168.34.222, LeftFreeCount: 1196
+2025-09-05 09:39:10	Allocate Connectionidx:515, IP:206.168.34.222, LeftFreeCount:1195
+2025-09-05 09:39:20	Callback Connectionidx:515, CloseReason:5, IP:206.168.34.222, LeftFreeCount: 1196
+2025-09-05 10:43:13	Allocate Connectionidx:516, IP:147.185.133.202, LeftFreeCount:1195
+2025-09-05 10:43:21	Callback Connectionidx:516, CloseReason:5, IP:147.185.133.202, LeftFreeCount: 1196
+2025-09-05 10:44:54	Allocate Connectionidx:517, IP:147.185.133.202, LeftFreeCount:1195
+2025-09-05 10:44:54	Callback Connectionidx:517, CloseReason:5, IP:147.185.133.202, LeftFreeCount: 1196
+2025-09-05 13:44:16	Allocate Connectionidx:518, IP:87.236.176.18, LeftFreeCount:1195
+2025-09-05 13:44:18	Callback Connectionidx:518, CloseReason:2, IP:87.236.176.18, LeftFreeCount: 1196
+2025-09-05 16:19:11	Allocate Connectionidx:519, IP:168.76.20.229, LeftFreeCount:1195
+2025-09-05 16:19:11	Callback Connectionidx:519, CloseReason:2, IP:168.76.20.229, LeftFreeCount: 1196
+2025-09-05 22:30:08	Allocate Connectionidx:520, IP:37.60.141.105, LeftFreeCount:1195
+2025-09-05 22:30:08	Callback Connectionidx:520, CloseReason:3, IP:37.60.141.105, LeftFreeCount: 1196
+2025-09-05 22:35:51	Allocate Connectionidx:521, IP:79.124.49.194, LeftFreeCount:1195
+2025-09-05 22:35:59	Callback Connectionidx:521, CloseReason:5, IP:79.124.49.194, LeftFreeCount: 1196
+2025-09-06 01:10:17	Allocate Connectionidx:522, IP:35.203.211.159, LeftFreeCount:1195
+2025-09-06 01:10:41	Callback Connectionidx:522, CloseReason:5, IP:35.203.211.159, LeftFreeCount: 1196
+2025-09-06 01:11:26	Allocate Connectionidx:523, IP:35.203.211.159, LeftFreeCount:1195
+2025-09-06 01:11:26	Callback Connectionidx:523, CloseReason:5, IP:35.203.211.159, LeftFreeCount: 1196
+2025-09-06 07:45:54	Allocate Connectionidx:524, IP:199.45.155.73, LeftFreeCount:1195
+2025-09-06 07:45:58	Callback Connectionidx:524, CloseReason:5, IP:199.45.155.73, LeftFreeCount: 1196
+2025-09-06 07:46:02	Allocate Connectionidx:525, IP:199.45.155.73, LeftFreeCount:1195
+2025-09-06 07:46:13	Callback Connectionidx:525, CloseReason:5, IP:199.45.155.73, LeftFreeCount: 1196
+2025-09-06 11:35:38	Allocate Connectionidx:526, IP:35.203.210.12, LeftFreeCount:1195
+2025-09-06 11:35:43	Callback Connectionidx:526, CloseReason:5, IP:35.203.210.12, LeftFreeCount: 1196
+2025-09-06 11:36:48	Allocate Connectionidx:527, IP:35.203.210.12, LeftFreeCount:1195
+2025-09-06 11:36:48	Callback Connectionidx:527, CloseReason:5, IP:35.203.210.12, LeftFreeCount: 1196
+2025-09-06 16:39:34	Allocate Connectionidx:528, IP:88.214.25.123, LeftFreeCount:1195
+2025-09-06 16:39:34	Callback Connectionidx:528, CloseReason:3, IP:88.214.25.123, LeftFreeCount: 1196
+2025-09-06 22:29:21	Allocate Connectionidx:529, IP:86.54.25.147, LeftFreeCount:1195
+2025-09-06 22:29:21	Callback Connectionidx:529, CloseReason:3, IP:86.54.25.147, LeftFreeCount: 1196
+2025-09-06 22:33:14	Allocate Connectionidx:530, IP:86.54.25.147, LeftFreeCount:1195
+2025-09-06 22:33:15	Callback Connectionidx:530, CloseReason:5, IP:86.54.25.147, LeftFreeCount: 1196
+2025-09-06 23:46:15	Allocate Connectionidx:531, IP:147.185.132.172, LeftFreeCount:1195
+2025-09-06 23:46:15	Callback Connectionidx:531, CloseReason:5, IP:147.185.132.172, LeftFreeCount: 1196
+2025-09-06 23:47:13	Allocate Connectionidx:532, IP:147.185.132.172, LeftFreeCount:1195
+2025-09-06 23:47:13	Callback Connectionidx:532, CloseReason:5, IP:147.185.132.172, LeftFreeCount: 1196
+2025-09-07 01:36:45	Allocate Connectionidx:533, IP:93.123.109.123, LeftFreeCount:1195
+2025-09-07 01:36:50	Callback Connectionidx:533, CloseReason:2, IP:93.123.109.123, LeftFreeCount: 1196
+2025-09-07 08:27:39	Allocate Connectionidx:534, IP:167.94.138.127, LeftFreeCount:1195
+2025-09-07 08:27:43	Callback Connectionidx:534, CloseReason:5, IP:167.94.138.127, LeftFreeCount: 1196
+2025-09-07 08:27:47	Allocate Connectionidx:535, IP:167.94.138.127, LeftFreeCount:1195
+2025-09-07 08:27:58	Callback Connectionidx:535, CloseReason:5, IP:167.94.138.127, LeftFreeCount: 1196
+2025-09-07 08:53:25	Allocate Connectionidx:536, IP:162.142.125.122, LeftFreeCount:1195
+2025-09-07 08:53:29	Callback Connectionidx:536, CloseReason:5, IP:162.142.125.122, LeftFreeCount: 1196
+2025-09-07 08:53:32	Allocate Connectionidx:537, IP:162.142.125.122, LeftFreeCount:1195
+2025-09-07 08:53:43	Callback Connectionidx:537, CloseReason:5, IP:162.142.125.122, LeftFreeCount: 1196
+2025-09-07 10:27:32	Allocate Connectionidx:538, IP:162.216.150.141, LeftFreeCount:1195
+2025-09-07 10:28:03	Callback Connectionidx:538, CloseReason:5, IP:162.216.150.141, LeftFreeCount: 1196
+2025-09-07 10:39:30	Allocate Connectionidx:539, IP:162.216.149.200, LeftFreeCount:1195
+2025-09-07 10:39:34	Callback Connectionidx:539, CloseReason:5, IP:162.216.149.200, LeftFreeCount: 1196
+2025-09-07 10:40:31	Allocate Connectionidx:540, IP:162.216.149.200, LeftFreeCount:1195
+2025-09-07 10:40:31	Callback Connectionidx:540, CloseReason:5, IP:162.216.149.200, LeftFreeCount: 1196
+2025-09-07 22:28:10	Allocate Connectionidx:541, IP:45.227.254.156, LeftFreeCount:1195
+2025-09-07 22:28:10	Callback Connectionidx:541, CloseReason:3, IP:45.227.254.156, LeftFreeCount: 1196
+2025-09-08 02:02:04	Allocate Connectionidx:542, IP:147.185.132.221, LeftFreeCount:1195
+2025-09-08 02:02:04	Callback Connectionidx:542, CloseReason:5, IP:147.185.132.221, LeftFreeCount: 1196
+2025-09-08 02:03:02	Allocate Connectionidx:543, IP:147.185.132.221, LeftFreeCount:1195
+2025-09-08 02:03:03	Callback Connectionidx:543, CloseReason:5, IP:147.185.132.221, LeftFreeCount: 1196
+2025-09-08 02:53:56	Allocate Connectionidx:544, IP:138.197.15.182, LeftFreeCount:1195
+2025-09-08 02:54:06	Callback Connectionidx:544, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1196
+2025-09-08 02:54:06	Allocate Connectionidx:545, IP:138.197.15.182, LeftFreeCount:1195
+2025-09-08 02:54:06	Callback Connectionidx:545, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1196
+2025-09-08 02:54:06	Allocate Connectionidx:546, IP:138.197.15.182, LeftFreeCount:1195
+2025-09-08 02:54:16	Callback Connectionidx:546, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1196
+2025-09-08 02:54:16	Allocate Connectionidx:547, IP:138.197.15.182, LeftFreeCount:1195
+2025-09-08 02:54:16	Callback Connectionidx:547, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1196
+2025-09-08 02:54:16	Allocate Connectionidx:548, IP:138.197.15.182, LeftFreeCount:1195
+2025-09-08 02:54:26	Callback Connectionidx:548, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1196
+2025-09-08 02:54:26	Allocate Connectionidx:549, IP:138.197.15.182, LeftFreeCount:1195
+2025-09-08 02:54:26	Callback Connectionidx:549, CloseReason:2, IP:138.197.15.182, LeftFreeCount: 1196
+2025-09-08 07:51:13	Allocate Connectionidx:550, IP:79.124.49.194, LeftFreeCount:1195
+2025-09-08 07:51:21	Callback Connectionidx:550, CloseReason:5, IP:79.124.49.194, LeftFreeCount: 1196
+2025-09-08 08:22:30	Allocate Connectionidx:551, IP:206.168.34.71, LeftFreeCount:1195
+2025-09-08 08:22:34	Callback Connectionidx:551, CloseReason:5, IP:206.168.34.71, LeftFreeCount: 1196
+2025-09-08 08:22:40	Allocate Connectionidx:552, IP:206.168.34.71, LeftFreeCount:1195
+2025-09-08 08:22:50	Callback Connectionidx:552, CloseReason:5, IP:206.168.34.71, LeftFreeCount: 1196
+2025-09-08 09:57:29	Allocate Connectionidx:553, IP:135.237.127.87, LeftFreeCount:1195
+2025-09-08 09:57:39	Callback Connectionidx:553, CloseReason:2, IP:135.237.127.87, LeftFreeCount: 1196
+2025-09-08 10:41:07	Allocate Connectionidx:554, IP:87.236.176.132, LeftFreeCount:1195
+2025-09-08 10:41:09	Callback Connectionidx:554, CloseReason:2, IP:87.236.176.132, LeftFreeCount: 1196
+2025-09-08 11:33:47	Allocate Connectionidx:555, IP:47.91.30.193, LeftFreeCount:1195
+2025-09-08 11:33:50	Callback Connectionidx:555, CloseReason:5, IP:47.91.30.193, LeftFreeCount: 1196
+2025-09-08 11:34:00	Allocate Connectionidx:556, IP:47.91.30.193, LeftFreeCount:1195
+2025-09-08 11:34:03	Callback Connectionidx:556, CloseReason:5, IP:47.91.30.193, LeftFreeCount: 1196
+2025-09-08 11:34:13	Allocate Connectionidx:557, IP:47.91.30.193, LeftFreeCount:1195
+2025-09-08 11:34:16	Callback Connectionidx:557, CloseReason:5, IP:47.91.30.193, LeftFreeCount: 1196
+2025-09-08 11:34:27	Allocate Connectionidx:558, IP:47.91.30.193, LeftFreeCount:1195
+2025-09-08 11:34:27	Callback Connectionidx:558, CloseReason:3, IP:47.91.30.193, LeftFreeCount: 1196
+2025-09-08 11:34:57	Allocate Connectionidx:559, IP:87.236.176.210, LeftFreeCount:1195
+2025-09-08 11:34:59	Callback Connectionidx:559, CloseReason:2, IP:87.236.176.210, LeftFreeCount: 1196

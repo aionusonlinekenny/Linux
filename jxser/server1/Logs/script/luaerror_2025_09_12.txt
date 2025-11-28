@@ -1,0 +1,76 @@
+[2025-09-12 01:16:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-12 05:30:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-12 11:00:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-12 16:00:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-12 17:15:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-12 19:45:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-13 01:16:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-13 05:30:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-13 11:00:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-13 16:00:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-13 17:15:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-13 19:45:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-14 01:16:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-14 05:30:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-14 11:00:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-14 16:00:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-14 17:15:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-14 19:45:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+
+[2025-09-15 01:16:08] error: attempt to call global `BauCuaKhoiDong' (a nil value)
+stack traceback:
+   1[151]:  main of string "?" at line 1
+

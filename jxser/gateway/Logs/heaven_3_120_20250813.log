@@ -1,0 +1,47 @@
+2025-08-13 18:59:20	heaven(version 2.02) log start....
+2025-08-14 00:55:32	Allocate Connectionidx:0, IP:91.238.181.96, LeftFreeCount:119
+2025-08-14 00:55:32	Callback Connectionidx:0, CloseReason:5, IP:91.238.181.96, LeftFreeCount: 120
+2025-08-15 05:05:59	Allocate Connectionidx:1, IP:194.165.16.161, LeftFreeCount:119
+2025-08-15 05:06:00	Callback Connectionidx:1, CloseReason:5, IP:194.165.16.161, LeftFreeCount: 120
+2025-08-16 07:35:01	Allocate Connectionidx:2, IP:194.165.16.161, LeftFreeCount:119
+2025-08-16 07:35:01	Callback Connectionidx:2, CloseReason:5, IP:194.165.16.161, LeftFreeCount: 120
+2025-08-17 10:16:13	Allocate Connectionidx:3, IP:88.214.25.123, LeftFreeCount:119
+2025-08-17 10:16:13	Callback Connectionidx:3, CloseReason:5, IP:88.214.25.123, LeftFreeCount: 120
+2025-08-18 12:15:44	Allocate Connectionidx:4, IP:194.165.16.164, LeftFreeCount:119
+2025-08-18 12:15:44	Callback Connectionidx:4, CloseReason:5, IP:194.165.16.164, LeftFreeCount: 120
+2025-08-19 16:29:39	Allocate Connectionidx:5, IP:194.165.16.161, LeftFreeCount:119
+2025-08-19 16:29:39	Callback Connectionidx:5, CloseReason:5, IP:194.165.16.161, LeftFreeCount: 120
+2025-08-20 20:58:03	Allocate Connectionidx:6, IP:45.227.254.156, LeftFreeCount:119
+2025-08-20 20:58:03	Callback Connectionidx:6, CloseReason:5, IP:45.227.254.156, LeftFreeCount: 120
+2025-08-22 02:07:31	Allocate Connectionidx:7, IP:91.238.181.93, LeftFreeCount:119
+2025-08-22 02:07:31	Callback Connectionidx:7, CloseReason:5, IP:91.238.181.93, LeftFreeCount: 120
+2025-08-22 21:29:57	Allocate Connectionidx:8, IP:109.205.211.6, LeftFreeCount:119
+2025-08-22 21:29:57	Callback Connectionidx:8, CloseReason:2, IP:109.205.211.6, LeftFreeCount: 120
+2025-08-23 03:42:32	Allocate Connectionidx:9, IP:45.227.254.152, LeftFreeCount:119
+2025-08-23 03:42:32	Callback Connectionidx:9, CloseReason:5, IP:45.227.254.152, LeftFreeCount: 120
+2025-08-24 07:24:59	Allocate Connectionidx:10, IP:194.165.16.166, LeftFreeCount:119
+2025-08-24 07:24:59	Callback Connectionidx:10, CloseReason:5, IP:194.165.16.166, LeftFreeCount: 120
+2025-08-25 10:31:18	Allocate Connectionidx:11, IP:88.214.25.125, LeftFreeCount:119
+2025-08-25 10:31:18	Callback Connectionidx:11, CloseReason:5, IP:88.214.25.125, LeftFreeCount: 120
+2025-08-26 23:38:03	Allocate Connectionidx:12, IP:194.165.16.165, LeftFreeCount:119
+2025-08-26 23:38:03	Callback Connectionidx:12, CloseReason:5, IP:194.165.16.165, LeftFreeCount: 120
+2025-08-28 08:31:53	Allocate Connectionidx:13, IP:45.227.254.152, LeftFreeCount:119
+2025-08-28 08:31:53	Callback Connectionidx:13, CloseReason:5, IP:45.227.254.152, LeftFreeCount: 120
+2025-08-29 13:25:52	Allocate Connectionidx:14, IP:194.165.16.162, LeftFreeCount:119
+2025-08-29 13:25:53	Callback Connectionidx:14, CloseReason:5, IP:194.165.16.162, LeftFreeCount: 120
+2025-08-30 17:01:32	Allocate Connectionidx:15, IP:194.165.16.167, LeftFreeCount:119
+2025-08-30 17:01:33	Callback Connectionidx:15, CloseReason:5, IP:194.165.16.167, LeftFreeCount: 120
+2025-08-31 01:07:01	Allocate Connectionidx:16, IP:109.205.213.117, LeftFreeCount:119
+2025-08-31 01:07:01	Callback Connectionidx:16, CloseReason:5, IP:109.205.213.117, LeftFreeCount: 120
+2025-08-31 22:58:32	Allocate Connectionidx:17, IP:194.165.16.161, LeftFreeCount:119
+2025-08-31 22:58:32	Callback Connectionidx:17, CloseReason:5, IP:194.165.16.161, LeftFreeCount: 120
+2025-09-02 02:12:37	Allocate Connectionidx:18, IP:194.165.16.167, LeftFreeCount:119
+2025-09-02 02:12:37	Callback Connectionidx:18, CloseReason:5, IP:194.165.16.167, LeftFreeCount: 120
+2025-09-03 07:49:15	Allocate Connectionidx:19, IP:88.214.25.125, LeftFreeCount:119
+2025-09-03 07:49:15	Callback Connectionidx:19, CloseReason:5, IP:88.214.25.125, LeftFreeCount: 120
+2025-09-04 21:19:52	Allocate Connectionidx:20, IP:194.165.16.166, LeftFreeCount:119
+2025-09-04 21:19:52	Callback Connectionidx:20, CloseReason:5, IP:194.165.16.166, LeftFreeCount: 120
+2025-09-06 09:28:38	Allocate Connectionidx:21, IP:45.227.254.152, LeftFreeCount:119
+2025-09-06 09:28:38	Callback Connectionidx:21, CloseReason:5, IP:45.227.254.152, LeftFreeCount: 120
+2025-09-07 17:24:55	Allocate Connectionidx:22, IP:88.214.25.121, LeftFreeCount:119
+2025-09-07 17:24:55	Callback Connectionidx:22, CloseReason:5, IP:88.214.25.121, LeftFreeCount: 120

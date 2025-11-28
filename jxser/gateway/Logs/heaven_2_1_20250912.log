@@ -1,0 +1,19 @@
+2025-09-12 00:12:36	heaven(version 2.02) log start....
+2025-09-12 08:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-12 08:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-12 16:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-12 16:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-13 00:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-13 00:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-13 08:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-13 08:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-13 16:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-13 16:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-14 00:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-14 00:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-14 08:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-14 08:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-14 16:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-14 16:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2025-09-15 00:12:36	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2025-09-15 00:12:39	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
